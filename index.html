@@ -913,7 +913,25 @@
             <input type="email" name="email" class="form-control" placeholder="Email Address" required data-error="Valid email is required.">
           </div>
           <div class="form-group">
-            <textarea class="form-control" name="message" required rows="1" placeholder="Your Message"></textarea>
+            <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Please provide the ff: &#10; -Location &#10; -Measurements &#10; -Color &#10; -Profile (Cladding or Decking) &#10; -If Pick up / Shipment / Delivery &#10; -If with installation" maxlength="500"></textarea>
+              Remaining characters: <span id="count"></span>
+              <script>
+                  var maxchar = 500;
+                  var i = document.getElementById("textinput");
+                  var c = document.getElementById("count");
+                  c.innerHTML = maxchar;
+
+                  i.addEventListener("keydown",count);
+
+                  function count(e){
+                    var len =  i.value.length;
+                    if (len >= maxchar){
+                        e.preventDefault();
+                    } else{
+                        c.innerHTML = maxchar - len-1;
+                    }
+                    }
+              </script>
           </div>
           <div class="form-group">
             <label>
