@@ -707,12 +707,13 @@
             <input type="email" name="email" class="form-control" placeholder="Email Address" required data-error="Valid email is required.">
           </div>
           <div class="form-group">
-            <textarea class="form-control" name="message" required rows="1" placeholder="Your Message"></textarea>
+            <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Please provide the ff: &#10; -Location &#10; -Measurements &#10; -Color &#10; -Profile (Cladding or Decking) &#10; -If Pick up / Shipment / Delivery &#10; -If with installation" maxlength="500"></textarea>
+              Remaining characters: <span id="count"></span>
           </div>
           <div class="form-group">
             <label>
               <input type="checkbox" required data-error="checkbox is required.">
-              <em>I agree with the <a data-dismiss="modal" data-toggle="modal" data-target=".bs-example-modal-md-5" >(privacy policy)</a></em></label>
+              <em>I agree with the <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-5">(privacy policy)</a></em></label>
           </div>
           <button class="tg-theme-btn tg-theme-btn-lg" type="submit">Submit</button>
         </fieldset>
@@ -868,7 +869,8 @@
 <script src="js/counter.js"></script> 
 <script src="dist/color-switcher.js"></script>
 <script src="js/smoothscroll.js"></script>
-<script src="js/script.js"></script> 
+<script src="js/script.js"></script>
+<script src="js/messageCounter.js"></script>
 <!--jquery end-->
 </body>
 

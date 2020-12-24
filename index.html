@@ -915,23 +915,6 @@
           <div class="form-group">
             <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Please provide the ff: &#10; -Location &#10; -Measurements &#10; -Color &#10; -Profile (Cladding or Decking) &#10; -If Pick up / Shipment / Delivery &#10; -If with installation" maxlength="500"></textarea>
               Remaining characters: <span id="count"></span>
-              <script>
-                  var maxchar = 500;
-                  var i = document.getElementById("textinput");
-                  var c = document.getElementById("count");
-                  c.innerHTML = maxchar;
-
-                  i.addEventListener("keydown",count);
-
-                  function count(e){
-                    var len =  i.value.length;
-                    if (len >= maxchar){
-                        e.preventDefault();
-                    } else{
-                        c.innerHTML = maxchar - len-1;
-                    }
-                    }
-              </script>
           </div>
           <div class="form-group">
             <label>
@@ -1111,6 +1094,7 @@
 <script src="js/smoothscroll.js"></script>
 <script src="js/script.js"></script>
 <script src="js/custom1.js"></script>
+<script src="js/messageCounter.js"></script>
     <script type = "text/javascript">
             function comfirmFunc() {
                window.open("https://shopee.ph/Wood-Plastic-Composite-(WPC)-SAMPLE-Decking-or-Cladding-i.74758878.4843042912", '_blank');
