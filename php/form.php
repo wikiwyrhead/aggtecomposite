@@ -7,7 +7,8 @@
     $to_email = "jjanzen.go@gmail.com";
     $subject = "New Quote";
     $phoneNumber = $_POST['phone_number'];
-    $message = "From: $email\n" . "Client Number: $phoneNumber\n" . "Client Sender: " . $_POST['name'] . "\n\n" . "Message: \n\n" .  $_POST['message'];
+    $call = $_POST['call'];
+    $message = "From: $email\n" . "Client Number: $phoneNumber\n" . "Client Sender: $name \n". "Call Back?: $call\n" . "\n\n" . "Message: \n\n" .  $_POST['message'];
     $headers = 'WPC Cladding & Decking Website <no-reply@aggtrading.com>';
 
 
