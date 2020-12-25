@@ -636,11 +636,23 @@
           <div class="form-group">
             <input type="text" name="phone_number" class="form-control" placeholder="Phone Number " required data-error="Phone Number is required.">
           </div>
+
           <div class="form-group">
             <input type="email" name="email" class="form-control" placeholder="Email Address" required data-error="Valid email is required.">
           </div>
+
+            <! --Adding Radio button For Call Back -->
+            <div class="form-group">
+                        <label>Request Phone Call?: <br>
+                        <input type="radio" value ="Yes " required data-error="required." name="call">
+                       <em>Yes</em><br>
+                    <input type="radio" value ="No" required data-error="required." name="call">
+                       <em>No</em><br>
+                        </label>
+              </div>
+
           <div class="form-group">
-            <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Please provide the ff: &#10; -Location &#10; -Measurements &#10; -Color &#10; -Profile (Cladding or Decking) &#10; -If Pick up / Shipment / Delivery &#10; -If with installation" maxlength="500"></textarea>
+            <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Please provide the ff: &#10; -Location &#10; -Dimension (Total Area less openings, All side running meters for endcap computation) &#10; -Color &#10; -Profile (Cladding or Decking) &#10; -If Pick up / Shipment / Delivery &#10; -If with installation" maxlength="500"></textarea>
               Remaining characters: <span id="count"></span>
           </div>
           <div class="form-group">

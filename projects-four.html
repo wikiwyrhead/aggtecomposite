@@ -600,37 +600,50 @@
   </div>
   <!--registration-modal end--> 
   <!--quote-modal start-->
-  <div class="modal fade bs-example-modal-md-2" tabindex="-1" role="dialog">
-    <div class="modal-dialog modal-md-2" role="document">
-      <div class="modal-content">
-        <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
-        <h2 class="modal-title">GET A FREE QUOTE</h2>
-        <form class="login-form">
-          <fieldset>
+<div class="modal fade bs-example-modal-md-2" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-md-2" role="document">
+    <div class="modal-content">
+      <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
+      <h2 class="modal-title">GET A FREE QUOTE</h2>
+      <form class="login-form" method="post" action="php/form.php" name="quote-form" role="form">
+        <fieldset>
+          <div class="form-group">
+            <input type="text" name="name" class="form-control" placeholder="Your Name" required data-error="Your Name is required.">
+          </div>
+          <div class="form-group">
+            <input type="text" name="phone_number" class="form-control" placeholder="Phone Number " required data-error="Phone Number is required.">
+          </div>
+
+          <div class="form-group">
+            <input type="email" name="email" class="form-control" placeholder="Email Address" required data-error="Valid email is required.">
+          </div>
+
+            <! --Adding Radio button For Call Back -->
             <div class="form-group">
-              <input type="text" name="name" class="form-control" placeholder="Your Name" required data-error="Your Name is required.">
-            </div>
-            <div class="form-group">
-              <input type="text" name="name" class="form-control" placeholder="Phone Number " required data-error="Phone Number is required.">
-            </div>
-            <div class="form-group">
-              <input type="email" name="email" class="form-control" placeholder="Email Address" required data-error="Valid email is required.">
-            </div>
-            <div class="form-group">
-              <textarea class="form-control" name="message" required rows="1" placeholder="Your Message"></textarea>
-            </div>
-            <div class="form-group">
-              <label>
-                <input type="checkbox" data-error="Last Name is required.">
-                <em>I agree with the terms and conditions</em></label>
-            </div>
-            <button class="tg-theme-btn tg-theme-btn-lg" type="submit">Submit</button>
-          </fieldset>
-        </form>
-      </div>
+                        <label>Request Phone Call?: <br>
+                        <input type="radio" value ="Yes " required data-error="required." name="call">
+                       <em>Yes</em><br>
+                    <input type="radio" value ="No" required data-error="required." name="call">
+                       <em>No</em><br>
+                        </label>
+              </div>
+
+          <div class="form-group">
+            <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Please provide the ff: &#10; -Location &#10; -Dimension (Total Area less openings, All side running meters for endcap computation) &#10; -Color &#10; -Profile (Cladding or Decking) &#10; -If Pick up / Shipment / Delivery &#10; -If with installation" maxlength="500"></textarea>
+              Remaining characters: <span id="count"></span>
+          </div>
+          <div class="form-group">
+            <label>
+              <input type="checkbox" required data-error="checkbox is required.">
+              <em>I agree with the <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-5">(privacy policy)</a></em></label>
+          </div>
+          <button class="tg-theme-btn tg-theme-btn-lg" type="submit">Submit</button>
+        </fieldset>
+      </form>
     </div>
   </div>
-  <!--quote-modal end--> 
+</div>
+<!--quote-modal end-->
 </div>
 <!--scroll-to-top start-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
