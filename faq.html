@@ -360,7 +360,7 @@
               <div class="faqs-content">
                 <div class="content">
                   <p style="text-indent: 30px">We endeavour to dispatch all in-stock orders within 1 working day, however we advise that you should allow 3-5 working days for delivery after you have ordered. After your order has been picked our service team will contact you with a suggested delivery date and approximate time and discuss any special requirements that you may have. We will generally call you on the day of your delivery to confirm all details. <br>
-                 <p style="text-indent: 30px">AGGTE® composite decking planks are heavy/bulky items and we advise anyone assisting in the unloading to wear suitable gloves and clothing. If the vehicle is invited on to the customer’s property it is entirely at the risk of the customer. NeoTimber and its delivery agents will not be liable for any damage to the property.</p>
+                 <p style="text-indent: 30px">AGGTE® composite decking planks are heavy/bulky items and we advise anyone assisting in the unloading to wear suitable gloves and clothing. If the vehicle is invited on to the customer’s property it is entirely at the risk of the customer. AGGTE and its delivery agents will not be liable for any damage to the property.</p>
                 <p style="text-indent: 30px">Alternatively – items can be collected from our warehouse in Taal Batangas upon arrangement. Please call us on 09163770871 to discuss this service if you require.</p>
                 </div>
               </div>
@@ -435,15 +435,25 @@
        <div class="side-bar"> 
             <!-- Search -->
             <div class="side-barBox">
-              <h5 class="side-barTitle">Send your Message</h5>
+              <h5 class="side-barTitle">Got Questions?</h5>
               <div class="search">
               
               
                 
-                <form action="#" method="POST" id="xs-contact-form" class="xs-form">
-                            <input type="text" class="form-control" name="name" placeholder="Your name" id="xs_contact_name">
-                            <input type="email" class="form-control" name="email" placeholder="Your email" id="xs_contact_email">
-                            <textarea name="massage" placeholder="Your Question" id="x_contact_massage" class="form-control message-box" cols="30" rows="10"></textarea>
+                <form action="php/faq.php" method="POST" id="xs-contact-form" class="xs-form">
+                            <input required type="text" class="form-control" name="name" placeholder="Name" id="xs_contact_name">
+                            <input required  type="email" class="form-control" name="email" placeholder="Email" id="xs_contact_email">
+                            <input required type="text" class="form-control" name="phone_number" placeholder="Contact Number" id="xs_contact_email">
+
+                     <div class="form-group">
+                        <label>Request Phone Call?:</label> <br>
+                        <input type="radio" value="Yes" name="call">
+                        <label for="Yes">Yes</label><br>
+                        <input type="radio" value="No" name="call">
+                        <label for="Yes">No</label><br>
+                    </div>
+
+                            <textarea required name="message" placeholder="Your Question" id="x_contact_massage" class="form-control message-box" cols="30" rows="10"></textarea>
                            <div class="readmore text-center">
               <button class="main-btn btn-1 btn-1e">SEND QUESTION</button>
             </div>
