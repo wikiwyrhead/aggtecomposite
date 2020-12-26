@@ -23,6 +23,7 @@
 <link href="css/jquery.fancybox.css" rel="stylesheet">  
 <link href="css/style_slider.css" rel="stylesheet">
 <link href="rs-plugin/css/settings.css" rel="stylesheet">
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 </head>
 <body>
 
@@ -74,7 +75,7 @@
             <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
             </ul>
             <div class="btn-box">
-              <button data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-2" class="brochure-btn theme-btn hvr-link">Get A Quote</button>
+              <button data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".quote-modal" class="brochure-btn theme-btn hvr-link">Get A Quote</button>
             </div>
           </div>
           <!--col end--> 
@@ -896,7 +897,7 @@
 </div>
 <!--registration-modal end--> 
 <!--quote-modal start-->
-<div class="modal fade bs-example-modal-md-2" tabindex="-1" role="dialog">
+<div class="modal fade bs-example-modal-md-2 quote-modal" tabindex="-1" role="dialog">
   <div class="modal-dialog modal-md-2" role="document">
     <div class="modal-content">
       <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
@@ -940,6 +941,17 @@
   </div>
 </div>
 <!--quote-modal end-->
+      <!--my modal-->
+<div id="myModal" class="modal fade bs-example-modal-md-2" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-md-2" role="document">
+    <div class="modal-content">
+      <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
+      <h2 class="modal-title">GET A FREE QUOTE</h2>
+      <p>Thank you for sending us message! Feel free to explore more on our website!</p>
+    </div>
+  </div>
+</div>
+<!--my modal-->
       <!--sample-modal start-->
   <div class="modal fade bs-example-modal-md-3" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-md-3" role="document">

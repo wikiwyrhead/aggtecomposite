@@ -230,6 +230,29 @@
 	.bs-example-modal-md-2 p{line-height:50px; background:#272727; text-align:center; color:#fff; margin:0;}
 	.bs-example-modal-md-2 p .btn{font-size:14px; color:#000; text-decoration:none; padding:0px; color:#fff; background-color:transparent; border-color:transparent;}
 	.bs-example-modal-md-2 p .btn:focus{background:none; outline:none; outline-offset:inherit;}
+	/*********************************************************
+				   quote-modal
+	**********************************************************/
+	.bs-example-modal-md-9 h2{font-size:16px; line-height:16px; padding:15px; color:#fff; font-weight:bold; margin:0; background:#228b22; text-align:center}
+	.bs-example-modal-md-9 .login-form{padding:30px; overflow:hidden;}
+	.bs-example-modal-md-9 .login-form fieldset{overflow:hidden;}
+	.bs-example-modal-md-9 .login-form .form-group{position:relative; float:left; width:100%;}
+	.bs-example-modal-md-9 .login-form .form-group i{position:absolute; top:8px; left:0; width:38px; line-height:30px; color:#272727; text-align:center; border-right:1px solid #ebebeb;}
+	.bs-example-modal-md-9 .login-form .form-group input[type="email"] {box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; border:1px solid #e1e1e1;    color:#959595; display:inline-block; vertical-align:middle; font-weight:400; font-size:14px; line-height:37px; width:100%; height:47px; outline:none; padding:4px 6px; background:#fff; box-shadow:none; border-radius:0;}
+	.bs-example-modal-md-9 .login-form .form-group input[type="text"]{box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; border:1px solid #e1e1e1; color:#959595; display:inline-block; vertical-align:middle; font-weight:400; font-size:14px; line-height:37px; width:100%; height:47px; outline:none; padding:4px 6px; background:#fff; box-shadow:none; border-radius:0;}
+	.bs-example-modal-md-9 .login-form .form-group input[type="password"]{box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; border:1px solid #e1e1e1; color:#959595; display:inline-block; vertical-align:middle; font-weight:400; font-size:14px; line-height:37px; width:100%; height:47px; outline:none; padding:4px 6px; background:#fff; box-shadow:none; border-radius:0;}
+	.bs-example-modal-md-9 .login-form .form-group textarea{min-height:100px; max-height:100px}
+	.bs-example-modal-md-9 .login-form .form-group label{float:left;}
+	.bs-example-modal-md-9 .login-form .form-group label input[type="checkbox"], form .form-group label em{display:inline-block; vertical-align:middle; margin:0; font-style:normal;    line-height:16px;}
+	.bs-example-modal-md-9 .login-form .forgetpassword{float:right; color:#272727;}
+	.bs-example-modal-md-9 .login-form .form-group .forgetpassword i, .forgetpassword em{display:inline-block; vertical-align:middle; position:static; border:0; padding:0; margin:0;
+	 font-style:normal;}
+	.bs-example-modal-md-9 .login-form .form-group .forgetpassword i, .forgetpassword em{display:inline-block; vertical-align:middle; position:static; border:0; padding:0; margin:0; font-style:normal;}
+	.bs-example-modal-md-9 .tg-theme-btn-lg{width:100%;}
+	.bs-example-modal-md-9 .tg-theme-btn{display:inline-block; text-align:center; font-size:14px; line-height:50px; color:#fff; background:#272727; text-transform:uppercase; padding:0 50px;}
+	.bs-example-modal-md-9 p{line-height:50px; background:#272727; text-align:center; color:#fff; margin:0;}
+	.bs-example-modal-md-9 p .btn{font-size:14px; color:#000; text-decoration:none; padding:0px; color:#fff; background-color:transparent; border-color:transparent;}
+	.bs-example-modal-md-9 p .btn:focus{background:none; outline:none; outline-offset:inherit;}
     /*********************************************************
 				        sample-modal
 	**********************************************************/
