@@ -10,439 +10,63 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
-<link class="logoicon" rel="shortcut icon" href="images/iconfast.png">
+<link class="logoicon" rel="shortcut icon" href="../images/iconfast.png">
 <!-- Style CSS -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link rel="stylesheet" href="dist/color-default.css">
-<link rel="stylesheet" href="dist/color-switcher.css">
-<link href="css/magnific-popup.css" rel="stylesheet">
-<link href="css/animate.css" rel="stylesheet">
-<link href="css/owl.css" rel="stylesheet">
-<link href="css/jquery.fancybox.css" rel="stylesheet">
-<link href="css/style_slider.css" rel="stylesheet">
-<link href="rs-plugin/css/settings.css" rel="stylesheet">
+<link href="../css/bootstrap.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="../dist/color-default.css">
+<link rel="stylesheet" href="../dist/color-switcher.css">
+<link href="../css/magnific-popup.css" rel="stylesheet">
+<link href="../css/animate.css" rel="stylesheet">
+<link href="../css/owl.css" rel="stylesheet">
+<link href="../css/jquery.fancybox.css" rel="stylesheet">
+<link href="../css/style_slider.css" rel="stylesheet">
+<link href="../rs-plugin/css/settings.css" rel="stylesheet">
 </head>
 <body>
-<div class="page-wrapper"> 
+<div class="page-wrapper">
   <!--preloader start-->
   <div class="preloader"></div>
-  <!--preloader end--> 
-  <!--main-header start-->
+  <!--preloader end-->
 
-
-<header class="main-header"> 
-    <!--header-top start-->
-    <div class="header-top"> 
-      <!--container start-->
-      <div class="container"> 
-        <!--row start-->
-        <div class="row"> 
-          <!--col start-->
-          <div class="col-md-3 col-sm-6 col-xs-6">
-            <div class="user-wrap">
-              <div class="login-btn">
-                <button type="button" class="btn btn-primary" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-1">Login</button>
-              </div>
-              <div class="register-btn">
-                <button type="button" class="btn btn-primary" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md">Register</button>
-              </div>
-              <div class="clearfix"></div>
-            </div>
-          </div>
-          <!--col end--> 
-          <!--col start-->
-          <div class="col-md-4 col-sm-6">
-            <div class="top-left">
-              <p>Welcome to AGG WPC Cladding & Decking</p>
-            </div>
-          </div>
-          <!--col end--> 
-          
-          <!--col start-->
-          
-          <div class="col-md-5 col-sm-6 col-xs-6">
-            <ul class="top-social-icons">
-              <li><a href="#."><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-              <li><a href="#."><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-              <li><a href="#."><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
-              <li><a href="#."><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-              <li><a href="#."><i class="fa fa-vimeo-square" aria-hidden="true"></i></a></li>
-            </ul>
-            <div class="btn-box">
-              <button data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-2" class="brochure-btn theme-btn hvr-link">Get A Quote</button>
-            </div>
-          </div>
-          <!--col end--> 
-        </div>
-        <!--row end--> 
-      </div>
-      <!--container end--> 
-    </div>
-    <!--header-top end--> 
-    <!--header-upper start--> 
-    
-    <!--header-upper end--> 
-        <!--header-lower start-->
-    <div class="header-lower"> 
-      <!--container start-->
-      <div class="container">
-        <div class="row">
-          <div class="col-md-5 col-sm-12">
-            <div class="logo-outer">
-              <div class="logo"> <a href="index.html"> <img class="logo-default" src="images/logo-default.png" alt="" title=""> </a> </div>
-            </div>
-          </div>
-          <div class="col-md-7 col-sm-12">
-            <div class="nav-outer clearfix menu-bg"> 
-              <!--main-menu start-->
-              <nav class="main-menu">
-                <div class="navbar-header">
-                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                </div>
-                <div class="navbar-collapse collapse clearfix">
-                  <ul class="navigation clearfix">
-                    <li class="current"><a class="hvr-link" href="index.html">Home</a>
-                        <!--Drop Down-->
-                    <!--<ul>
-                      <li><a class="hvr-link" href="index.html">Homepage Slider</a></li>
-                      <li><a class="hvr-link" href="index.html">Homepage Static</a></li>
-                    </ul>-->
-                  </li>
-                    <li class="dropdown"><a class="hvr-link" href="#">About</a>
-                      <ul>
-                        <li><a class="hvr-link" href="about.html">About</a></li>
-                        <li><a class="hvr-link" href="our-team.html">Team</a></li>
-                        <li><a class="hvr-link" href="faq.html">FAQ's</a></li>
-                        <!--<li><a class="hvr-link" href="404.html">404 Page</a></li>-->
-                        <!--<li><a class="hvr-link" href="testimonial.html">Testimonials</a></li>-->
-                        <!--<li><a class="hvr-link" href="typoghrapy.html">Typoghrapy</a></li>-->
-                        <!--<li><a class="hvr-link" href="coming-soon.html">Coming-soon</a></li>-->
-                      </ul>
-                    </li>
-                    <li><a class="hvr-link" href="service-single.html">Services</a>
-                      <!--<ul>
-                        <li><a class="hvr-link" href="service.html">Services</a></li>
-                        <li><a class="hvr-link" href="service-two-coloumn.html">Service Two Coloumn</a></li>
-                        <li><a class="hvr-link" href="service-single.html">Single Service</a></li>
-                      </ul>-->
-                    </li>
-                    <li><a class="hvr-link" href="projects-three.html">Projects</a>
-                      <!--<ul>
-                        <li><a class="hvr-link" href="projects.html">Project</a></li>
-                        <li><a class="hvr-link" href="projects-three.html">Project Three Column</a></li>
-                        <li><a class="hvr-link" href="projects-four.html">Project Four Column</a></li>
-                        <li><a class="hvr-link" href="projects-single.html">Project Single</a></li>
-                      </ul>-->
-                    </li>
-                    <!--<li><a class="hvr-link" href="shop.html">Shop</a>-->
-                      <!--<ul>
-                        <li><a class="hvr-link" href="shop.html">Our Shop</a></li>
-                        <li><a class="hvr-link" href="shop-single.html">Product Details</a></li>
-                      </ul>-->
-                    <!--</li>-->
-                    <!--<li><a class="hvr-link" href="blog-grid.html">Blog</a>-->
-                      <!--<ul>
-                        <li> <a class="hvr-link" href="blog-grid.html"> Blog Grid sidebar</a></li>
-                        <li> <a class="hvr-link" href="blog.html"> Blog List sidebar</a></li>
-                        <li> <a class="hvr-link" href="blog-grid-full-width.html"> Blog full width </a></li>
-                        <li> <a class="hvr-link" href="blog-details.html"> Blog Details with sidebar </a></li>
-                        <li> <a class="hvr-link" href="blog-details-slidebar.html"> Blog Details </a></li>
-                      </ul>-->
-                    <!--</li>-->
-                    <li><a class="hvr-link" href="contact.html">Contact</a></li>
-                  </ul>
-                </div>
-                <div class="clearfix"></div>
-              </nav>
-              <!--main-menu end--> 
-              
-            </div>
-          </div>
-        </div>
-      </div>
-      <!--container end--> 
-    </div>
-    <!--header-lower end--> 
-    <!--sticky-header start-->
-    <div class="sticky-header"> 
-      <!--container start-->
-      <div class="container clearfix"> 
-        <!--row start-->
-        <div class="row"> 
-          <!--col start-->
-          <div class="col-md-5 col-sm-5">
-            <div class="logo"> <a href="index.html" class="img-responsive"><img class="logo-default" src="images/logo-default.png" alt="AGG WPC Cladding & Decking Logo" title="AGGTE WPC Cladding & Decking Logo"></a> </div>
-          </div>
-          <!--col end--> 
-          <!--col start-->
-          <div class="col-md-7 col-sm-7"> 
-            <!--main-menu start-->
-            <nav class="main-menu">
-              <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-              </div>
-              <div class="navbar-collapse collapse clearfix">
-                <ul class="navigation clearfix">
-                  <li class="current"><a class="hvr-link" href="index.html">Home</a>
-                    <!--<ul>
-                      <li><a class="hvr-link" href="index.html">Homepage Slider</a></li>
-                      <li><a class="hvr-link" href="index.html">Homepage Static</a></li>
-                    </ul>-->
-                  </li>
-                  <li class="dropdown"><a class="hvr-link" href="#">About</a>
-                      <ul>
-                        <li><a class="hvr-link" href="about.html">About</a></li>
-                        <li><a class="hvr-link" href="our-team.html">Team</a></li>
-                        <li><a class="hvr-link" href="faq.html">FAQ's</a></li>
-                        <!--<li><a class="hvr-link" href="404.html">404 Page</a></li>-->
-                        <!--<li><a class="hvr-link" href="testimonial.html">Testimonials</a></li>-->
-                        <!--<li><a class="hvr-link" href="typoghrapy.html">Typoghrapy</a></li>-->
-                        <!--<li><a class="hvr-link" href="coming-soon.html">Coming-soon</a></li>-->
-                      </ul>
-                    </li>
-                    <li><a class="hvr-link" href="service-single.html">Services</a>
-                      <!--<ul>
-                        <li><a class="hvr-link" href="service.html">Services</a></li>
-                        <li><a class="hvr-link" href="service-two-coloumn.html">Service Two Coloumn</a></li>
-                        <li><a class="hvr-link" href="service-single.html">Single Service</a></li>
-                      </ul>-->
-                    </li>
-                    <li><a class="hvr-link" href="projects-three.html">Projects</a>
-                      <!--<ul>
-                        <li><a class="hvr-link" href="projects.html">Project</a></li>
-                        <li><a class="hvr-link" href="projects-three.html">Project Three Column</a></li>
-                        <li><a class="hvr-link" href="projects-four.html">Project Four Column</a></li>
-                        <li><a class="hvr-link" href="projects-single.html">Project Single</a></li>
-                      </ul>-->
-                    </li>
-                    <!--<li><a class="hvr-link" href="shop.html">Shop</a>-->
-                      <!--<ul>
-                        <li><a class="hvr-link" href="shop.html">Our Shop</a></li>
-                        <li><a class="hvr-link" href="shop-single.html">Product Details</a></li>
-                      </ul>-->
-                    <!--</li>-->
-                    <!--<li><a class="hvr-link" href="blog-grid.html">Blog</a>-->
-                      <!--<ul>
-                        <li> <a class="hvr-link" href="blog-grid.html"> Blog Grid sidebar</a></li>
-                        <li> <a class="hvr-link" href="blog.html"> Blog List sidebar</a></li>
-                        <li> <a class="hvr-link" href="blog-grid-full-width.html"> Blog full width </a></li>
-                        <li> <a class="hvr-link" href="blog-details.html"> Blog Details with sidebar </a></li>
-                        <li> <a class="hvr-link" href="blog-details-slidebar.html"> Blog Details </a></li>
-                      </ul>-->
-                    <!--</li>-->
-                  <li><a class="hvr-link" href="contact.html">Contact</a></li>
-                </ul>
-              </div>
-            </nav>
-            <!--main-menu stendart--> 
-          </div>
-          <!--col end--> 
-        </div>
-        <!--row end--> 
-        
-      </div>
-      <!--container end--> 
-    </div>
-    <!--sticky-header end-->
-  </header>
-  <!--main-header end--> 
-  
-  <!--inner-heading start-->
-  <section class="inner-heading">
-    <div class="container">
-      <h1>Contact Us</h1>
-      <ul class="xs-breadcumb">
-        <li><a href="index.html"> Home  / </a> <a href="index.html">Pages / </a>Contact</li>
-      </ul>
-    </div>
-  </section>
-  <!--inner-heading end--> 
-  
   <!--inner content start-->
-  <section class="contactWrap"> 
-    <!--container start-->
+
+  <section class="inner-wrap">
     <div class="container">
-      <div class="section-title">
-        <h3>Get in <span>touch</span></h3>
-        <p>Never miss out our latest updates online! Follow us on social media to be on top of the news </p>
+      <div class="row">
+        <div class="col-md-12 col-sm-12">
+          <div class="error-page">
+              <br><br><br>
+              <h3>Oops! Something went wrong!</h3>
+              <h2 style="font-size: 50px;">Sorry, your message was not sent, try again!</h2><br>
+            <p style="font-size: 20px;">You will be redirected to the main page. If you are trying to compose a quotation, please kindly fill-up the form again. Sorry for the inconvenience.</p>
+              <br><br><br>
+          </div>
+        </div>
       </div>
-      <!--row start-->
-      <div class="row serviceList"> 
-        <!--col start-->
-        <div class="col-md-3 col-sm-6 col-xs-12">
-          <div class="contact-item">
-            <div class="fig_caption">
-              <div class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i> </div>
-              <div class="details">
-                <h3>Visit our office</h3>
-                <p> <strong>Bagong Daan, Diversion Road, Brgy. Cawit, 4208</strong> <br>
-                   Taal, Batangas, Philippines</p><br>
-              </div>
-            </div>
+      <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8 col-sm-12">
+          <div class="error-link">
           </div>
         </div>
-        <!--col end--> 
-        <!--col start-->
-        <div class="col-md-3 col-sm-6 col-xs-12">
-          <div class="contact-item">
-            <div class="fig_caption">
-              <div class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i> </div>
-              <div class="details">
-                <h3>Mail us</h3>
-                <p> <strong>Elisa Ruhle</strong> 
-                    	sales@aquaponicsgogreen.com<br><br><br>
-                  </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!--col end--> 
-        <!--col start-->
-        <div class="col-md-3 col-sm-6 col-xs-12">
-          <div class="contact-item">
-            <div class="fig_caption">
-              <div class="icon"><i class="fa fa-phone" aria-hidden="true"></i> </div>
-              <div class="details">
-                <h3>Visit our office</h3>
-                <p> <strong>CALL US NOW </strong> <br>
-                  (043) 740 3512<br>0929 3185482<br>0916 377 0871</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!--col end--> 
-        <!--col start-->
-        <div class="col-md-3 col-sm-6 col-xs-12">
-          <div class="contact-item">
-            <div class="fig_caption">
-              <div class="icon"><i class="fa fa-clock-o" aria-hidden="true"></i> </div>
-              <div class="details">
-                <h3>Working hour</h3>
-                <p> <strong>Mon - Sat : 8am to 5pm</strong> <br>
-                  Sunday : Closed</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!--col end--> 
+        <div class="col-md-2"></div>
       </div>
-      <!--row end--> 
-            <div class="section-title margin_t40">
-        <h3>Drop <span>your message</span></h3>
-        
-      </div>
-<form action="php/contacts.php" method="POST" id="xs-contact-form" class="xs-form">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <input type="text" class="form-control" name="name" placeholder="Your name" id="xs_contact_name">
-                            </div>
-                            <div class="col-md-6">
-                                <input type="email" class="form-control invaild" name="email" placeholder="Your email" id="xs_contact_email">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <input type="text" class="form-control" name="phone_number" placeholder="Your phone number" id="xs_contact_phone">
-
-                            </div>
-                            <div class="col-md-6">
-                                <input type="text" class="form-control" name="subject" placeholder="Subject" id="xs_contact_subject">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <label>Request Phone Call?:</label><br>
-                                <input type="radio" value="Yes" name="call">
-                                <label for="Yes">Yes</label><br>
-                                <input type="radio" value="No" name="call">
-                                <label for="No">No</label><br><br>
-                                </div>
-                        </div>
-
-                        <textarea name="message" placeholder="Message" id="x_contact_massage" class="form-control message-box" cols="30" rows="10"></textarea>
- <div class="readmore text-center">
-              <button class="main-btn btn-1 btn-1e">SEND MESSAGE</button>
-            </div>
-                        
-                    </form>
     </div>
-    <!--container end--> 
-    
+      <br><br>
   </section>
-  <!--inner content end--> 
-  
 
-  
-                    
-                    
-                    
-  <div class="xs-map-sec">
-    <div class="xs-maps-wraper">
-        <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1575.9386750864307!2d120.92150695679307!3d13.897340449350411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd0ba33602ff4f%3A0xd708256bbaefaed2!2sAquaponics%20Go%20Green%20Trading%20%26%20Enterprise!5e1!3m2!1sen!2sph!4v1605603847490!5m2!1sen!2sph" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-        </div>
-    </div>
-</div>
-  
-<!--brand-section start-->
-<div class="brand-section"> 
+  <!--inner content end-->
+<!--footer-sec start-->
+<footer class="footer-sec">
   <!--container start-->
   <div class="container">
-    <div class="brand-content">
-      <ul class="brand-slider">
-        <li>
-          <figure class="logo-grey-style"> <img src="images/company-logo/company5.PNG" alt="aquaponicsgogreen" class="img-responsive">
-            <figcaption>
-              <h5>Aquaponic GoGreen</h5>
-            </figcaption>
-            <a href="https://aquaponicsgogreen.com/" target="_blank"></a> </figure>
-        </li>
-        <li>
-          <figure class="logo-grey-style"> <img src="images/company-logo/company1.PNG" alt="CSIBiowood" class="img-responsive">
-            <figcaption>
-              <h5>CSI Biowood</h5>
-            </figcaption>
-            <a href="http://biowood.ph/" target="_blank"></a> </figure>
-        </li>
-        <li>
-          <figure class="logo-grey-style"> <img src="images/company-logo/company2.PNG" alt="GRMBiowood" class="img-responsive">
-            <figcaption>
-              <h5>GRM Biowood</h5>
-            </figcaption>
-            <a href="http://www.grmbiowood.com.ph/" target="_blank"></a> </figure>
-        </li>
-        <li>
-          <figure class="logo-grey-style"> <img src="images/company-logo/company3.PNG" alt="solidwood" class="img-responsive">
-            <figcaption>
-              <h5>Solidwood</h5>
-            </figcaption>
-            <a href="https://www.solidwood.ph/" target="_blank"></a> </figure>
-        </li>
-        <li>
-          <figure class="logo-grey-style"> <img src="images/company-logo/company4.png" alt="armada" class="img-responsive">
-            <figcaption>
-              <h5>Armada</h5>
-            </figcaption>
-            <a href="https://www.facebook.com/armadawpc/" target="_blank"></a> </figure>
-        </li>
-      </ul>
-    </div>
-  </div>
-  <!--container end--> 
-</div>
-<!--brand-sectionn end--> 
-  
-<!--footer-sec start-->
-<footer class="footer-sec"> 
-  <!--container start-->
-  <div class="container"> 
     <!--row start-->
-    <div class="row"> 
+    <div class="row">
       <!--col start-->
       <div class="col-md-4 col-sm-12">
         <div class="footer-info">
-          <div class="footer-logo"> <a href="index.html"><img class="footer-logo-default" src="images/footer-logo-default.png" alt=""> </a> </div>
+          <div class="footer-logo"> <a href="index.html"><img class="footer-logo-default" src="../images/footer-logo-default.png" alt="AGGTE Default Logo"> </a> </div>
           <p>Never miss out our latest updates online! Follow us on social media to be on top of the news:</p>
           <ul class="footer-social">
             <li><a href="https://www.facebook.com/aquaponics.trading.enterprise/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
@@ -453,19 +77,19 @@
             <br>
             <div class="footer-logo">
                 <a href="#">
-                    <img class="footer-logo-default" src="images/other-logos/CE.png" alt="">&nbsp;&nbsp;
-                    <img class="footer-logo-default" src="images/other-logos/FSCyc0Nbl.png" alt="">
-                    <img class="footer-logo-default" src="images/other-logos/Greenpeace_symbols_recycle_sign_05s_300x300.png" alt="">&nbsp;
-                    <img class="footer-logo-default" src="images/other-logos/RoHs.png" alt="">
-                </a> 
+                    <img class="footer-logo-default" src="../images/other-logos/CE.png" alt="CE Logo">&nbsp;&nbsp;
+                    <img class="footer-logo-default" src="../images/other-logos/FSCyc0Nbl.png" alt="FSC Logo">
+                    <img class="footer-logo-default" src="../images/other-logos/Greenpeace_symbols_recycle_sign_05s_300x300.png" alt="Recycle Sign">&nbsp;
+                    <img class="footer-logo-default" src="../images/other-logos/RoHs.png" alt="RoHS Logo">
+                </a>
             </div>
         </div>
       </div>
-      <!--col end--> 
+      <!--col end-->
       <!--col start-->
-      <div class="col-md-8"> 
+      <div class="col-md-8">
         <!--row start-->
-        <div class="row"> 
+        <div class="row">
           <!--col start-->
           <div class="col-md-3 col-sm-6">
             <div class="footer-info">
@@ -479,7 +103,7 @@
               </ul>
             </div>
           </div>
-          <!--col end--> 
+          <!--col end-->
           <!--col start-->
           <div class="col-md-4 col-sm-6">
             <div class="footer-info">
@@ -492,7 +116,7 @@
               </ul>
             </div>
           </div>
-          <!--col end--> 
+          <!--col end-->
           <!--col start-->
           <div class="col-md-5 col-sm-6">
             <div class="footer-info">
@@ -506,23 +130,23 @@
               </ul>
             </div>
           </div>
-          <!--col end--> 
+          <!--col end-->
         </div>
-        <!--row end--> 
-        
+        <!--row end-->
+
       </div>
-      <!--col end--> 
-      
+      <!--col end-->
+
     </div>
     <!--row end-->
-    <div class="copyright-content"> 
+    <div class="copyright-content">
       <!--row start-->
-      <div class="row"> 
+      <div class="row">
         <!--col start-->
        <div class="col-md-6 col-sm-6">
            <p><a target="_blank" href="https://www.facebook.com/wpc.claddingdecking">© 2020 Aquaponics GoGreen All Rights Reserved</a> Design by <a href="#">GoTech Web Solutions</a></p>
           </div>
-        <!--col end--> 
+        <!--col end-->
         <!--col start-->
         <div class="col-md-6 col-sm-6">
           <ul class="footer-bottom-menu">
@@ -531,15 +155,15 @@
             <li> <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-5">Privacy Policy</a> </li>
           </ul>
         </div>
-        <!--col end--> 
+        <!--col end-->
       </div>
-      <!--row end--> 
+      <!--row end-->
     </div>
   </div>
-  <!--container end--> 
+  <!--container end-->
 </footer>
-<!--footer-secn end--> 
-  
+<!--footer-secn end-->
+
   <!--login-modal start-->
   <div class="modal fade bs-example-modal-md-1" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-md" role="document">
@@ -568,7 +192,7 @@
       </div>
     </div>
   </div>
-  <!--login-modal end--> 
+  <!--login-modal end-->
   <!--registration-modal start-->
   <div class="modal fade bs-example-modal-md" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-md" role="document">
@@ -609,8 +233,8 @@
       </div>
     </div>
   </div>
-  <!--registration-modal end--> 
-<!--quote-modal start-->
+  <!--registration-modal end-->
+    <!--quote-modal start-->
 <div class="modal fade bs-example-modal-md-2 quote-modal" tabindex="-1" role="dialog">
   <div class="modal-dialog modal-md-2" role="document">
     <div class="modal-content">
@@ -655,11 +279,11 @@
   </div>
 </div>
 <!--quote-modal end-->
-              <!--warranty-modal start-->
+        <!--warranty-modal start-->
   <div class="modal fade bs-example-modal-md-4" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-md-4" role="document">
       <div class="modal-content">
-        <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">&times;</a></div>
+        <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
         <h2 class="modal-title">WARRANTY INFORMATION</h2>
                 <div class="warranty-content">
                   <p><br><strong>AGGTE WPC Cladding & Decking Limited Warranty Details</strong><br>
@@ -736,7 +360,7 @@
   <div class="modal fade bs-example-modal-md-5" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-md-5" role="document">
       <div class="modal-content">
-        <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">&times;</a></div>
+        <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
         <h2 class="modal-title">PRIVACY POLICY</h2>
                 <div class="privacy-content">
                   <p><br>This privacy statement discloses the privacy practices of https://www.aggtecomposites.com/. It is our continuing goal to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information and user privacy practices.
@@ -783,28 +407,34 @@
     </div>
   </div>
       </div>
-<!--privacy-modal end-->
+
 </div>
 <!--scroll-to-top start-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
-<!--scroll-to-top end--> 
-
-<!--jquery start--> 
-<script src="js/jquery-2.1.4.min.js"></script> 
-<script src="js/bootstrap.min.js"></script> 
-<script src="js/jquery.magnific-popup.min.js"></script> 
-<script src="js/imagesloaded.pkgd.min.js"></script> 
-<script src="js/isotope.pkgd.min.js"></script> 
-<script src="js/jquery.fancybox8cbb.js?v=2.1.5"></script> 
-<script src="js/owl.carousel.js"></script> 
-<script src="rs-plugin/js/jquery.themepunch.tools.min.js"></script> 
-<script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script> 
-<script src="js/counter.js"></script> 
-<script src="dist/color-switcher.js"></script> 
-<script src="js/smoothscroll.js"></script>
-<script src="js/script.js"></script> 
-<script src="js/messageCounter.js"></script>
+<!--scroll-to-top end-->
+<!--jquery start-->
+<script src="../js/jquery-2.1.4.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/jquery.magnific-popup.min.js"></script>
+<script src="../js/imagesloaded.pkgd.min.js"></script>
+<script src="../js/isotope.pkgd.min.js"></script>
+<script src="../js/jquery.fancybox8cbb.js?v=2.1.5"></script>
+<script src="../js/owl.carousel.js"></script>
+<script src="../rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script src="../rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<script src="../js/counter.js"></script>
+<script src="../dist/color-switcher.js"></script>
+<script src="../js/smoothscroll.js"></script>
+<script src="../js/script.js"></script>
+<script>
+    $(document).ready(function(){
+   setTimeout(function(){
+         location.href = '../contact.html';
+   },4000);
+});
+</script>
 <!--jquery end-->
 </body>
+
 
 </html>
