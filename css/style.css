@@ -672,15 +672,7 @@ bottom:25px; z-index: 10;right:50%; background:rgb(255, 255, 255); padding:5px; 
 	/*********************************************************
 						  Static Slider
 	**********************************************************/
-	.staticSlider{background:url(../images/finished.jpg) no-repeat top; background-size:cover; background-position:center center; display:-webkit-box; display:-webkit-flex; display:-ms-flexbox; display:flex; -webkit-box-align:center; -webkit-align-items:center; -ms-flex-align:center; align-items:center; color:#ffffff; height:75vh; position:relative;transition: all 1s;animation: shrink 5s infinite alternate;}
-@keyframes shrink {
-  0% {
-    background-size: 110% 110%;
-  }
-  100% {
-    background-size: 100% 100%;
-  }
-}
+	.staticSlider{background:url(../images/finished.jpg) no-repeat top; background-size:cover; background-position:center center; display:-webkit-box; display:-webkit-flex; display:-ms-flexbox; display:flex; -webkit-box-align:center; -webkit-align-items:center; -ms-flex-align:center; align-items:center; color:#ffffff; height:75vh; position:relative;}
 	.slidewrap{text-align:center; margin-top:-30px}
 	.slidewrap h3{color:#fff; font-size:30px; font-weight:600; text-transform:none !important; text-align:center; text-shadow:0 0 1px rgba(24,24,24,.75); }
 	.slidewrap h1{color:#fff; font-size:70px; font-weight:700; text-transform:none !important; text-align:center; text-shadow: 0 0 1px rgba(24,24,24,.75); font-family: 'Oswald', sans-serif; padding-bottom: 25px;}
