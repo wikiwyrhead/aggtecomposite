@@ -62,7 +62,7 @@ body.fixed-nav.sidebar-toggled #content-wrapper {
 }
 
 .scroll-to-top:hover {
-  background: #343a40;
+  background: darkgreen;
 }
 
 .scroll-to-top i {
@@ -132,7 +132,7 @@ body.fixed-nav.sidebar-toggled #content-wrapper {
 
 .sidebar {
   width: 90px !important;
-  background-color: #212529;
+  background-color: #006400 !important;
   min-height: calc(100vh - 56px);
 }
 
