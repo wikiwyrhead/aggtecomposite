@@ -13,7 +13,7 @@
     $phoneNumber = $_POST['phone_number'];
     $call = $_POST['call'];
     $message = "From: $email\n" . "Client Sender: $name \n" . "Client Number: $phoneNumber\n" . "Call Back?: $call\n" . "\n\n" . "Message: \n\n" .  $_POST['message'];
-    $headers = 'WPC Cladding & Decking Website <no-reply@aggtrading.com>';
+    $headers = 'New Quotation Request <no-reply@aggtedeck.com>';
 
 //EMAIL CONFIRMATION
 // --- Subject of confirmation email. ---------
