@@ -86,8 +86,8 @@
               <ul class="service-link">
                 <li> <a href="index.php">Home</a> </li>
                 <li> <a href="about.php">About Us</a> </li>
-                <li> <a href="service-single.php">Services</a> </li>
-                  <li> <a href="service-single.php#sec-title">Downloads</a> </li>
+                <li> <a href="services.php">Services</a> </li>
+                  <li> <a href="services.php#sec-title">Downloads</a> </li>
                 <li> <a href="projects-three.php">Gallery</a> </li>
                 <li> <a href="faq.php">Faq</a> </li>
                 <li> <a href="cleaning.php">Cleaning Guide</a> </li>
@@ -100,10 +100,10 @@
             <div class="footer-info">
               <h3 class="footer-title">Our Services</h3>
               <ul class="service-link">
-                <li> <a href="service-single.php#section-handler1" >WPC Cladding</a> </li>
-                <li> <a href="service-single.php#section-handler2">WPC Decking</a> </li>
-                <li> <a href="service-single.php#section-handler3">WPC Gates</a> </li>
-                <li> <a href="service-single.php#section-handler4">WPC Cladding & Decking Repairs</a> </li>
+                <li> <a href="services.php#section-handler1" >WPC Cladding</a> </li>
+                <li> <a href="services.php#section-handler2">WPC Decking</a> </li>
+                <li> <a href="services.php#section-handler3">WPC Gates</a> </li>
+                <li> <a href="services.php#section-handler4">WPC Cladding & Decking Repairs</a> </li>
               </ul>
             </div>
           </div>
