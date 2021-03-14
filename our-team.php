@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>AGG WPC Cladding & Decking</title>
+<title>AGGTE WPC Cladding & Decking</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="description" content="AGG WPC Cladding Decking">
 <meta name="keywords" content="WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates">

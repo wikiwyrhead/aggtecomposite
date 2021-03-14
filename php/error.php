@@ -66,7 +66,7 @@
       <!--col start-->
       <div class="col-md-4 col-sm-12">
         <div class="footer-info">
-          <div class="footer-logo"> <a href="index.html"><img class="footer-logo-default" src="../images/footer-logo-default.png" alt="AGGTE Default Logo"> </a> </div>
+          <div class="footer-logo"> <a href="index.php"><img class="footer-logo-default" src="../images/footer-logo-default.png" alt="AGGTE Default Logo"> </a> </div>
           <p>Never miss out our latest updates online! Follow us on social media to be on top of the news:</p>
           <ul class="footer-social">
             <li><a href="https://www.facebook.com/aquaponics.trading.enterprise/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
@@ -95,8 +95,8 @@
             <div class="footer-info">
               <h3 class="footer-title">Usefull Links</h3>
               <ul class="service-link">
-                <li> <a href="index.html">Home</a> </li>
-                <li> <a href="about.html">About Us</a> </li>
+                <li> <a href="index.php">Home</a> </li>
+                <li> <a href="about.php">About Us</a> </li>
                 <li> <a href="service-single.html">Services</a> </li>
                 <li> <a href="projects-three.html">Gallery</a> </li>
                 <li> <a href="faq.html">Faq</a> </li>
@@ -429,7 +429,7 @@
 <script>
     $(document).ready(function(){
    setTimeout(function(){
-         location.href = '../index.html';
+         location.href = '../index.php';
    },4000);
 });
 </script>

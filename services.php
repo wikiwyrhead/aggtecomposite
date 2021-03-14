@@ -4,7 +4,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>AGG WPC Cladding & Decking</title>
+<title>AGGTE WPC Cladding & Decking</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="description" content="AGG WPC Cladding Decking">
 <meta name="keywords" content="WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates">
@@ -26,7 +26,7 @@
 <link href="rs-plugin/css/settings.css" rel="stylesheet">
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 </head>
-<body onload="unLoad()" style="overflow: hidden">
+<body onload="unLoad()" style="overflow-x: hidden">
 <div class="page-wrapper">
   <!--preloader start-->
   <div class="preloader"></div>
@@ -52,7 +52,7 @@
     <iframe class="invisible" id="section-handler2" onload="Focus2()"></iframe>
     <iframe class="invisible" id="section-handler3" onload="Focus1()"></iframe>
     <iframe class="invisible" id="section-handler4" onload="Focus4()"></iframe>
-  <section class="inner-wrap serviceSingle" id="service-main">
+  <section class="inner-wrap serviceSingleserviceSingle" id="service-main">
     <div class="container">
       <div class="row">
         <div class="col-md-4 col-sm-12">
