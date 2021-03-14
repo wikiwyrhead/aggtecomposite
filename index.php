@@ -45,7 +45,7 @@
   <div class="staticSlider">
     <div class="container">
       <div class="slidewrap">
-        <h3>Welcome to AGGTE WPC Cladding & Deckings </h3>
+        <h3>Welcome to AGGTE WPC Cladding & Decking </h3>
         <h1>Transforming your ideas <span>into reality</span></h1>
         <a href="about.php" class="btn btn-default section-btn">See more</a><a class="btn btn-default section-btn span_color" href="contact.php">Contact Us</a> </div>
     </div>
@@ -155,7 +155,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
             <div class="icon"><i class="fa fa-users"></i> </div>
             <div class="details">
               <h3><a href="services.php">Builders</a></h3>
-              <p>AGGTE WPC Cladding & Decking Builders is an independently owned and operated company. The company and its sales agents or representatives are not in any way connected with AGGTE WPC Cladding & Deckings. As such, AGGTE WPC Cladding & Deckings does not make any representations or warranties as to the products of AGGTE WPC Cladding & Decking Builders. They are also not responsible for the performance, acts or omissions of AGGTE WPC Cladding & Decking Builders.<br><br>
+              <p>AGGTE WPC Cladding & Decking Builders is an independently owned and operated company. The company and its sales agents or representatives are not in any way connected with AGGTE WPC Cladding & Decking. As such, AGGTE WPC Cladding & Decking does not make any representations or warranties as to the products of AGGTE WPC Cladding & Decking Builders. They are also not responsible for the performance, acts or omissions of AGGTE WPC Cladding & Decking Builders.<br><br>
            As an independent company, AGGTE Builders have undergone advanced training by joining a very carefully chosen group of installer with extensive and state-of the art experience in the field of WPC Cladding and Decking experience. Through it, AGGTE clients are assured that their concerns can be effectively handled by the very competent members of the company’s management and staff.
             </p>
             </div>
@@ -460,7 +460,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
       </li>
       <li class="item">
         <div class="testiWrp">
-          <p><span style="font-size: 150%;font-weight: bold">AGGTE WPC Cladding & Deckings saved the day</span><br>Quick in response and the delivery leadtime was also quick, everything was well prepared and exactly what I'd ordered. Would go to them straight away with future composite material needs.</p>
+          <p><span style="font-size: 150%;font-weight: bold">AGGTE WPC Cladding & Decking saved the day</span><br>Quick in response and the delivery leadtime was also quick, everything was well prepared and exactly what I'd ordered. Would go to them straight away with future composite material needs.</p>
           <div class="clientInfo">
             <div class="name">Dondie Prats<span class="white_color">Contractor</span></div>
             <div class="clearfix"></div>
