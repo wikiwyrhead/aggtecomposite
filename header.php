@@ -96,10 +96,10 @@
 
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="projects-three.php">Projects</a>
+                    <li><a class="hvr-link" href="projects.php">Projects</a>
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
-                        <li><a class="hvr-link" href="projects-three.php">Project Three Column</a></li>
+                        <li><a class="hvr-link" href="projects.php">Project Three Column</a></li>
                         <li><a class="hvr-link" href="projects-four.php">Project Four Column</a></li>
                         <li><a class="hvr-link" href="projects-single.php">Project Single</a></li>
                       </ul>-->
@@ -178,10 +178,10 @@
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="projects-three.php">Projects</a>
+                    <li><a class="hvr-link" href="projects.php">Projects</a>
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
-                        <li><a class="hvr-link" href="projects-three.php">Project Three Column</a></li>
+                        <li><a class="hvr-link" href="projects.php">Project Three Column</a></li>
                         <li><a class="hvr-link" href="projects-four.php">Project Four Column</a></li>
                         <li><a class="hvr-link" href="projects-single.php">Project Single</a></li>
                       </ul>-->

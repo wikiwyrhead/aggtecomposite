@@ -88,7 +88,7 @@
                 <li> <a href="about.php">About Us</a> </li>
                 <li> <a href="services.php">Services</a> </li>
                   <li> <a href="services.php#sec-title">Downloads</a> </li>
-                <li> <a href="projects-three.php">Gallery</a> </li>
+                <li> <a href="projects.php">Gallery</a> </li>
                 <li> <a href="faq.php">Faq</a> </li>
                 <li> <a href="cleaning.php">Cleaning Guide</a> </li>
               </ul>
