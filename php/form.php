@@ -32,7 +32,7 @@ mail( $_POST['email'], $conf_subject, $msg, 'From: ' . $conf_sender );
         echo "<div class='preloader'></div><center><h1 style='position: relative;top: 250px;font-family:Arial;'>Your message was successfully sent!</h1></center>";
         echo "<script>
             window.setTimeout(function() {
-            window.location.href='../index.html';
+            window.location.href='../index.php';
             }, 2000);
             </script>";
     }
