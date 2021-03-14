@@ -7,7 +7,7 @@
 
     $name = $_POST['name'];
     $email = $_POST['email'];
-    $to_email = "jjanzen.go@gmail.com";
+    $to_email = "info@aggtedeck.com";
     $subject = $_POST['subject'];
     $phoneNumber = $_POST['phone_number'];
     $call = $_POST['call'];

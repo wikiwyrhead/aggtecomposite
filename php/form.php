@@ -8,7 +8,7 @@
 
     $name = $_POST['name'];
     $email = $_POST['email'];
-    $to_email = "sales@aquaponicsgogreen.com";
+    $to_email = "quote@aggtedeck.com";
     $subject = "New Quote";
     $phoneNumber = $_POST['phone_number'];
     $call = $_POST['call'];
