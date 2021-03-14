@@ -65,7 +65,7 @@
             <div class="teamWrap"> <img src="images/team1.png" class="img-responsive" alt="img1">
               <div class="caption">
                  <h3>Dimple Fev Plando </h3>
-                <p>Sales and Marketing Officer</p>
+                <p>Sales Staff</p>
               </div>
               <div class="link-wrap"> <a href="https://www.facebook.com/dimplefevz" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/AggDimple?s=07&fbclid=IwAR0v9SwzJYfutqcqk7hxxCU3zbawwDlBfhczIdiAX_C5WF4bABqBVvSw9gA" target="_blank"><i class="fa fa-twitter"></i></a> </div>
             </div>
@@ -74,7 +74,7 @@
             <div class="teamWrap"> <img src="images/team2.png" class="img-responsive" alt="img1">
               <div class="caption">
                 <h3>Arnel Go </h3>
-                <p>Sales and Marketing Officer</p>
+                <p>Sales and Marketing Staff</p>
               </div>
               <div class="link-wrap"> <a href="https://www.facebook.com/arniel.go/" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/arnelbgo" target="_blank"><i class="fa fa-twitter"></i></a> </div>
             </div>
