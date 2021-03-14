@@ -117,7 +117,7 @@
                 <li><i class="fa fa-phone"></i><span>Globe 0916 377 0871</span></li>
                   <li><i class="fa fa-phone"></i><span>Smart 0929 3185482</span></li>
                   <li><i class="fa fa-phone"></i><span>Landline(043) 740 3512</span></li>
-                <li><i class="fa fa-envelope-o"></i><span>sales@aquaponicsgogreen.com</span></li>
+                <li><i class="fa fa-envelope-o"></i><span>sales@aggtedeck.com</span></li>
               </ul>
             </div>
           </div>

@@ -22,7 +22,7 @@
           <!--col start-->
           <div class="col-md-4 col-sm-6">
             <div class="top-left">
-              <p>Welcome to AGG WPC Cladding & Decking</p>
+              <p>Welcome to AGGTE WPC Cladding & Decking</p>
             </div>
           </div>
           <!--col end-->
@@ -31,7 +31,7 @@
 
           <div class="col-md-5 col-sm-6 col-xs-6">
             <ul class="top-social-icons">
-              <li><a href="https://www.facebook.com/AGGTE.Composite.Decking.Cladding" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+              <li><a href="https://www.facebook.com/wpc.claddingdecking" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
             <li><a href="https://twitter.com/share?url=https%3A%2F%2Faquaponicsgogreen.com&text=AquaponicsGoGreen" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
             <li><a href="https://www.instagram.com/aquaponicsgogreenph/"  target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
