@@ -54,7 +54,7 @@
 </span></h3>
       </div>
       <div class="row advan">
-          <p>Our composite decking <a target="_blank" href="http://localhost/git_repos/about.php#advantage">comes with the reassurance of continual performance year-on-year</a>, however we know that with a little care and attention once in a while, our boards can continue to look their sparkling best. This section will give you some handy tips on how to care for your decking.</p>
+          <p>Our composite decking <a target="_blank" href="about.php">comes with the reassurance of continual performance year-on-year</a>, however we know that with a little care and attention once in a while, our boards can continue to look their sparkling best. This section will give you some handy tips on how to care for your decking.</p>
       </div>
 
     </div>
