@@ -87,7 +87,7 @@
                         <!--<li><a class="hvr-link" href="coming-soon.php">Coming-soon</a></li>-->
                       </ul>
                     </li>
-                    <li class="dropdown"><a class="hvr-link" href="service-single.php">Services</a>
+                    <li class="dropdown"><a class="hvr-link" href="services.php">Services</a>
                       <ul>
                         <li><a class="hvr-link" href="service-single.php">Services</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".quote-modal" class="brochure-btn theme-btn hvr-link">Get a Quote</a></li>
