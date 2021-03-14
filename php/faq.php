@@ -21,7 +21,7 @@
 $conf_subject = 'Your recent inquiry';
 
 // Who should the confirmation email be from?
-$conf_sender = 'AGGTE WPC Cladding & Decking <no-reply@aggtecomposites.com>';
+$conf_sender = 'AGGTE WPC Cladding & Decking <no-reply@aggtedeck.com>';
 $msg = "Your email: $email\n" . "\n" ."Hi" ." ". $_POST['name'] . ",\n\nThank you for your inquiries. A member of our
 team will respond to your message as soon as possible.";
 mail( $_POST['email'], $conf_subject, $msg, 'From: ' . $conf_sender );
