@@ -117,7 +117,9 @@
                 <li><i class="fa fa-phone"></i><span>Globe 0916 377 0871</span></li>
                   <li><i class="fa fa-phone"></i><span>Smart 0929 3185482</span></li>
                   <li><i class="fa fa-phone"></i><span>Landline(043) 740 3512</span></li>
-                <li><i class="fa fa-envelope-o"></i><span>sales@aggtedeck.com</span></li>
+                  <li><i class="fa fa-envelope-o"></i><span>info@aggtedeck.com</span></li>
+                  <li><i class="fa fa-envelope-o"></i><span>quote@aggtedeck.com</span></li>
+                  <li><i class="fa fa-envelope-o"></i><span>sales@aggtedeck.com</span></li>
               </ul>
             </div>
           </div>
@@ -319,7 +321,7 @@
                     <!-- Fourth Paragraph -->
                     <p><strong>Disclaimer Of Warranties</strong><br>
                     Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) makes no other warranties, guarantees or indemnities, whether expressed  or implied, arising by law, course of dealings, usage of trade, customer or otherwise, including but not limited to the implied warranty of merchantability and implied warranty of fitness for a particular purpose, and all such other warranties, guarantees and indemnities are hereby disclaimed, overridden and excluded from this transaction, except for the express written warranty contained herein. <br>
-                    Limitation of remedies and exclusion of consequential and incidental damages:  The liabilities of <a target="_blank" href="https://aquaponicsgogreen.com/">Go Green Trading & Enterprise</a> (T/A AGGTE Composites) are limited solely and exclusively to the obligations specifically undertaken herein, and under no circumstances will Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) be liable or obligated towards any incidental consequential, indirect, special, punitive or any other damages of any kind whatsoever (including, but not limited to, lost profits, lost sales, loss of goodwill, use of money, use of goods, stoppage of work, or impairment of assets), whether foreseeable or unforeseeable, arising out of the breach of failure of express or implied warranty, breach of contract, fraud, misrepresentation, negligence, strict liability in tort or otherwise, except and only to the extent this limitation is specifically precluded by applicable law of mandatory application. Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) liability with respect to defective products shall in no event exceed the replacement of such products of the purchase price, as described above.</p>
+                    Limitation of remedies and exclusion of consequential and incidental damages:  The liabilities of <a target="_blank" href="https://www.aggtedeck.com/">Go Green Trading & Enterprise</a> (T/A AGGTE Composites) are limited solely and exclusively to the obligations specifically undertaken herein, and under no circumstances will Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) be liable or obligated towards any incidental consequential, indirect, special, punitive or any other damages of any kind whatsoever (including, but not limited to, lost profits, lost sales, loss of goodwill, use of money, use of goods, stoppage of work, or impairment of assets), whether foreseeable or unforeseeable, arising out of the breach of failure of express or implied warranty, breach of contract, fraud, misrepresentation, negligence, strict liability in tort or otherwise, except and only to the extent this limitation is specifically precluded by applicable law of mandatory application. Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) liability with respect to defective products shall in no event exceed the replacement of such products of the purchase price, as described above.</p>
                 </div>
               <button class="tg-theme-btn tg-theme-btn-lg" type="submit" href="#" data-dismiss="modal" aria-label="Close">Close</button>
     </div>
@@ -358,7 +360,7 @@
 
                     The use of the website and any dispute arising out of its use shall be subject to the Laws of the Philippines.<br>
 
-                        Please also see our privacy policy for more information or email us at <a target="_blank" href="contact.php">sales@aggtecomposites.com</a> if you have any questions.<br></p>
+                        Please also see our privacy policy for more information or email us at <a target="_blank" href="contact.php">info@aggtedeck.com</a> if you have any questions.<br></p>
                     <!-- End Intro -->
 
                     <!-- Terms and Conditions for Sale of Goods -->
