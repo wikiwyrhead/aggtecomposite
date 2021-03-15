@@ -7,9 +7,9 @@
 <meta charset="UTF-8">
 <title>AGGTE WPC Cladding & Decking</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="description" content="AGG WPC Cladding Decking">
-<meta name="keywords" content="WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates">
-<meta name="author" content="">
+<meta name="description" content="AGGTE WPC Cladding & Decking">
+<meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite">
+<meta name="author" content="Janzen Go">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="images/iconfast.png">
@@ -36,10 +36,9 @@
   <!--preloader start-->
   <div class="preloader"></div>
   <!--preloader end-->
-  <!--main-header start-->
-
-<?php include 'header.php'; ?>
-  <!--main-header end-->
+    <!--main-header start-->
+        <?php include 'header.php'; ?>
+    <!--main-header-end-->
   <!--slider start-->
    <!--slider start-->
   <div class="staticSlider">
@@ -471,7 +470,9 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
   </div>
 </div>
 <!--Testimonials End-->
+    <!--footer-sec-start-->
       <?php include 'footer.php'; ?>
+    <!--footer-sec-end-->
 </div>
 
 

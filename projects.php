@@ -6,9 +6,9 @@
 <meta charset="UTF-8">
 <title>AGGTE WPC Cladding & Decking</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="description" content="AGG WPC Cladding Decking">
-<meta name="keywords" content="WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates">
-<meta name="author" content="">
+<meta name="description" content="AGGTE WPC Cladding & Decking">
+<meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite">
+<meta name="author" content="Janzen Go">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="images/iconfast.png">
@@ -30,12 +30,9 @@
   <!--preloader start-->
   <div class="preloader"></div>
   <!--preloader end-->
-  <!--main-header start-->
-
-
-
-<?php include 'header.php'; ?>
-
+    <!--main-header start-->
+        <?php include 'header.php'; ?>
+    <!--main-header-end-->
   <!--inner-heading start-->
   <section class="inner-heading">
     <div class="container">
@@ -46,12 +43,6 @@
     </div>
   </section>
   <!--inner-heading end-->
-
-
-
-
-
-
 <!--portfolio-area start-->
 <section class="bg-gray portfolio-area">
   <!--container start-->
@@ -110,8 +101,8 @@
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item branding cladding">
           <div class="image-hover-effect-4"> <img src="images/gallery/cladding_a.jpg" alt="img-4">
             <div class="caption">
-              <h3>Parañaque, Metro Manila</h3>
-              <p>WPC Cladding</p>
+              <h3>WPC Cladding</h3>
+              <p>Batangas City</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/cladding_a.jpg" title="WPC Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
@@ -265,7 +256,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/cladding_f.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Cladding</h3>
-              <p>Pasig City, Metro Manila</p>
+              <p>Alabang, Manila</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/cladding_f.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
@@ -345,11 +336,9 @@
   <!--container end-->
 </section>
 <!--portfolio-area end-->
-
-
-
-
+    <!--footer-sec-start-->
       <?php include 'footer.php'; ?>
+    <!--footer-sec-end-->
 </div>
 <!--scroll-to-top start-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>

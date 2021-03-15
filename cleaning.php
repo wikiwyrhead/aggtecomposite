@@ -30,14 +30,9 @@
   <!--preloader start-->
   <div class="preloader"></div>
   <!--preloader end-->
-  <!--main-header start-->
-
-
-<?php include 'header.php'; ?>
-
-
-  <!--main-header end-->
-
+    <!--main-header start-->
+        <?php include 'header.php'; ?>
+    <!--main-header-end-->
   <section class="inner-heading">
     <div class="container">
       <h1>Cleaning Guides</h1>
@@ -54,7 +49,7 @@
 </span></h3>
       </div>
       <div class="row advan">
-          <p>Our composite decking <a target="_blank" href="about.php">comes with the reassurance of continual performance year-on-year</a>, however we know that with a little care and attention once in a while, our boards can continue to look their sparkling best. This section will give you some handy tips on how to care for your decking.</p>
+          <p>Our composite decking <a target="_blank" href="about.php#advantage">comes with the reassurance of continual performance year-on-year</a>, however we know that with a little care and attention once in a while, our boards can continue to look their sparkling best. This section will give you some handy tips on how to care for your decking.</p>
       </div>
 
     </div>
@@ -221,7 +216,9 @@
     <!--container end-->
   </section>
   <!--stbb-info end-->.
+    <!--footer-sec-start-->
       <?php include 'footer.php'; ?>
+    <!--footer-sec-end-->
 </div>
 <!--scroll-to-top start-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
