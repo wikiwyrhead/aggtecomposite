@@ -764,7 +764,7 @@ bottom:25px; z-index: 10;right:50%; background:rgb(255, 255, 255); padding:5px; 
 .footer-sec .copyright-content .footer-bottom-menu li a{display:block; font-size:14px; color:#c7c7c7; margin-left:15px; transition:all 0.5s ease; -moz-transition:all 0.5s ease;
 	 -webkit-transition:all 0.5s ease; -ms-transition:all 0.5s ease; -o-transition:all 0.5s ease; }
 .footer-sec .copyright-content .footer-bottom-menu li a:hover{color:#228b22; }
-	
+.footer-logo-default{margin-left: -20px;}
 	/*********************************************
 				 inner-heading
 	*********************************************/
