@@ -144,6 +144,7 @@
         <div class="col-md-6 col-sm-6">
           <ul class="footer-bottom-menu">
             <!--<li> <a href="#">Sitemap</a> </li>-->
+             <li> <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a> </li>
             <li> <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".bs-example-modal-md-4">Product Warranty </a> </li>
             <li> <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".priv">Privacy Policy</a> </li>
           </ul>
