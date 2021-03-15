@@ -294,34 +294,34 @@
                 <div class="warranty-content">
                   <p><br><strong>AGGTE WPC Cladding & Decking Limited Warranty Details</strong><br>
                       <!-- First Paragraph -->
-                      Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) warrants to the original purchaser (“Purchaser”):<br>
-                        •	a period of three (3) years (Local Warranty) for selected products for residential application from the date of original purchase; and<br>
+                      Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) warrants to the original purchaser (“Purchaser”):<br>
+                        •	a period of two (2) years (Local Warranty) for selected products for residential application from the date of original purchase; and<br>
                         •	one (1) year (Local Warranty) for selected products used for commercial application from the date of original purchase<br>
                       under normal use and service conditions. Provided further that the Decking/Cladding Materials are free from material defects in workmanship and that the materials does not <a target="_blank" href="about.php#advantage">split, splinter, rot or suffer structural damage from termites decay</a>. For reference regarding this warranty, kindly refer to the WPC Cladding/Decking Installation Manual. All warranties are subject to the exclusions, limitations and restrictions set forth below.
                     </p>
                         <!-- Second Paragraph -->
                     <p><strong>Obtaining Warranty Performance</strong><br>
-                    In the event that the purchaser discovers a defect in the Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) Products during the term of warranty, the purchaser must:<br>
+                    In the event that the purchaser discovers a defect in the Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) Products during the term of warranty, the purchaser must:<br>
                         •	notify  AGG Trading & Enterprise in email, at following <a target="_blank" href="contact.php">email address: sales@aggtedeck.com</a>. within thirty (30) days but not later than the end of the term upon the discovery of the alleged defect; and<br>
                         •	include in the notification the proof of purchase and a statement explaining the defect for our reference.<br>
-                    Additional information may also be requested from you by the company or we may opt to do an actual visit in the location of installation for us to be able to do a more accurate assessment and investigation of the extent of the defect. Immediately after the said assessment and or validation/review of all the information at hand, Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) will determine the validity of the claim. If the purchaser’s claim is found to be valid by the company, Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) will, at its option, either replace the defective Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) Products or discuss with the purchaser for possible remedies for such defective Materials/Products. However, this warranty shall not cover, and Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) shall not be responsible for the costs and other expenses to be incurred relevant to the removal of the defective Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) products or the installation of the materials including but not limited to, labor and delivery.
+                    Additional information may also be requested from you by the company or we may opt to do an actual visit in the location of installation for us to be able to do a more accurate assessment and investigation of the extent of the defect. Immediately after the said assessment and or validation/review of all the information at hand, Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) will determine the validity of the claim. If the purchaser’s claim is found to be valid by the company, Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) will, at its option, either replace the defective Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) Products or discuss with the purchaser for possible remedies for such defective Materials/Products. However, this warranty shall not cover, and Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) shall not be responsible for the costs and other expenses to be incurred relevant to the removal of the defective Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) products or the installation of the materials including but not limited to, labor and delivery.
                     </p>
                     <!-- Third Paragraph -->
                     <p><strong>Exclusions From Warranty Coverage</strong><br>
                     AGG Trading & Enterprise does not warrant against and is not responsible for, and no implied warranty shall be deemed to cover, any product failure, product malfunction, or damages attributable to: <br>
-                        (1) improper installation of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) Products and/or failure to abide by Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) installation guidelines, including but not limited to improper gapping; <br>
-                        (2) use of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) Products beyond normal use, or in an application not recommended by Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) guidelines and local building codes; <br>
-                        (3) movement, distortion, collapse or settling of the ground or the supporting structure on which the Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) Products are installed; <br>
+                        (1) improper installation of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) Products and/or failure to abide by Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) installation guidelines, including but not limited to improper gapping; <br>
+                        (2) use of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) Products beyond normal use, or in an application not recommended by Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) guidelines and local building codes; <br>
+                        (3) movement, distortion, collapse or settling of the ground or the supporting structure on which the Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) Products are installed; <br>
                         (4) any act of God (such as flooding, hurricane, earthquake, lightning, etc.), environmental condition (such as air pollution, mould, mildew, etc.), or staining from foreign substances (such as dirt, grease, oil, etc.); <br>
-                        (5) variations or changes in color of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) Products;<br>
+                        (5) variations or changes in color of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) Products;<br>
                         (6) normal weathering due to exposure to sunlight, weather and atmosphere which can cause colored surfaces to, among other things, flake, chalk, or accumulate dirt or stains;<br>
                         (7) ordinary wear and tear or <br>
-                        (8) improper handling, storage, abuse or neglect of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) Products by the purchaser, the transferee or third parties. The purchaser is solely responsible for determining the effectiveness, fitness, suitability and safety of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) Products in connection with their use in any particular application.<br>
+                        (8) improper handling, storage, abuse or neglect of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) Products by the purchaser, the transferee or third parties. The purchaser is solely responsible for determining the effectiveness, fitness, suitability and safety of the Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) Products in connection with their use in any particular application.<br>
                     </p>
                     <!-- Fourth Paragraph -->
                     <p><strong>Disclaimer Of Warranties</strong><br>
-                    Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) makes no other warranties, guarantees or indemnities, whether expressed  or implied, arising by law, course of dealings, usage of trade, customer or otherwise, including but not limited to the implied warranty of merchantability and implied warranty of fitness for a particular purpose, and all such other warranties, guarantees and indemnities are hereby disclaimed, overridden and excluded from this transaction, except for the express written warranty contained herein. <br>
-                    Limitation of remedies and exclusion of consequential and incidental damages:  The liabilities of <a target="_blank" href="https://www.aggtedeck.com/">Go Green Trading & Enterprise</a> (T/A AGGTE Composites) are limited solely and exclusively to the obligations specifically undertaken herein, and under no circumstances will Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) be liable or obligated towards any incidental consequential, indirect, special, punitive or any other damages of any kind whatsoever (including, but not limited to, lost profits, lost sales, loss of goodwill, use of money, use of goods, stoppage of work, or impairment of assets), whether foreseeable or unforeseeable, arising out of the breach of failure of express or implied warranty, breach of contract, fraud, misrepresentation, negligence, strict liability in tort or otherwise, except and only to the extent this limitation is specifically precluded by applicable law of mandatory application. Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) liability with respect to defective products shall in no event exceed the replacement of such products of the purchase price, as described above.</p>
+                    Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) makes no other warranties, guarantees or indemnities, whether expressed  or implied, arising by law, course of dealings, usage of trade, customer or otherwise, including but not limited to the implied warranty of merchantability and implied warranty of fitness for a particular purpose, and all such other warranties, guarantees and indemnities are hereby disclaimed, overridden and excluded from this transaction, except for the express written warranty contained herein. <br>
+                    Limitation of remedies and exclusion of consequential and incidental damages:  The liabilities of <a target="_blank" href="https://www.aggtedeck.com/">Go Green Trading & Enterprise</a> (T/A AGGTE WPC Cladding & Decking) are limited solely and exclusively to the obligations specifically undertaken herein, and under no circumstances will Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) be liable or obligated towards any incidental consequential, indirect, special, punitive or any other damages of any kind whatsoever (including, but not limited to, lost profits, lost sales, loss of goodwill, use of money, use of goods, stoppage of work, or impairment of assets), whether foreseeable or unforeseeable, arising out of the breach of failure of express or implied warranty, breach of contract, fraud, misrepresentation, negligence, strict liability in tort or otherwise, except and only to the extent this limitation is specifically precluded by applicable law of mandatory application. Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) liability with respect to defective products shall in no event exceed the replacement of such products of the purchase price, as described above.</p>
                 </div>
               <button class="tg-theme-btn tg-theme-btn-lg" type="submit" href="#" data-dismiss="modal" aria-label="Close">Close</button>
     </div>
@@ -336,13 +336,13 @@
         <h2 class="modal-title">TERMS AND CONDITIONS</h2>
                 <div class="privacy-content">
                     <!-- Start Intro -->
-                  <p><br>There are terms and conditions that apply relevant to the use of the  AGGTE Composites website . This page will tell you how these conditions would be applicable. The conditions to be stipulated herein shall be in full effect upon the use of the website and once you open it, it means that you agree with all the terms and conditions given. If you disagree with any of the terms and conditions given, please refrain from using our website.</p><br>
+                  <p><br>There are terms and conditions that apply relevant to the use of the  AGGTE WPC Cladding & Decking website . This page will tell you how these conditions would be applicable. The conditions to be stipulated herein shall be in full effect upon the use of the website and once you open it, it means that you agree with all the terms and conditions given. If you disagree with any of the terms and conditions given, please refrain from using our website.</p><br>
 
                     <p><strong class="larger">Our Terminology</strong><br>
 
-                    We will refer to ourselves as “AGGTE Composites”, “us”, or “we” throughout the website. On the other hand, when we say “you”, we are referring to the user or viewer of this site.<br><br>
+                    We will refer to ourselves as “AGGTE WPC Cladding & Decking”, “us”, or “we” throughout the website. On the other hand, when we say “you”, we are referring to the user or viewer of this site.<br><br>
 
-                    The registered office for Aquaponics Go Green Trading & Enterprises (T/A AGGTE Composites)  is based at Bagong Daan, Diversion Road, Brgy. Cawit, 4208 Taal, Batangas, Philippines. The registered company number is ####.</p>
+                    The registered office for Aquaponics Go Green Trading & Enterprises (T/A AGGTE WPC Cladding & Decking)  is based at Bagong Daan, Diversion Road, Brgy. Cawit, 4208 Taal, Batangas, Philippines. The registered company number is ####.</p>
 
                     <p><strong>Use of our website is subject to these following terms of use:</strong><br>
 
@@ -356,7 +356,7 @@
 
                     There are trademarks used in this website which are not a property of or is not licensed to the operator but the sources have been acknowledged herein.<br>
 
-                    Unauthorized use of this website may give rise to a claim for damages and/or be a criminal offense. Also, Linking this website to another website or document without the consent of AGGTE Composites is highly prohibited.<br>
+                    Unauthorized use of this website may give rise to a claim for damages and/or be a criminal offense. Also, Linking this website to another website or document without the consent of AGGTE WPC Cladding & Decking is highly prohibited.<br>
 
                     The use of the website and any dispute arising out of its use shall be subject to the Laws of the Philippines.<br>
 
@@ -369,7 +369,7 @@
                         <strong>Definitions</strong><br>
                     </p>
                         <ul>
-                            <li>•	AGGTE Composites: We or us.</li>
+                            <li>•	AGGTE WPC Cladding & Decking: We or us.</li>
                             <li>•	Customer: Any person who buys goods from us for purposes that is outside his trade, business or profession.</li>
                             <li>•	Goods: All goods and services sold by us to you including packaging, manuals and any other ancillary components.</li>
                             <li>•	Conditions: This means the terms and conditions of sale set out in this document and any special terms and conditions agreed in writing by us.</li><br>
@@ -553,7 +553,7 @@
 
                     <p><strong class="larger">Important Information and Who We Are</strong></p>
                         <p><strong>Purpose of this privacy notice</strong>
-                    The purpose of this privacy notice is to give you vital information regarding how AGGTE Composites collect and process the personal data that you will be providing our company once you enter into a contract with us. This contract shall cover any transaction done either personally or in behalf of a company by availing of our products and services, making inquiries and payments or visiting our websites regardless of where you visit from or otherwise.<br>
+                    The purpose of this privacy notice is to give you vital information regarding how AGGTE WPC Cladding & Decking collect and process the personal data that you will be providing our company once you enter into a contract with us. This contract shall cover any transaction done either personally or in behalf of a company by availing of our products and services, making inquiries and payments or visiting our websites regardless of where you visit from or otherwise.<br>
 
                     Please take note also that we do not collect data relating to children<br>
 
@@ -561,15 +561,15 @@
 
                     <p><strong>Controller</strong><br>
 
-                    The terms “Company”, “we”, “us”, or “our” which are used in this privacy notice refers to AGGTE Composites. Thus, AGGTE Composites is considered as the controller and is directly responsible for the personal data that you will entrust to us.<br>
+                    The terms “Company”, “we”, “us”, or “our” which are used in this privacy notice refers to AGGTE WPC Cladding & Decking. Thus, AGGTE WPC Cladding & Decking is considered as the controller and is directly responsible for the personal data that you will entrust to us.<br>
 
                     To be able to ensure efficient data management, we have appointed a Data Privacy Manager who is responsible for handling the questions regarding our privacy notice. Included also in his functions is to look into any requests to exercise customer’s legal rights. Should you have any concerns about personal data, you may contact our Data Privacy Manager on the details given below:</p>
 
                     <p><strong>Contact details</strong><br>
 
-                    Aquaponics Go Green Trading & Enterprise (T/A AGGTE Composites) – for the attention of the data privacy manager.<br>
+                    Aquaponics Go Green Trading & Enterprise (T/A AGGTE WPC Cladding & Decking) – for the attention of the data privacy manager.<br>
 
-                    <a target="_blank" href="contact.php">Bagong Daan, Diversion Road, Brgy. Cawit, 4208 Taal, Batangas, Philippines enquiries@AGGTE Composites.com</a></p>
+                    <a target="_blank" href="contact.php">Bagong Daan, Diversion Road, Brgy. Cawit, 4208 Taal, Batangas, Philippines info@aggtedeck.com</a></p>
 
                     <p><strong>Changes to the privacy notice and your duty to inform us of changes</strong><br>
                     It is important that we hold updated information about you. Since this version was created last December 2021, we would greatly appreciate if you will keep us informed about the changes of your personal details to ensure a smooth transaction with us.</p>
