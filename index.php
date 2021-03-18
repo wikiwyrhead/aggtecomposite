@@ -28,10 +28,9 @@
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 </head>
 <body>
-
-
-
-
+    <!--Facebook Plugin Start-->
+    <?php include 'fbplug.php'; ?>
+    <!--Facebook Plugin End-->
   <div class="page-wrapper">
   <!--preloader start-->
   <div class="preloader"></div>
