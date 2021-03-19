@@ -28,7 +28,7 @@ mail( $_POST['email'], $conf_subject, $msg, 'From: ' . $conf_sender );
 //----------Send to company email. ---------
 
     /* $send = @mail($to_email,$subject,$message,$headers); */
-    if(@mail($to_email,$subject,$message,$headers)) {
+    if(@mail($email,$subject,$message,$headers)) {
         echo "<div class='preloader'></div><center><h1 style='position: relative;top: 250px;font-family:Arial;'>Your message was successfully sent!</h1></center>";
         echo "<script>
             window.setTimeout(function() {
