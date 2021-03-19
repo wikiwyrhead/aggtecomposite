@@ -479,7 +479,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
 
 
 <!--scroll-to-top start-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
+<!--<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>-->
 <!--scroll-to-top end-->
 
 <!--j query start-->

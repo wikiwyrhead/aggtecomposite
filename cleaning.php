@@ -224,7 +224,7 @@
     <!--footer-sec-end-->
 </div>
 <!--scroll-to-top start-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
+<!--<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>-->
 <!--scroll-to-top end-->
 
 <!--jquery start-->
