@@ -27,6 +27,9 @@
 <link href="rs-plugin/css/settings.css" rel="stylesheet">
 </head>
 <body>
+    <!-- Load Facebook SDK for JavaScript -->
+<?php include 'fbplug.php'; ?>
+<!--Load Facebook SDK for JavaScript End Here-->
 <div class="page-wrapper">
   <!--preloader start-->
   <div class="preloader"></div>

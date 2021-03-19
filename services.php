@@ -27,6 +27,9 @@
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 </head>
 <body onload="unLoad()" style="overflow-x: hidden">
+    <!-- Load Facebook SDK for JavaScript -->
+<?php include 'fbplug.php'; ?>
+<!--Load Facebook SDK for JavaScript End Here-->
 <div class="page-wrapper">
   <!--preloader start-->
   <div class="preloader"></div>
