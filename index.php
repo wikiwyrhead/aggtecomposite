@@ -142,7 +142,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
               <p> An excellent composite decking product will provide any outdoor space with a genuine-modern finish, including a wide variety of features that will ensure your protection and peace of mind in the years to come, thus, giving you’re the privilege of enjoying the sight of your deck area.
                   <br><br>
                   We have specified here every detail of our range of product and laid-down their key features. This section of our site will generally give you more information that will give you a concrete idea on the different product features that definitely see AGGTE miles away from its competitors and will lead you to the right direction in choosing for the ideal supplier of your construction needs.
-                  <br><br><br><br><br></p>
+                  <br><br><br><br><br><br></p>
             </div>
           </div>
         </div>
