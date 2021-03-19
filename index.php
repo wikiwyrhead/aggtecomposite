@@ -31,7 +31,7 @@
 
 <!-- Load Facebook SDK for JavaScript -->
 <?php include 'fbplug.php'; ?>
-<!--Load Facebook SDK for JavaScript End Here-->
+<!--Load Facebook SDK for JavaScript Ends Here-->
 
   <div class="page-wrapper">
   <!--preloader start-->
