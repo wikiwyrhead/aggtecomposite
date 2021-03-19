@@ -234,7 +234,7 @@
     <div class="modal-content">
       <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
       <h2 class="modal-title">GET A FREE QUOTE</h2>
-      <form class="login-form" method="post" action="php/form.php" name="quote-form" role="form">
+      <form class="login-form" method="post" action="php/quote.php" name="quote-form" role="form">
         <fieldset>
           <div class="form-group">
             <input type="text" name="name" class="form-control" placeholder="Your Name" required data-error="Your Name is required.">
