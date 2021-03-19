@@ -61,7 +61,7 @@
             <li><a href="https://www.facebook.com/wpc.claddingdecking" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
             <li><a href="https://twitter.com/share?url=https%3A%2F%2Faquaponicsgogreen.com&text=AquaponicsGoGreen" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
             <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-            <li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/aggte-wpc-cladding-and-decking-334790209/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
           </ul>
             <br>
             <div class="footer-logo">
@@ -343,7 +343,7 @@
 
                     We will refer to ourselves as “AGGTE WPC Cladding & Decking”, “us”, or “we” throughout the website. On the other hand, when we say “you”, we are referring to the user or viewer of this site.<br><br>
 
-                    The registered office for Aquaponics Go Green Trading & Enterprises (T/A AGGTE WPC Cladding & Decking)  is based at Bagong Daan, Diversion Road, Brgy. Cawit, 4208 Taal, Batangas, Philippines. The registered company number is ####.</p>
+                    The registered office for Aquaponics Go Green Trading & Enterprises (T/A AGGTE WPC Cladding & Decking)  is based at Bagong Daan, Diversion Road, Brgy. Cawit, 4208 Taal, Batangas, Philippines. The DTI business registered company number is 1267182 with BIR COR number: 297-844-375-000.</p>
 
                     <p><strong>Use of our website is subject to these following terms of use:</strong><br>
 

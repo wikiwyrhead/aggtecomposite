@@ -27,6 +27,9 @@
 <link href="rs-plugin/css/settings.css" rel="stylesheet">
 </head>
 <body>
+    <!-- Load Facebook SDK for JavaScript -->
+<?php include 'fbplug.php'; ?>
+<!--Load Facebook SDK for JavaScript End Here-->
 <div class="page-wrapper">
   <!--preloader start-->
   <div class="preloader"></div>
@@ -291,7 +294,7 @@
     <!--footer-sec-end-->
 </div>
 <!--scroll-to-top start-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
+<!--<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>-->
 <!--scroll-to-top end-->
 
 <!--jquery start-->

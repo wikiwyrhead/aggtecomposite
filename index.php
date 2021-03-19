@@ -29,32 +29,9 @@
 </head>
 <body>
 
-    <!-- Load Facebook SDK for JavaScript -->
-
-<div id="fb-root"></div>
-<script>
-window.fbAsyncInit = function() {
-  FB.init({
-    xfbml            : true,
-    version          : 'v10.0'
-  });
-};
-
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<!-- Your Chat Plugin code -->
-<div class="fb-customerchat"
-  attribution="install_email"
-  page_id="110618234039433">
-</div>
-
-    <!--Load Facebook SDK for JavaScript End Here-->
+<!-- Load Facebook SDK for JavaScript -->
+<?php include 'fbplug.php'; ?>
+<!--Load Facebook SDK for JavaScript Ends Here-->
 
   <div class="page-wrapper">
   <!--preloader start-->
@@ -165,7 +142,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
               <p> An excellent composite decking product will provide any outdoor space with a genuine-modern finish, including a wide variety of features that will ensure your protection and peace of mind in the years to come, thus, giving you’re the privilege of enjoying the sight of your deck area.
                   <br><br>
                   We have specified here every detail of our range of product and laid-down their key features. This section of our site will generally give you more information that will give you a concrete idea on the different product features that definitely see AGGTE miles away from its competitors and will lead you to the right direction in choosing for the ideal supplier of your construction needs.
-                  <br><br><br><br><br></p>
+                  <br><br><br><br><br><br></p>
             </div>
           </div>
         </div>
@@ -502,7 +479,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
 
 
 <!--scroll-to-top start-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
+<!--<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>-->
 <!--scroll-to-top end-->
 
 <!--j query start-->
