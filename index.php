@@ -78,8 +78,8 @@
       <!--col start-->
       <div class="col-md-6 col-sm-push-6">
         <div class="section-title">
-          <h3>Welcome to<br>
-            <span>Aquaponics Go Green Trading Enterprise WPC Cladding & Decking </span></h3>
+          <h3>Aquaponics Go Green Trading Enterprise<br>
+            <span>Composite Cladding & Decking</span></h3>
           <h4>Unlike wood, WPC Cladding & Decking won't: </h4>
             <div class="about-description">
           <ul>
