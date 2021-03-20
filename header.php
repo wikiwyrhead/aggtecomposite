@@ -69,7 +69,7 @@
                 </div>
                 <div class="navbar-collapse collapse clearfix">
                   <ul class="navigation clearfix">
-                    <li class="current"><a class="hvr-link" href="index.php">Home</a>
+                    <li class="current"><a class="hvr-link" href="index">Home</a>
                         <!--Drop Down-->
                     <!--<ul>
                       <li><a class="hvr-link" href="index.php">Homepage Slider</a></li>
@@ -78,18 +78,18 @@
                   </li>
                     <li class="dropdown"><a class="hvr-link" href="#">About</a>
                       <ul>
-                        <li><a class="hvr-link" href="about.php">About</a></li>
-                        <li><a class="hvr-link" href="our-team.php">Team</a></li>
-                        <li><a class="hvr-link" href="faq.php">FAQ's</a></li>
+                        <li><a class="hvr-link" href="about">About</a></li>
+                        <li><a class="hvr-link" href="our-team">Team</a></li>
+                        <li><a class="hvr-link" href="faq">FAQ's</a></li>
                         <!--<li><a class="hvr-link" href="404.php">404 Page</a></li>-->
                         <!--<li><a class="hvr-link" href="testimonial.php">Testimonials</a></li>-->
                         <!--<li><a class="hvr-link" href="typoghrapy.php">Typoghrapy</a></li>-->
                         <!--<li><a class="hvr-link" href="coming-soon.php">Coming-soon</a></li>-->
                       </ul>
                     </li>
-                    <li class="dropdown"><a class="hvr-link" href="services.php">Services</a>
+                    <li class="dropdown"><a class="hvr-link" href="services">Services</a>
                       <ul>
-                        <li><a class="hvr-link" href="services.php">Services</a></li>
+                        <li><a class="hvr-link" href="services">Services</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".quote-modal" class="brochure-btn theme-btn hvr-link">Get a Quote</a></li>
                           <li><a class="hvr-link" href="cleaning">Cleaning Guides</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
@@ -119,7 +119,7 @@
                         <li> <a class="hvr-link" href="blog-details-slidebar.php"> Blog Details </a></li>
                       </ul>-->
                     <!--</li>-->
-                    <li><a class="hvr-link" href="contact.php">Contact</a></li>
+                    <li><a class="hvr-link" href="contact">Contact</a></li>
                   </ul>
                 </div>
                 <div class="clearfix"></div>
@@ -153,7 +153,7 @@
               </div>
               <div class="navbar-collapse collapse clearfix">
                 <ul class="navigation clearfix">
-                  <li class="current"><a class="hvr-link" href="index.php">Home</a>
+                  <li class="current"><a class="hvr-link" href="index">Home</a>
                     <!--<ul>
                       <li><a class="hvr-link" href="index.php">Homepage Slider</a></li>
                       <li><a class="hvr-link" href="index.php">Homepage Static</a></li>
@@ -161,9 +161,9 @@
                   </li>
                   <li class="dropdown"><a class="hvr-link" href="#">About</a>
                       <ul>
-                        <li><a class="hvr-link" href="about.php">About</a></li>
-                        <li><a class="hvr-link" href="our-team.php">Team</a></li>
-                        <li><a class="hvr-link" href="faq.php">FAQ's</a></li>
+                        <li><a class="hvr-link" href="about">About</a></li>
+                        <li><a class="hvr-link" href="our-team">Team</a></li>
+                        <li><a class="hvr-link" href="faq">FAQ's</a></li>
                         <!--<li><a class="hvr-link" href="404.php">404 Page</a></li>-->
                         <!--<li><a class="hvr-link" href="testimonial.php">Testimonials</a></li>-->
                         <!--<li><a class="hvr-link" href="typoghrapy.php">Typoghrapy</a></li>-->
@@ -172,13 +172,13 @@
                     </li>
                     <li class="dropdown"><a class="hvr-link" href="services.php">Services</a>
                       <ul>
-                        <li><a class="hvr-link" href="services.php">Services</a></li>
+                        <li><a class="hvr-link" href="services">Services</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".quote-modal" class="brochure-btn theme-btn hvr-link">Get a Quote</a></li>
-                          <li><a class="hvr-link" href="cleaning.php">Cleaning Guides</a></li>
+                          <li><a class="hvr-link" href="cleaning">Cleaning Guides</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="projects.php">Projects</a>
+                    <li><a class="hvr-link" href="projects">Projects</a>
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
                         <li><a class="hvr-link" href="projects.php">Project Three Column</a></li>
@@ -201,7 +201,7 @@
                         <li> <a class="hvr-link" href="blog-details-slidebar.php"> Blog Details </a></li>
                       </ul>-->
                     <!--</li>-->
-                  <li><a class="hvr-link" href="contact.php">Contact</a></li>
+                  <li><a class="hvr-link" href="contact">Contact</a></li>
                 </ul>
               </div>
             </nav>
