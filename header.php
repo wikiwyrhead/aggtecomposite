@@ -91,7 +91,7 @@
                       <ul>
                         <li><a class="hvr-link" href="services.php">Services</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".quote-modal" class="brochure-btn theme-btn hvr-link">Get a Quote</a></li>
-                          <li><a class="hvr-link" href="cleaning.php">Cleaning Guides</a></li>
+                          <li><a class="hvr-link" href="cleaning">Cleaning Guides</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
 
                       </ul>
