@@ -108,7 +108,7 @@
               <div class="details">
                 <h3>Working hour</h3>
                 <p> <strong>Mon - Sat : 8am to 5pm</strong> <br>
-                  Sunday : Closed</p>
+                  Sunday : Closed</p><br><br>
               </div>
             </div>
           </div>

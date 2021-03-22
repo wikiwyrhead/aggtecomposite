@@ -246,17 +246,39 @@
           <div class="form-group">
             <input type="email" name="email" class="form-control" placeholder="Email Address" required data-error="Valid email is required.">
           </div>
-
-            <! --Adding Radio button For Call Back -->
             <div class="form-group">
-                        <label>Request Phone Call?: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" name="address" class="form-control" placeholder="Address" required data-error="Valid Address is required.">
+          </div>
+
+            <!--Radio button For Profile-->
+            <div class="form-group">
+                        <label>Profile: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" value ="cladding" required data-error="required." name="profile">
+                       <em>Cladding</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" value ="decking" required data-error="required." name="profile">
+                       <em>Decking</em><br>
+                        </label>
+            </div>
+
+            <!--Radio button For Mode-->
+            <div class="form-group">
+                        <label>Mode: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" value ="delivery" required data-error="required." name="mode">
+                       <em>Delivery</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" value ="pickup" required data-error="required." name="mode">
+                       <em>Pickup</em><br>
+                        </label>
+            </div>
+
+            <!--Adding Radio button For Call Back -->
+            <div class="form-group">
+                        <label>Request Phone Call?: &nbsp;&nbsp;&nbsp;&nbsp;
                         <input type="radio" value ="Yes " required data-error="required." name="call">
-                       <em>Yes</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                       <em>Yes</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <input type="radio" value ="No" required data-error="required." name="call">
                        <em>No</em><br>
                         </label>
-              </div>
-
+            </div>
           <div class="form-group">
             <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Please provide the ff: &#10; -Location &#10; -Dimension (Total Area less openings, All side running meters for endcap computation) &#10; -Color &#10; -Profile (Cladding or Decking) &#10; -If Pick up / Shipment / Delivery &#10; -If with installation" maxlength="500"></textarea>
               Remaining characters: <span id="count"></span>

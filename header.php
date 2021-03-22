@@ -22,7 +22,7 @@
           <!--col start-->
           <div class="col-md-4 col-sm-6">
             <div class="top-left">
-              <p>Welcome to AGGTE WPC Cladding & Decking</p>
+              <p><i class="fa fa-phone" aria-hidden="true"></i> +63916-3770-871 &nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-envelope-o" aria-hidden="true"></i> sales@aggtedeck.com</p>
             </div>
           </div>
           <!--col end-->

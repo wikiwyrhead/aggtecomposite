@@ -1383,3 +1383,6 @@ a {
 .section-par p{
     text-indent: 15px;
 }
+form-group {
+    line-height: 1;
+}
