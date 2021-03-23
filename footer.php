@@ -228,13 +228,15 @@
   </div>
 </div>
 <!--registration-modal end-->
-<!--quote-modal start-->
+
+    <!--quote-modal start-->
 <div class="modal fade bs-example-modal-md-2 quote-modal" tabindex="-1" role="dialog">
   <div class="modal-dialog modal-md-2" role="document">
     <div class="modal-content">
       <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
       <h2 class="modal-title">GET A FREE QUOTE</h2>
-      <form class="login-form" method="post" action="php/quote.php" name="quote-form" role="form">
+
+        <form class="login-form" method="post" action="php/quote.php" name="quote-form" role="form" enctype="multipart/form-data">
         <fieldset>
           <div class="form-group">
             <input type="text" name="name" class="form-control" placeholder="Your Name" required data-error="Your Name is required.">
@@ -250,27 +252,50 @@
             <input type="text" name="address" class="form-control" placeholder="Address" required data-error="Valid Address is required.">
           </div>
 
+
             <!--Radio button For Profile-->
+            <label>Requirements: </label>
             <div class="form-group">
+
                         <label>Profile: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <input type="radio" value ="cladding" required data-error="required." name="profile">
                        <em>Cladding</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <input type="radio" value ="decking" required data-error="required." name="profile">
-                       <em>Decking</em><br>
+                       <em>Decking</em>
                         </label>
             </div>
 
+                <!--Requirements-->
+            <label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div class="form-group">
+
+                    <input type="text" name="area" class="form-control" placeholder="Total Area in sqm." required data-error="The total area is required."><br>
+
+                     <input type="text" name="perimeter" class="form-control" placeholder="Total Perimeter" required data-error="The total perimeter is required.">
+          </div>
+            </label>
+
             <!--Radio button For Mode-->
             <div class="form-group">
-                        <label>Mode: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <label>Mode of Delivery: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                         <input type="radio" value ="delivery" required data-error="required." name="mode">
-                       <em>Delivery</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                       <em>Deliver</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <input type="radio" value ="pickup" required data-error="required." name="mode">
                        <em>Pickup</em><br>
                         </label>
             </div>
 
-            <!--Adding Radio button For Call Back -->
+                        <!--Adding Radio button For Substructure -->
+            <div class="form-group">
+                        <label>Do you already have a substructure?:&nbsp; <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" value ="Yes " required data-error="required." name="subs">
+                       <em>Yes</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" value ="No" required data-error="required." name="subs">
+                       <em>No</em><br>
+                        </label>
+            </div>
+
+                <!--Adding Radio button For Call Back -->
             <div class="form-group">
                         <label>Request Phone Call?: &nbsp;&nbsp;&nbsp;&nbsp;
                         <input type="radio" value ="Yes " required data-error="required." name="call">
@@ -279,10 +304,21 @@
                        <em>No</em><br>
                         </label>
             </div>
+
+            <!--Message -->
+
           <div class="form-group">
-            <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Please provide the ff: &#10; -Location &#10; -Dimension (Total Area less openings, All side running meters for endcap computation) &#10; -Color &#10; -Profile (Cladding or Decking) &#10; -If Pick up / Shipment / Delivery &#10; -If with installation" maxlength="500"></textarea>
+            <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Your Message" maxlength="500"></textarea>
               Remaining characters: <span id="count"></span>
           </div>
+
+            <!--Attached File -->
+            <div class="form-group">
+            <label for="files">Please attached Floor Plan /Drawing:</label><br>
+          <input name="upload[]" type="file" multiple="multiple" />
+
+            </div>
+
           <div class="form-group">
             <label>
               <input type="checkbox" required data-error="checkbox is required.">
