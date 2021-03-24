@@ -335,7 +335,7 @@
       <!--row end-->
 
     </div>
-  </div>
+
   <!--container end-->
 </section>
 <!--portfolio-area end-->
