@@ -1,6 +1,4 @@
 <html lang="en">
-<!-- Load Facebook SDK for JavaScript -->
-
     <!-- Load Facebook SDK for JavaScript -->
       <div id="fb-root"></div>
       <script>
