@@ -61,6 +61,15 @@
               <div class="link-wrap"> <a href="https://www.facebook.com/AquaponicsGoGreen" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/aquaponicsgogreenph/" target="_blank"><i class="fa fa-instagram"></i></a> </div>
             </div>
           </li>
+            <li>
+            <div class="teamWrap"> <img src="images/team5.png" class="img-responsive" alt="img1">
+              <div class="caption">
+                <h3>Mrs. Elisa Ruhle</h3>
+                <p>General Manager</p>
+              </div>
+              <div class="link-wrap"> <a href="https://www.facebook.com/AquaponicsGoGreen" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/aquaponicsgogreenph/" target="_blank"><i class="fa fa-instagram"></i></a> </div>
+            </div>
+          </li>
           <li>
             <div class="teamWrap"> <img src="images/team1.png" class="img-responsive" alt="img1">
               <div class="caption">

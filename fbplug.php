@@ -1,6 +1,5 @@
 <html lang="en">
 <!-- Load Facebook SDK for JavaScript -->
-
 <div id="fb-root"></div>
 <script>
 window.fbAsyncInit = function() {
@@ -23,6 +22,5 @@ window.fbAsyncInit = function() {
   attribution="install_email"
   page_id="110618234039433">
 </div>
-
 <!--Load Facebook SDK for JavaScript End Here-->
 </html>

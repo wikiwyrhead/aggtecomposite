@@ -107,50 +107,71 @@
     <!--container end-->
   </section>
   <!--about-info end-->
-    <!--why_choose_us_sec start-->
-  <section class="why_choose_us_sec">
+      <!--about-info start-->
+ <section class="why_choose_us_sec">
+    <!--container start-->
     <div class="container">
-      <div class="section-title">
+      <!--row start-->
+      <div class="row">
+        <!--col start-->
+    <div class="section-title">
         <h3>Why <span>Choose Us</span></h3>
       </div>
-      <div class="col-md-5">
-
-          <div class="why_choose_us_sec_img"><img src="images/worker.png" alt="img" class="img-responsive" /></div>
-        </div>
-          <div name="divHrefB" style="height: 0px;width: 0px;overflow:hidden;">
-                <a href='https://www.freepik.com/photos/man'>Man photo created by karlyukav - www.freepik.com</a>
-            </div>
-
-            <div class="col-md-12">
-              <div class="single-why-choose-list"> <i class="fa fa-users"></i>
+        <div class="col-md-6 col-sm-push-6">
+          <div class="aboutUs-description">
+            <div class="row">
+              <!--col start-->
+              <div class="col-md-12">
+                <div class="single-why-choose-list"> <i class="fa fa-users"></i>
                 <h3>Workers</h3>
                 <p>Our workers are all well-versed about our products because they have undergone advanced training and were privileged to join a pool of professionals with very extensive <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite">WPC Cladding and Decking</a> experience in the industry.</p>
               </div>
-            </div>
-            <div class="col-md-12">
-              <div class="single-why-choose-list"><i class="fa fa-wrench"></i>
+              </div>
+              <!--col end-->
+
+              <!--col start-->
+              <div class="col-md-12">
+                <div class="single-why-choose-list"><i class="fa fa-wrench"></i>
                 <h3>Repairs</h3>
                 <p>Our company assures quick and immediate response upon queries and request addressed to us. To ensure excellent delivery of service, well-trained subcontractor builders are being assigned by the management. The team shall attend to the concerns of the clients and take action within 3 to 5 working days after receiving the information from the client.</p>
               </div>
-            </div>
-            <div class="col-md-12">
-              <div class="single-why-choose-list"> <i class="fa fa-th-large"></i>
+              </div>
+              <!--col end-->
+              <!--col start-->
+              <div class="col-md-12">
+                <div class="single-why-choose-list"> <i class="fa fa-th-large"></i>
                 <h3>Materials</h3>
                 <p>With a blend of elegance and strength, or come together as one weather-shrugging, long-lasting, easy-to-care on indoor or indoor applications, every AGGTE® WPC CLADDING & DECKING piece can stand on its own and this is its advantage over its competitors.</p>
               </div>
-            </div>
-            <div class="col-md-12">
-              <div class="single-why-choose-list"> <i class="fa fa-truck"></i>
+              </div>
+              <!--col end-->
+              <!--col start-->
+                <div class="col-md-12">
+                <div class="single-why-choose-list"> <i class="fa fa-truck"></i>
                 <h3>Delivery</h3>
                 <p>We are determined to dispatch all your orders within one-working day. However, we advise you to give us at least 3-5 working days to deliver your goods after you have confirmed your orders. As an alternative, items may be collected at our warehouse in Taal, Batangas upon arrangement. Please call us on<a target="_blank" href="contact.php"> 09163770871 </a>to discuss this service if you prefer it.</p>
+              </div>
               </div>
             </div>
           </div>
         </div>
+        <!--col end-->
+        <!--col start-->
+        <div class="col-md-6 col-sm-pull-6">
+          <div class="about-img"><br><br><br>
+            <figure> <img src="images/worker.png" class="img-responsive" alt="Image" id="sec-image-and"></figure>
+          </div>
+            <div name="divHrefB" style="height: 0px;width: 0px;overflow:hidden;">
+                <a href='https://www.freepik.com/vectors/sale'>Sale vector created by macrovector - www.freepik.com</a>
+            </div>
+        </div>
+        <!--col start-->
       </div>
+      <!--row end-->
     </div>
+    <!--container end-->
   </section>
-  <!--why_choose_us_sec end-->
+  <!--about-info end-->
     <!--why_choose_us_sec start-->
   <section id="advantage" class="why_choose_us_sec" style="background: #fff">
     <div class="container">

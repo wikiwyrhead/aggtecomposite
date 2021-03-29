@@ -38,7 +38,7 @@
   <div class="preloader"></div>
   <!--preloader end-->
     <!--main-header start-->
-        <?php include 'header.php'; ?>
+<?php include 'header.php'; ?>
     <!--main-header-end-->
   <!--slider start-->
    <!--slider start-->
