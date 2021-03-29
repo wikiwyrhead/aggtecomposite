@@ -69,12 +69,12 @@
       <ul class="row container-masonry  portfolio-posts grid">
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item grid-sizer gates">
-          <div class="image-hover-effect-4"> <img src="images/gallery/gate_a.jpg" alt="img-1">
+          <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_a.jpg" alt="img-1">
             <div class="caption">
               <h3>WPC Gate</h3>
               <p>Quezon City, Metro Manila</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gate_a.jpg" title="WPC Gates" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/gates/gate_a.jpg" title="WPC Gates" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
