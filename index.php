@@ -184,7 +184,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
       <div class="col-md-3 col-sm-6 col-xs-12 counter-item">
         <div class="counterbox">
           <div class="counter-icon"><i class="fa fa-list-ul" aria-hidden="true"></i></div>
-          <div class="counter_area"><span class="counter-number" data-from="1" data-to="5" data-speed="1900">4</span> <span class="counter-text">years serving</span> </div>
+          <div class="counter_area"><span class="counter-number" data-from="1" data-to="6" data-speed="1900">4</span> <span class="counter-text">years serving</span> </div>
         </div>
       </div>
       <!--col end-->
@@ -192,7 +192,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
       <div class="col-md-3 col-sm-6 col-xs-12 counter-item">
         <div class="counterbox">
           <div class="counter-icon"><i class="fa fa-users" aria-hidden="true"></i></div>
-          <div class="counter_area"> <span class="counter-number" data-from="1" data-to="3" data-speed="2500">3</span> <span class="counter-text">Expert</span> </div>
+          <div class="counter_area"> <span class="counter-number" data-from="1" data-to="5" data-speed="2500">3</span> <span class="counter-text">Expert</span> </div>
         </div>
       </div>
       <!--col end-->
@@ -200,7 +200,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
       <div class="col-md-3 col-sm-6 col-xs-12 counter-item">
         <div class="counterbox">
           <div class="counter-icon"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i></div>
-          <div class="counter_area"> <span class="counter-number" data-from="1" data-to="30" data-speed="3000">30</span> <span class="counter-text">Happy Customer</span> </div>
+          <div class="counter_area"> <span class="counter-number" data-from="1" data-to="84" data-speed="3000">30</span> <span class="counter-text">Happy Customer</span> </div>
         </div>
       </div>
       <!--col end-->
@@ -208,7 +208,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
       <div class="col-md-3 col-sm-6 col-xs-12 counter-item">
         <div class="counterbox">
           <div class="counter-icon"><i class="fa fa-trophy" aria-hidden="true"></i></div>
-          <div class="counter_area_1"> <span class="counter-number" data-from="1" data-to="2" data-speed="4000">88</span> <span class="counter-text">Professional Awards</span></div>
+          <div class="counter_area_1"> <span class="counter-number" data-from="1" data-to="5" data-speed="4000">88</span> <span class="counter-text">Professional Awards</span></div>
         </div>
       </div>
       <!--col end-->

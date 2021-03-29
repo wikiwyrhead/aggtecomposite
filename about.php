@@ -66,7 +66,7 @@
             <div class="row">
               <!--col start-->
               <div class="col-sm-4 counter-item">
-                <div class="single-about"><i class="fa fa-list-ul" aria-hidden="true"></i> <span class="counter_number" data-from="1" data-to="4" data-speed="1200">4</span>
+                <div class="single-about"><i class="fa fa-list-ul" aria-hidden="true"></i> <span class="counter_number" data-from="1" data-to="6" data-speed="1200">6</span>
                   <p>year of experience</p>
                 </div>
               </div>
@@ -74,14 +74,14 @@
 
               <!--col start-->
               <div class="col-sm-4 counter-item">
-                <div class="single-about"> <i class="fa fa-thumbs-o-up" aria-hidden="true"></i> <span class="counter_number" data-from="1" data-to="30" data-speed="3000">30</span>
+                <div class="single-about"> <i class="fa fa-thumbs-o-up" aria-hidden="true"></i> <span class="counter_number" data-from="1" data-to="84" data-speed="3000">84</span>
                   <p>Happy Customer</p>
                 </div>
               </div>
               <!--col end-->
               <!--col start-->
               <div class="col-sm-4 counter-item">
-                <div class="single-about"> <i class="fa fa-trophy" aria-hidden="true"></i> <span class="counter_number" data-from="1" data-to="2" data-speed="5000">2</span>
+                <div class="single-about"> <i class="fa fa-trophy" aria-hidden="true"></i> <span class="counter_number" data-from="1" data-to="5" data-speed="5000">5</span>
                   <p>Professional Awards</p>
                 </div>
               </div>
