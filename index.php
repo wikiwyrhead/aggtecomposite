@@ -243,133 +243,133 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
       <ul class="row container-masonry  portfolio-posts grid">
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item grid-sizer gates">
-          <div class="image-hover-effect-4"> <img src="images/gallery/gate_a.jpg" alt="img-1">
+          <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_a.jpg" alt="img-1">
             <div class="caption">
               <h3>WPC Gate</h3>
               <p>Quezon City, Metro Manila</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gate_a.jpg" title="WPC Gates" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/gates/gate_a.jpg" title="WPC Gates" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item financing decking">
-          <div class="image-hover-effect-4"> <img src="images/gallery/decking_c.jpg" alt="img-2">
+          <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking1.png" alt="img-2">
             <div class="caption">
               <h3>WPC Decking</h3>
               <p>Makati City, Metro Manila</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking_c.jpg" title="WPC Decking" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking1.png" title="WPC Decking" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item grid-sizer gates">
-          <div class="image-hover-effect-4"> <img src="images/gallery/gate_b.jpg" alt="img-3">
+          <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_b.jpg" alt="img-3">
             <div class="caption">
               <h3>WPC Gate</h3>
               <p>Quezon City, Metro Manila</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gate_b.jpg" title="WPC Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/gates/gate_b.jpg" title="WPC Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item branding cladding">
-          <div class="image-hover-effect-4"> <img src="images/gallery/cladding_a.jpg" alt="img-4">
+          <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_a.jpg" alt="img-4">
             <div class="caption">
               <h3>Parañaque, Metro Manila</h3>
               <p>WPC Cladding</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding_a.jpg" title="WPC Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_a.jpg" title="WPC Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item decking">
-          <div class="image-hover-effect-4"> <img src="images/gallery/decking_b.jpg" alt="img-5">
+          <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking_b.jpg" alt="img-5">
             <div class="caption">
               <h3>WPC Decking</h3>
               <p>La Union</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking_b.jpg" title="WPC Decking" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking_b.jpg" title="WPC Decking" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item decking">
-          <div class="image-hover-effect-4"> <img src="images/gallery/decking_a.jpg" alt="img-6">
+          <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking_a.jpg" alt="img-6">
             <div class="caption">
               <h3>WPC Decking</h3>
               <p>Quezon City, Metro Manila</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking_a.jpg" title="Poolside Decking" class="lightbox-image"><i class="fa fa-search"></i></a> </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking_a.jpg" title="Poolside Decking" class="lightbox-image"><i class="fa fa-search"></i></a> </div>
           </div>
         </li>
         <!--col end-->
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item cladding">
-          <div class="image-hover-effect-4"> <img src="images/gallery/cladding_f.jpg" alt="img-7">
+          <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding2.png" alt="img-7">
             <div class="caption">
               <h3>WPC Cladding</h3>
               <p>Orani, Bataan</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding_f.jpg" title="WPC Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding2.png" title="WPC Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item decking">
-          <div class="image-hover-effect-4"> <img src="images/gallery/decking_f.jpg" alt="img-8">
+          <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking_f.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
               <p>Taal, Batangas</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking_f.jpg" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a> </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking_f.jpg" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a> </div>
           </div>
         </li>
         <!--col end-->
           <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item cladding">
-          <div class="image-hover-effect-4"> <img src="images/gallery/cladding_c.jpg" alt="img-9">
+          <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_c.jpg" alt="img-9">
             <div class="caption">
               <h3>WPC Cladding</h3>
               <p>Caloocan City, Metro Manila</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding_c.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_c.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
           <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item cladding">
-          <div class="image-hover-effect-4"> <img src="images/gallery/cladding_d.jpg" alt="img-10">
+          <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding1.png" alt="img-10">
             <div class="caption">
               <h3>WPC Cladding</h3>
               <p>Pasig City, Metro Manila</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding_d.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding1.png" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
           <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item gates">
-          <div class="image-hover-effect-4"> <img src="images/gallery/gate_c.jpg" alt="img-11">
+          <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_c.jpg" alt="img-11">
             <div class="caption">
               <h3>WPC Gates</h3>
               <p>Taal, Batangas</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gate_c.jpg" title="WPC Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/gates/gate_c.jpg" title="WPC Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
           <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item gates">
-          <div class="image-hover-effect-4"> <img src="images/gallery/gate_e.jpg" alt="img-12">
+          <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_e.jpg" alt="img-12">
             <div class="caption">
               <h3>WPC Gates</h3>
               <p>Pangasinan</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gate_e.jpg" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/gates/gate_e.jpg" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
@@ -412,7 +412,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
       <!--col start-->
       <div class="col-md-6">
         <div class="about-video-item">
-          <div class="about-video-img"> <img src="images/welcome-1.jpg" alt="thumbnail"> <a href="videos/wpc%20video%20intro.mp4" class="video-play mfp-iframe xs-video"><i class="fa fa-play"></i></a> </div>
+          <div class="about-video-img"> <img src="images/welcome-1.jpg" alt="thumbnail"> <a href="media/homeVid.mp4" class="video-play mfp-iframe xs-video"><i class="fa fa-play"></i></a> </div>
         </div>
       </div>
       <!--col end-->
