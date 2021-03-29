@@ -236,29 +236,95 @@
       <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
       <h2 class="modal-title">GET A FREE QUOTE</h2>
 
-        <form class="login-form" method="post" action="tripetto" name="quote-form" role="form" enctype="multipart/form-data">
+        <form class="login-form" method="post" action="php/quote.php" name="quote-form" role="form" enctype="multipart/form-data">
         <fieldset>
-         <div id="tripetto"></div>
-<script src="https://unpkg.com/tripetto-runner-foundation"></script>
-<script src="https://unpkg.com/tripetto-runner-chat"></script>
-<script src="https://unpkg.com/tripetto-services"></script>
-<script>
-var tripetto = TripettoServices.init({ token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNzVhWEVSOGhYdlZjV2c4RlF4VVUzOTdTSGdaNVRKaUI4Y2d1R2pobXJ1bz0iLCJkZWZpbml0aW9uIjoiVmNmeWJLZ3k5SmhYMGxFT0VwZW05aGo0MnozalNYOFdDbFlXcldDaCthND0iLCJ0eXBlIjoiY29sbGVjdCJ9.Wm1OYk1pHXYZk6llTgpJDmGyssry4iWoRGbIZCKbAl8" });
-
-TripettoChat.run({
-    element: document.getElementById("tripetto"),
-    definition: tripetto.definition,
-    styles: tripetto.styles,
-    l10n: tripetto.l10n,
-    locale: tripetto.locale,
-    translations: tripetto.translations,
-    attachments: tripetto.attachments,
-    onSubmit: tripetto.onSubmit
-});
-</script> <br><br>
           <div class="form-group">
-               <label><em>By accepting the estimate or quotation the customer is agreeing to the <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">(Terms and Conditions)</a> set out herein. </em></label> </div>
+            <input type="text" name="name" class="form-control" placeholder="Your Name" required data-error="Your Name is required.">
+          </div>
+          <div class="form-group">
+            <input type="text" name="phone_number" class="form-control" placeholder="Phone Number " required data-error="Phone Number is required.">
+          </div>
 
+          <div class="form-group">
+            <input type="email" name="email" class="form-control" placeholder="Email Address" required data-error="Valid email is required.">
+          </div>
+            <div class="form-group">
+            <input type="text" name="address" class="form-control" placeholder="Address" required data-error="Valid Address is required.">
+          </div>
+
+
+            <!--Radio button For Profile-->
+            <label>Requirements: </label>
+            <div class="form-group">
+
+                        <label>Profile: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" value ="cladding" required data-error="required." name="profile">
+                       <em>Cladding</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" value ="decking" required data-error="required." name="profile">
+                       <em>Decking</em>
+                        </label>
+            </div>
+
+                <!--Requirements-->
+            <label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div class="form-group">
+
+                    <input type="text" name="area" class="form-control" placeholder="Total Area in sqm." required data-error="The total area is required."><br>
+
+                     <input type="text" name="perimeter" class="form-control" placeholder="Total Perimeter" required data-error="The total perimeter is required.">
+          </div>
+            </label>
+
+            <!--Radio button For Mode-->
+            <div class="form-group">
+                        <label>Mode of Delivery: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" value ="delivery" required data-error="required." name="mode">
+                       <em>Deliver</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" value ="pickup" required data-error="required." name="mode">
+                       <em>Pickup</em><br>
+                        </label>
+            </div>
+
+                        <!--Adding Radio button For Substructure -->
+            <div class="form-group">
+                        <label>Do you already have a substructure?:&nbsp; <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" value ="Yes " required data-error="required." name="subs">
+                       <em>Yes</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" value ="No" required data-error="required." name="subs">
+                       <em>No</em><br>
+                        </label>
+            </div>
+
+                <!--Adding Radio button For Call Back -->
+            <div class="form-group">
+                        <label>Request Phone Call?: &nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="radio" value ="Yes " required data-error="required." name="call">
+                       <em>Yes</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <input type="radio" value ="No" required data-error="required." name="call">
+                       <em>No</em><br>
+                        </label>
+            </div>
+
+            <!--Message -->
+
+          <div class="form-group">
+            <textarea id="textinput" class="form-control" name="message" required rows="1" placeholder="Your Message" maxlength="500"></textarea>
+              Remaining characters: <span id="count"></span>
+          </div>
+
+            <!--Attached File -->
+            <div class="form-group">
+            <label for="files">Please attached Floor Plan /Drawing:</label><br>
+          <input name="upload[]" type="file" multiple="multiple" />
+
+            </div>
+
+          <div class="form-group">
+            <label>
+              <input type="checkbox" required data-error="checkbox is required.">
+              <em>I agree with the <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">(terms and conditions)</a></em></label>
+          </div>
+          <button class="tg-theme-btn tg-theme-btn-lg" type="submit">Submit</button>
         </fieldset>
       </form>
     </div>
