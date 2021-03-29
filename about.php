@@ -93,9 +93,12 @@
         <!--col end-->
         <!--col start-->
         <div class="col-md-6 col-sm-pull-6">
-          <div class="about-img">
+          <div class="about-img"><br><br><br>
             <figure> <img src="images/about4.png" class="img-responsive" alt="Image"></figure>
           </div>
+            <div name="divHrefB" style="height: 0px;width: 0px;overflow:hidden;">
+                <a href='https://www.freepik.com/vectors/sale'>Sale vector created by macrovector - www.freepik.com</a>
+            </div>
         </div>
         <!--col start-->
       </div>
@@ -110,31 +113,33 @@
       <div class="section-title">
         <h3>Why <span>Choose Us</span></h3>
       </div>
-      <div class="row">
-        <div class="col-md-4">
+      <div class="col-md-5">
+
           <div class="why_choose_us_sec_img"><img src="images/worker.png" alt="img" class="img-responsive" /></div>
         </div>
-        <div class="col-md-8">
-          <div class="row">
-            <div class="col-md-6">
+          <div name="divHrefB" style="height: 0px;width: 0px;overflow:hidden;">
+                <a href='https://www.freepik.com/photos/man'>Man photo created by karlyukav - www.freepik.com</a>
+            </div>
+
+            <div class="col-md-12">
               <div class="single-why-choose-list"> <i class="fa fa-users"></i>
                 <h3>Workers</h3>
                 <p>Our workers are all well-versed about our products because they have undergone advanced training and were privileged to join a pool of professionals with very extensive <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite">WPC Cladding and Decking</a> experience in the industry.</p>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-12">
               <div class="single-why-choose-list"><i class="fa fa-wrench"></i>
                 <h3>Repairs</h3>
                 <p>Our company assures quick and immediate response upon queries and request addressed to us. To ensure excellent delivery of service, well-trained subcontractor builders are being assigned by the management. The team shall attend to the concerns of the clients and take action within 3 to 5 working days after receiving the information from the client.</p>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-12">
               <div class="single-why-choose-list"> <i class="fa fa-th-large"></i>
                 <h3>Materials</h3>
                 <p>With a blend of elegance and strength, or come together as one weather-shrugging, long-lasting, easy-to-care on indoor or indoor applications, every AGGTE® WPC CLADDING & DECKING piece can stand on its own and this is its advantage over its competitors.</p>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-12">
               <div class="single-why-choose-list"> <i class="fa fa-truck"></i>
                 <h3>Delivery</h3>
                 <p>We are determined to dispatch all your orders within one-working day. However, we advise you to give us at least 3-5 working days to deliver your goods after you have confirmed your orders. As an alternative, items may be collected at our warehouse in Taal, Batangas upon arrangement. Please call us on<a target="_blank" href="contact.php"> 09163770871 </a>to discuss this service if you prefer it.</p>
