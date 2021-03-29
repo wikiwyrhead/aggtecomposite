@@ -41,7 +41,7 @@ Thumbs.db
 *.wmv
 *.mpg
 *.mpeg
-*.mp4
+# *.mp4
 *.mov
 *.flv
 *.avi
