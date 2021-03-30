@@ -391,7 +391,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking4.png" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Pasig City, Metro Manila</p>
+              <p>Nasugbu, Batangas</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/decking/decking4.png" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
