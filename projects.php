@@ -402,7 +402,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_h.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Gates</h3>
-              <p>Pasig City, Metro Manila</p>
+              <p>Parañaque, Metro Manila</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/gates/gate_h.jpg" title="Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
