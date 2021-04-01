@@ -281,7 +281,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_f.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Gates</h3>
-              <p>Pangasinan</p>
+              <p>Taal, Batangas</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/gates/gate_f.jpg" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
