@@ -164,7 +164,7 @@
             </li>
 
                <!--Block-->
-
+<!--
             <li class="faqs block active-block">
               <div class="faqs-btn">
                 <div class="icon-outer"><span class="icon icon-plus fa fa-angle-right"></span> </div>
@@ -239,7 +239,7 @@
                 </div>
               </div>
             </li>
-
+-->
             <!--Block-->
 
           </ul>

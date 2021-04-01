@@ -65,12 +65,10 @@
           </ul>
             <br>
             <div class="footer-logo">
-                <a href="#">
-                    <img class="footer-logo-default" src="images/other-logos/CE.png" alt="CE Logo">&nbsp;&nbsp;
-                    <img class="footer-logo-default" src="images/other-logos/FSCyc0Nbl.png" alt="FSC Logo">
-                    <img class="footer-logo-default" src="images/other-logos/Greenpeace_symbols_recycle_sign_05s_300x300.png" alt="Recycle Sign">&nbsp;
-                    <img class="footer-logo-default" src="images/other-logos/RoHs.png" alt="RoHS Logo">
-                </a>
+                    <a href="https://en.wikipedia.org/wiki/CE_marking" target="_blank"><img class="footer-logo-default" src="images/other-logos/CE.png" alt="CE Logo">&nbsp;&nbsp;</a>
+                    <a href="https://www.fsc-uk.org/en-uk/about-fsc/what-is-fsc/frequently-asked-questions#:~:text=FSC%20stands%20for%20'Forest%20Stewardship%20Council'.&text=FSC%20certifies%20forests%20all%20over,our%20'tick%20tree'%20logo." target="_blank"><img class="footer-logo-default" src="images/other-logos/FSCyc0Nbl.png" alt="FSC Logo"></a>
+                    <a href="https://www.recyclenow.com/recycling-knowledge/packaging-symbols-explained" target="_blank"><img class="footer-logo-default" src="images/other-logos/Greenpeace_symbols_recycle_sign_05s_300x300.png" alt="Recycle Sign">&nbsp;</a>
+                    <a href="https://www.rohsguide.com/rohs-faq.htm#:~:text=RoHS%20stands%20for%20Restriction%20of,products%20(known%20as%20EEE)." target="_blank"><img class="footer-logo-default" src="images/other-logos/RoHs.png" alt="RoHS Logo">
             </div>
         </div>
       </div>
@@ -137,7 +135,7 @@
       <div class="row">
         <!--col start-->
        <div class="col-md-6 col-sm-6">
-           <p><a target="_blank" href="https://www.facebook.com/wpc.claddingdecking">© 2020 Aquaponics GoGreen All Rights Reserved</a> Design by <a href="mailto:jjanzen.go@gmail.com">Janzen Go from GoTech Web Solutions</a></p>
+           <p><a target="_blank" href="https://www.facebook.com/wpc.claddingdecking">© 2021 Aquaponics GoGreen All Rights Reserved</a> Design by <a href="mailto:jjanzen.go@gmail.com">Janzen Go from GoTech Web Solutions</a></p>
           </div>
         <!--col end-->
         <!--col start-->
