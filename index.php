@@ -47,7 +47,7 @@
       <div class="slidewrap">
         <!--<h3>Welcome to AGGTE WPC Cladding & Decking </h3>-->
         <h1>Transforming your ideas <span>into reality</span></h1>
-        <a href="about.php" class="btn btn-default section-btn">See more</a><a class="btn btn-default section-btn span_color" href="contacts">Contact Us</a> </div>
+        <a href="about.php" class="btn btn-default section-btn">See more</a><a class="btn btn-default section-btn span_color" href="contact.php">Contact Us</a> </div>
     </div>
   </div>
   <!--slider end-->
