@@ -1,4 +1,5 @@
 <html lang="en">
+<link href="css/custom.css" rel="stylesheet">
 <header class="main-header">
     <!--header-top start-->
     <div class="header-top">
@@ -22,7 +23,7 @@
           <!--col start-->
           <div class="col-md-4 col-sm-6">
             <div class="top-left">
-              <p><i class="fa fa-phone" aria-hidden="true"></i> +63916-3770-871 &nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-envelope-o" aria-hidden="true"></i> sales@aggtedeck.com</p>
+              <p class="numberEmail"><i class="fa fa-phone" aria-hidden="true"></i> +63916-3770-871 &nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-envelope-o" aria-hidden="true"></i> sales@aggtedeck.com</p>
             </div>
           </div>
           <!--col end-->

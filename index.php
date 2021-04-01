@@ -16,6 +16,7 @@
 <!-- Style CSS -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
+<link href="css/custom.css" rel="stylesheet">
 <link rel="stylesheet" href="dist/color-default.css">
 <link rel="stylesheet" href="dist/color-switcher.css">
 <link href="css/magnific-popup.css" rel="stylesheet">
@@ -25,7 +26,6 @@
 <link href="css/style_slider.css" rel="stylesheet">
 <link href="css/modal-designs.css" rel="stylesheet">
 <link href="rs-plugin/css/settings.css" rel="stylesheet">
-<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 </head>
 <body>
 
