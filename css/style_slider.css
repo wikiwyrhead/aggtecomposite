@@ -43,10 +43,6 @@ body {
 .tp-arr-allwrapper:hover .tp-arr-iwrapper {
 	color: #fff;
 }
-.tp-leftarrow .tp-arr-allwrapper {
-}
-.tp-rightarrow .tp-arr-allwrapper {
-}
 .tp-arr-iwrapper {
 	color: #000;
 	text-align: center;
@@ -54,15 +50,11 @@ body {
 	font-family: FontAwesome;
 	line-height: 60px;
 }
-.tp-leftarrow .tp-arr-iwrapper {
-}
 .tp-leftarrow .tp-arr-iwrapper:before {
 	content: "\f104";
 }
 .tp-rightarrow .tp-arr-iwrapper:before {
 	content: "\f105";
-}
-.tp-rightarrow .tp-arr-iwrapper {
 }
 .slide-h1 {
 	margin: 5px 0 !important;

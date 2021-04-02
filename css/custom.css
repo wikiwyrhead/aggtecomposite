@@ -5,46 +5,6 @@
 	Project Name : AGGTE Cladding and Decking Company
 	Desgined By  : Janzen Go
 	Developed By : Janzen Go;
-
-	Table Of Index
-	------------------
-	1. Base
-	2. preloader
-	3. Scroll To Top
-	4. Main Header
-	5. quote-modal
-	6. login-modal
-	7. registration-modal
-	8. search-button
-	9. about-info
-	10. contactWrap
-	11. whyWeChoose
-	12. portfolio
-	13. freelance-section
-	14. Static Slider
-	15. testimonial
-	16. counter
-	17. brand-section
-	18. footer-sec
-	19. inner-heading
-	20. contactWrap
-	21. map
-	22. aboutUs
-	23. blogWrap
-	24. Side Bar
-	25. Archive
-	26. Photo Bar
-	27. Tags
-	28. commentArea
-	29. Error page
-	30. ComingSoon
-	31. FAQS
-	32. service-single
-	33. Shop
-	34. single-shop
-	35. blogWrapper
-	36. media screen
-
 	------------------------------------------*/
 .why_choose_us_sec_content {
     position: relative;
@@ -52,11 +12,11 @@
     margin-left: 470px;
 }
 
-@media screen and (max-width: 450px) {
-    .sec-image{
-        display: none;
-    }
-}
 #sec-image-and {
     position: relative;
+}
+
+.numberEmail p{
+	font-weight: bold;
+	font-size: 50;
 }
