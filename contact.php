@@ -80,7 +80,7 @@
                 <h3>Mail us</h3>
                 <p> <strong>Sales Team</strong>
                     	sales@aggtedeck.com<br>
-                        info@aggtedeck.com
+                        info@aggtedeck.com<br><br>
                   </p>
               </div>
             </div>
