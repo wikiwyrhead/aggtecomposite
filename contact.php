@@ -78,8 +78,9 @@
               <div class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i> </div>
               <div class="details">
                 <h3>Mail us</h3>
-                <p> <strong>Elisa Ruhle</strong>
-                    	sales@aquaponicsgogreen.com<br><br><br>
+                <p> <strong>Sales Team</strong>
+                    	sales@aggtedeck.com<br><br><br>
+                        info@aggtedeck.com<br><br><br>
                   </p>
               </div>
             </div>
@@ -92,8 +93,8 @@
             <div class="fig_caption">
               <div class="icon"><i class="fa fa-phone" aria-hidden="true"></i> </div>
               <div class="details">
-                <h3>Visit our office</h3>
-                <p> <strong>CALL US NOW </strong> <br>
+                <h3>Contact Us</h3>
+                <p> <strong>Contact Number </strong> <br>
                   (043) 740 3512<br>0929 3185482<br>0916 377 0871</p>
               </div>
             </div>
