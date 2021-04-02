@@ -79,8 +79,8 @@
               <div class="details">
                 <h3>Mail us</h3>
                 <p> <strong>Sales Team</strong>
-                    	sales@aggtedeck.com<br><br><br>
-                        info@aggtedeck.com<br><br><br>
+                    	sales@aggtedeck.com<br>
+                        info@aggtedeck.com
                   </p>
               </div>
             </div>
