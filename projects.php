@@ -52,7 +52,7 @@
   <div class="container-fluid">
     <div class="section-title">
       <h3>OUR RECENT <span>PORTFOLIOS</span></h3>
-      <p><h4>Here's our latest and most commendable projects all throughout the year 2020.</h4></p>
+      <p><h4>Here's our latest and most commendable projects all throughout the years 2020-2021.</h4></p>
     </div>
     <!--row start-->
     <div class="row">
@@ -380,7 +380,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_g.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Cladding</h3>
-              <p>Cavite</p>
+              <p>Imus, Cavite</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/cladding/cladding_g.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
