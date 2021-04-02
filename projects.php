@@ -113,12 +113,12 @@
         <!--col end-->
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item decking">
-          <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking_a.jpg" alt="img-6">
+          <div class="image-hover-effect-4"> <img src="images/gallery/decking/deckingnew.jpg" alt="img-6">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Quezon City, Metro Manila</p>
+              <p>Alaminos Pangasinan</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking_a.jpg" title="Poolside Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/deckingnew.jpg" title="Poolside Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -283,7 +283,7 @@
               <h3>WPC Gates</h3>
               <p>Olongapo City</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gates/gate_f.jpg" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/gates/gatenew.png" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
@@ -347,7 +347,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking9.png" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Taal, Batangas</p>
+              <p>Laguna</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/decking/decking9.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>

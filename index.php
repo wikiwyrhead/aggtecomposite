@@ -279,7 +279,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
           <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_a.jpg" alt="img-4">
             <div class="caption">
               <h3>WPC Cladding</h3>
-              <p>Parañaque, Metro Manila</p>
+              <p>Alabang, Metro Manila</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/cladding/cladding_a.jpg" title="WPC Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
@@ -303,7 +303,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
               <h3>WPC Decking</h3>
               <p>Alaminos Pangasinan</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking_a.jpg" title="Poolside Decking" class="lightbox-image"><i class="fa fa-search"></i></a> </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/deckingnew.jpg" title="Poolside Decking" class="lightbox-image"><i class="fa fa-search"></i></a> </div>
           </div>
         </li>
         <!--col end-->
@@ -358,7 +358,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
               <h3>WPC Gates</h3>
               <p>Olongapo City</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gates/gate_c.jpg" title="WPC Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/gates/gatenew.png" title="WPC Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
