@@ -255,7 +255,7 @@ TripettoChat.run({
 });
 </script> <br><br>
           <div class="form-group">
-               <label><em>By accepting the estimate or quotation the customer is agreeing to the <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">(Terms and Conditions)</a> set out herein. </em></label> </div>
+               <label><em>By accepting the estimate or quotation the customer is agreeing to the<a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".priv">(Privacy Statement)</a> set out herein. </em></label> </div>
 
         </fieldset>
       </form>
