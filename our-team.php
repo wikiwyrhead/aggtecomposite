@@ -94,7 +94,7 @@
                 <h3>Princess Villanueva </h3>
                 <p>Accounting Staff</p>
               </div>
-              <div class="link-wrap"> <a href="https://www.facebook.com/arniel.go/" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/arnelbgo" target="_blank"><i class="fa fa-twitter"></i></a> </div>
+              <div class="link-wrap"> <a href="https://www.facebook.com/profile.php?id=100048900524366&sk" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/maderandawayf " target="_blank"><i class="fa fa-twitter"></i></a> </div>
             </div>
           </li>
             <li>
