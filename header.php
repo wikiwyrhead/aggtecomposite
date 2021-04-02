@@ -79,7 +79,7 @@
                   </li>
                     <li class="dropdown"><a class="hvr-link" href="#">About</a>
                       <ul>
-                        <li><a class="hvr-link" href="about">About</a></li>
+                        <li><a class="hvr-link" href="about.php">About</a></li>
                         <li><a class="hvr-link" href="our-team.php">Team</a></li>
                         <li><a class="hvr-link" href="faq.php">FAQ's</a></li>
                         <!--<li><a class="hvr-link" href="404.php">404 Page</a></li>-->
