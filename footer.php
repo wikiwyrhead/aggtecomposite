@@ -135,7 +135,7 @@
       <div class="row">
         <!--col start-->
        <div class="col-md-6 col-sm-6">
-           <p><a target="_blank" href="https://www.facebook.com/wpc.claddingdecking">© 2021 Aquaponics GoGreen All Rights Reserved</a> Design by <a href="mailto:jjanzen.go@gmail.com">Janzen Go from GoTech Web Solutions</a></p>
+           <p><a target="_blank" href="https://www.facebook.com/wpc.claddingdecking">© 2021 Aquaponics GoGreen All Rights Reserved</a> <br><span style="font-size: 14px;">Design by <a href="mailto:jjanzen.go@gmail.com">Janzen Go from GoTech Web Solutions</a></span></p>
           </div>
         <!--col end-->
         <!--col start-->
