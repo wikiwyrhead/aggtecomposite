@@ -52,7 +52,7 @@
   <div class="container-fluid">
     <div class="section-title">
       <h3>OUR RECENT <span>PORTFOLIOS</span></h3>
-      <p><h4>Here's our latest and most commendable projects all throughout the year 2020.</h4></p>
+      <p><h4>Here's our latest and most commendable projects all throughout the years 2020-2021.</h4></p>
     </div>
     <!--row start-->
     <div class="row">
@@ -83,7 +83,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_b.jpg" alt="img-3">
             <div class="caption">
               <h3>WPC Gate</h3>
-              <p>Quezon City, Metro Manila</p>
+              <p>Imus, Cavite</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/gates/gate_b.jpg" title="WPC Gate" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
@@ -113,12 +113,12 @@
         <!--col end-->
         <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item decking">
-          <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking_a.jpg" alt="img-6">
+          <div class="image-hover-effect-4"> <img src="images/gallery/decking/deckingnew.jpg" alt="img-6">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Quezon City, Metro Manila</p>
+              <p>Alaminos Pangasinan</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking_a.jpg" title="Poolside Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/deckingnew.jpg" title="Poolside Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -160,7 +160,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking1.png" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Taal, Batangas</p>
+              <p>Parañaque, Metro Manila</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/decking/decking1.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
@@ -171,7 +171,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_d.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Gates</h3>
-              <p>Pangasinan</p>
+              <p>Isabela</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/gates/gate_d.jpg" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
@@ -190,12 +190,12 @@
         <!--col end-->
                     <!--col start-->
         <li class="col-md-3 col-sm-6 col-xs-12 nf-item decking">
-          <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking7.png" alt="img-8">
+          <div class="image-hover-effect-4"> <img src="images/gallery/decking/newdecking.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Taal, Batangas</p>
+              <p>Calamba, Laguna</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking7.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/newdecking.jpg" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -215,7 +215,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_e.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Gates</h3>
-              <p>Pangasinan</p>
+              <p>Las Piñas</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/gates/gate_e.jpg" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
@@ -248,7 +248,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking5.png" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Taal, Batangas</p>
+              <p>Quezon City  </p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/decking/decking5.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
@@ -259,7 +259,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking_f.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Taal, Batangas</p>
+              <p>Nueva Ecija</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/decking/decking_f.jpg" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
@@ -278,12 +278,12 @@
         <!--col end-->
           <!--col start-->
           <li class="col-md-3 col-sm-6 col-xs-12 nf-item gates">
-          <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_f.jpg" alt="img-8">
+          <div class="image-hover-effect-4"> <img src="images/gallery/gates/gatenew.png" alt="img-8">
             <div class="caption">
               <h3>WPC Gates</h3>
-              <p>Taal, Batangas</p>
+              <p>Olongapo City</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gates/gate_f.jpg" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/gates/gatenew.png" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
@@ -325,7 +325,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking_g.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Taal, Batangas</p>
+              <p>Nueva Ecija</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/decking/decking_g.jpg" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
@@ -347,7 +347,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking9.png" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Taal, Batangas</p>
+              <p>Laguna</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/decking/decking9.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
@@ -358,7 +358,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_g.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Gates</h3>
-              <p>Pangasinan</p>
+              <p>Emilio Aguinaldo, Cavite</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/gates/gate_g.jpg" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
@@ -369,7 +369,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/decking/decking10.png" alt="img-8">
             <div class="caption">
               <h3>WPC Decking</h3>
-              <p>Taal, Batangas</p>
+              <p>Parañaque</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/decking/decking10.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
@@ -380,7 +380,7 @@
           <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_g.jpg" alt="img-8">
             <div class="caption">
               <h3>WPC Cladding</h3>
-              <p>Cavite</p>
+              <p>Imus, Cavite</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/cladding/cladding_g.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
