@@ -53,19 +53,19 @@
       <div class="freelance-content">
         <ul class="freelance-slider">
           <li>
-            <div class="teamWrap"> <img src="images/team0.png" class="img-responsive" alt="img1">
+            <div class="teamWrap"> <img src="images/team5.png" class="img-responsive" alt="img1">
               <div class="caption">
-                <h3>Mr. Eddie Ruhle </h3>
-                <p>CEO</p>
+                <h3>Elisa Cañon</h3>
+                <p>Owner</p>
               </div>
               <div class="link-wrap"> <a href="https://www.facebook.com/AquaponicsGoGreen" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/aquaponicsgogreenph/" target="_blank"><i class="fa fa-instagram"></i></a> </div>
             </div>
           </li>
             <li>
-            <div class="teamWrap"> <img src="images/team5.png" class="img-responsive" alt="img1">
+            <div class="teamWrap"> <img src="images/team0.png" class="img-responsive" alt="img1">
               <div class="caption">
-                <h3>Mrs. Elisa Ruhle</h3>
-                <p>General Manager</p>
+                <h3>Eddie Ruhle </h3>
+                <p>CEO</p>
               </div>
               <div class="link-wrap"> <a href="https://www.facebook.com/AquaponicsGoGreen" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/aquaponicsgogreenph/" target="_blank"><i class="fa fa-instagram"></i></a> </div>
             </div>
@@ -94,7 +94,7 @@
                 <h3>Princess Villanueva </h3>
                 <p>Accounting Staff</p>
               </div>
-              <div class="link-wrap"> <a href="https://www.facebook.com/arniel.go/" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/arnelbgo" target="_blank"><i class="fa fa-twitter"></i></a> </div>
+              <div class="link-wrap"> <a href="https://www.facebook.com/profile.php?id=100048900524366&sk" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/maderandawayf " target="_blank"><i class="fa fa-twitter"></i></a> </div>
             </div>
           </li>
             <li>

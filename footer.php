@@ -255,7 +255,7 @@ TripettoChat.run({
 });
 </script> <br><br>
           <div class="form-group">
-               <label><em>By accepting the estimate or quotation the customer is agreeing to the <a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">(Terms and Conditions)</a> set out herein. </em></label> </div>
+               <label><em>By accepting the estimate or quotation the customer is agreeing to the<a data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".priv">(Privacy Statement)</a> set out herein. </em></label> </div>
 
         </fieldset>
       </form>
@@ -270,7 +270,7 @@ TripettoChat.run({
         <div class="top_links"><a href="#" data-dismiss="modal" aria-label="Close">Close (X)</a></div>
         <h2 class="modal-title">GET YOUR FREE SAMPLE</h2>
                 <img src="images/sampledouble.jpg" alt="sampleimage" class="sampleimage" align="right">
-              <p class="sample-description">Want to get free sample of WPC Planks from us for you to try out?<br><br>We are willing to provide free samples for a <strong>₱200 flat-rate shipping fee</strong>, the standard length of samples is 10cm.<br><br> If you are interested, please follow the Shopee link below, and check out for COD payment.</p>
+              <p class="sample-description">Sure a picture is worth a thousand words, but actually seeing and touching the product makes all the difference.<br><br>For just ₱200 flat-rate shipping fee via shopee store, you can get a closer look of all our decking and cladding profile SAMPLES today – delivered straight to your door! The standard length of samples is 10cm.<br><br> Just follow the Shopee link below, and check out for COD payment.</p>
               <button class="tg-theme-btn tg-theme-btn-lg" type="submit" onclick="comfirmFunc();">Click here</button>
     </div>
   </div>
