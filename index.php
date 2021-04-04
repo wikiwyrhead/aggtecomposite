@@ -394,7 +394,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
             <br>
           <p> Furthermore, our wood composite materials are guaranteed to be more lasting than wood. It has additives that make the existing hard wood properties more sturdy which indicates that you can be assured that your <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite">deck, cladding or fencing</a> is more tough than other ordinary products. Also, our materials do not absorb water like other wooden alternatives so it can endure weather conditions and is also easy to maintain.</p>
             <br>
-            <p> For more information on the featured products on this site, feel free to reach out to any members of our team or you may <a target="_blank" href="services.php#decking">download our installation guide.</a></p>
+            <p> For more information on the featured products on this site, feel free to reach out to any members of our team or you may <a href="services.php#decking">download our installation guide.</a></p>
         </div>
         <div class="whychoose-description">
           <ul class="row">
