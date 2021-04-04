@@ -429,7 +429,7 @@
 <script>
     $(document).ready(function(){
    setTimeout(function(){
-         location.href = '../contact.php';
+         location.href = '../contact.php#xs-contact-form';
    },4000);
 });
 </script>
