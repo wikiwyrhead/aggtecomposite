@@ -1,0 +1,29 @@
+# Custom on
+RewriteEngine on 
+RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+RewriteRule ^ /%1 [NC,L,R]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+
+
+
+#Custom 2
+
+# Custom
+#remove php file extension-e.g. https://example.com/file.php will become https://example.com/file 
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+
+
+# WORKING --------------------->
+#remove php file extension-e.g. https://example.com/file.php will become https://example.com/file 
+RewriteEngine on
+RewriteRule ^(php)($|/) - [L]
+RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+RewriteRule ^ /%1 [NC,L,R]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+    
