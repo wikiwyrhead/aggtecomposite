@@ -115,7 +115,7 @@
         <!--col end-->
       </div>
       <!--row end-->
-            <div class="section-title margin_t40">
+            <div class="section-title margin_t40" id=cont>
         <h3>Drop <span>your message</span></h3>
 
       </div>
