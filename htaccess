@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^/?new/(.*)/?$ /new.php/$1 [END]
+RewriteRule ^/?new/(.*)/?$ /contact.php/$1 [END]
