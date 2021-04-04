@@ -16,14 +16,12 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link rel="stylesheet" href="dist/color-default.css">
-<link rel="stylesheet" href="dist/color-switcher.css">
 <link href="css/magnific-popup.css" rel="stylesheet">
 <link href="css/animate.css" rel="stylesheet">
 <link href="css/owl.css" rel="stylesheet">
 <link href="css/jquery.fancybox.css" rel="stylesheet">
 <link href="css/style_slider.css" rel="stylesheet">
 <link href="css/modal-designs.css" rel="stylesheet">
-<link href="rs-plugin/css/settings.css" rel="stylesheet">
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 </head>
 <body onload="unLoad()" style="overflow-x: hidden">
@@ -134,18 +132,6 @@
           <h3>Our WPC Cladding</h3>
           <p>Exterior composite wall cladding has the capability of making your property look completely refreshed. It is sometimes referred to as house cladding or wall cladding. This material can instantly give a modern make-over on your exteriors.  With this type of cladding material, you can make the facade of your homes and buildings blend into your gardens or make you the style of your contemporary domestic or commercial property stand out from the others.</p>
               <p>AGGTE supply high-quality cladding to cover your exterior walls which can improve the kerb appeal of your homes and commercial buildings in an instant.</p>
-
-          <!--google.com/search?q=opun&rlz=1C1CHBF_enNL897NL897&oq=opun&aqs=chrome..69i57j46i433j46l3j0j46.1688j0j7&sourceid=chrome&ie=UTF-8&safe=active<h3>Features</h3>
-          <ul class="featureLinks">
-            <li>Donec elementum pharetra dapibus</li>
-            <li>Nam dictum vestibulum diam</li>
-            <li>Orci varius natoque penatibus et magnis</li>
-            <li>Proin facilisis ante in turpis venenatis</li>
-            <li>Vestibulum lectus ex, faucibus</li>
-            <li>Morbi efficitur elit ac dolor porttitor</li>
-            <li>Fusce rhoncus vehicula lacus vitae</li>
-            <li>Sed porttitor risus vitae justo gravida</li>
-          </ul>-->
         </div>
           <div class="col-md-8" id="repair-service">
           <div id="main" role="main">
@@ -203,7 +189,6 @@
 <script src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 <script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 <script src="js/counter.js"></script>
-<script src="dist/color-switcher.js"></script>
 <script src="js/smoothscroll.js"></script>
 <script src="js/custom.js"></script>
 <script src="js/script.js"></script>
