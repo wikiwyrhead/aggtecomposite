@@ -120,7 +120,7 @@
                         <li> <a class="hvr-link" href="blog-details-slidebar.php"> Blog Details </a></li>
                       </ul>-->
                     <!--</li>-->
-                    <li><a class="hvr-link" href="contact">Contact</a></li>
+                    <li><a class="hvr-link" href="contact.php">Contact</a></li>
                   </ul>
                 </div>
                 <div class="clearfix"></div>
@@ -202,7 +202,7 @@
                         <li> <a class="hvr-link" href="blog-details-slidebar.php"> Blog Details </a></li>
                       </ul>-->
                     <!--</li>-->
-                  <li><a class="hvr-link" href="contact">Contact</a></li>
+                  <li><a class="hvr-link" href="contact.php">Contact</a></li>
                 </ul>
               </div>
             </nav>
