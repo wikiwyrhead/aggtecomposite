@@ -1,4 +1,5 @@
 RewriteEngine on
+DefaultType  application/x-httpd-php
 
 # Rewrite /foo/bar to /foo/bar.php
 RewriteRule ^([^.?]+)$ %{REQUEST_URI}.php [L]
