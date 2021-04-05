@@ -2,19 +2,18 @@ function preLoad() {
     document.getElementById("cladding-service").style.display = "none";
     document.getElementById("gate-service").style.display = "none";
     document.getElementById("repair-service").style.display = "none";
-    document.getElementById("decking-service").style.transition = "all 2s";
-    document.getElementById("cladding-service").style.transition = "all 2s";
-    document.getElementById("gate-service").style.transition = "all 2s";
-    document.getElementById("repair-service").style.transition = "all 2s";
 }
 window.onload = preLoad;
 
 function Focus1(){
+    document.getElementById("decking-service").style.visibility = "visible";
+    document.getElementById("cladding-service").style.visibility = "hidden";
+    document.getElementById("gate-service").style.visibility = "hidden";
+    document.getElementById("repair-service").style.visibility = "hidden";
     document.getElementById("decking-service").style.display = "block";
     document.getElementById("cladding-service").style.display = "none";
     document.getElementById("gate-service").style.display = "none";
     document.getElementById("repair-service").style.display = "none";
-
 
     //Color
     document.getElementById("decking-button").style.borderLeft = "4px solid";
@@ -31,6 +30,10 @@ function Focus1(){
     document.getElementById("repair-button").style.color = "#323232";
 }
 function Focus2(){
+    document.getElementById("decking-service").style.visibility = "hidden";
+    document.getElementById("cladding-service").style.visibility = "visible";
+    document.getElementById("gate-service").style.visibility = "hidden";
+    document.getElementById("repair-service").style.visibility = "hidden";
     document.getElementById("decking-service").style.display = "none";
     document.getElementById("cladding-service").style.display = "block";
     document.getElementById("gate-service").style.display = "none";
@@ -52,6 +55,10 @@ function Focus2(){
     document.getElementById("repair-button").style.color = "#323232";
 }
 function Focus3(){
+    document.getElementById("decking-service").style.visibility = "hidden";
+    document.getElementById("cladding-service").style.visibility = "hidden";
+    document.getElementById("gate-service").style.visibility = "visible";
+    document.getElementById("repair-service").style.visibility = "hidden";
     document.getElementById("decking-service").style.display = "none";
     document.getElementById("cladding-service").style.display = "none";
     document.getElementById("gate-service").style.display = "block";
@@ -73,6 +80,10 @@ function Focus3(){
     document.getElementById("repair-button").style.color = "#323232";
 }
 function Focus4(){
+    document.getElementById("decking-service").style.visibility = "hidden";
+    document.getElementById("cladding-service").style.visibility = "hidden";
+    document.getElementById("gate-service").style.visibility = "hidden";
+    document.getElementById("repair-service").style.visibility = "visible";
     document.getElementById("decking-service").style.display = "none";
     document.getElementById("cladding-service").style.display = "none";
     document.getElementById("gate-service").style.display = "none";

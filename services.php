@@ -25,7 +25,7 @@
 <link href="css/modal-designs.css" rel="stylesheet">
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 </head>
-<body onload="unLoad()" style="overflow-x: hidden">
+<body>
     <!-- Load Facebook SDK for JavaScript -->
 <?php include 'fbplug.php'; ?>
 <!--Load Facebook SDK for JavaScript End Here-->

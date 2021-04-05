@@ -1,13 +1,8 @@
 	@charset "utf-8";
 	#decking-service, #cladding-service, #gate-service, #repair-service {
 		position: relative;
-		top: 0;
-		transition: all 2s ease 0s;
-	}
-	#decking-content {
-		top: 0;
-		transition: all 2s ease 0s;
-	}
+		transition: all 2s;
+	}	
 	#decking-button {
 		border-left: 4px solid;
 		border-left-color: #228b22;
