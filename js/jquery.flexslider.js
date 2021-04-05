@@ -115,7 +115,6 @@
             slider.flexAnimate(target, slider.vars.pauseOnAction);
           });
         }
-
         // PAUSEPLAY
         if (slider.vars.pausePlay) { methods.pausePlay.setup(); }
 
