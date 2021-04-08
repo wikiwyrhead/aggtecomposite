@@ -1,4 +1,5 @@
 <html lang="en">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--brand-section start-->
 <div class="brand-section">
   <!--container start-->
@@ -135,7 +136,7 @@
       <div class="row">
         <!--col start-->
        <div class="col-md-6 col-sm-6">
-           <p><a target="_blank" href="https://www.facebook.com/wpc.claddingdecking">© 2021 Aquaponics GoGreen All Rights Reserved</a> <br><span style="font-size: 14px;">Design by <a href="mailto:jjanzen.go@gmail.com">Janzen Go from GoTech Web Solutions</a></span></p>
+           <p><a target="_blank" href="https://www.facebook.com/wpc.claddingdecking">&copy; 2021 Aquaponics GoGreen All Rights Reserved</a> <br><span style="font-size: 14px;">Design by <a href="https://www.linkedin.com/in/janzengo" target="_blank">Janzen Go </a><a href="mailto:jjanzen.go@gmail.com"><i class="fa fa-envelope-o"></i></a> from GoTech Web Solutions</span></p>
           </div>
         <!--col end-->
         <!--col start-->

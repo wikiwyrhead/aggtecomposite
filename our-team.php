@@ -15,14 +15,12 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link rel="stylesheet" href="dist/color-default.css">
-<link rel="stylesheet" href="dist/color-switcher.css">
 <link href="css/magnific-popup.css" rel="stylesheet">
 <link href="css/animate.css" rel="stylesheet">
 <link href="css/owl.css" rel="stylesheet">
 <link href="css/jquery.fancybox.css" rel="stylesheet">
 <link href="css/modal-designs.css" rel="stylesheet">
 <link href="css/style_slider.css" rel="stylesheet">
-<link href="rs-plugin/css/settings.css" rel="stylesheet">
 </head>
 <body>
     <!-- Load Facebook SDK for JavaScript -->
@@ -125,14 +123,13 @@
 <script src="js/jquery-2.1.4.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.magnific-popup.min.js"></script>
-<script src="js/imagesloaded.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="js/isotope.pkgd.min.js"></script>
 <script src="js/jquery.fancybox8cbb.js?v=2.1.5"></script>
 <script src="js/owl.carousel.js"></script>
 <script src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 <script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 <script src="js/counter.js"></script>
-<script src="dist/color-switcher.js"></script>
 <script src="js/smoothscroll.js"></script>
 <script src="js/script.js"></script>
 <script src="js/messageCounter.js"></script>

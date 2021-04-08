@@ -18,14 +18,13 @@
 <link href="css/style.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet">
 <link rel="stylesheet" href="dist/color-default.css">
-<link rel="stylesheet" href="dist/color-switcher.css">
 <link href="css/magnific-popup.css" rel="stylesheet">
 <link href="css/animate.css" rel="stylesheet">
 <link href="css/owl.css" rel="stylesheet">
 <link href="css/jquery.fancybox.css" rel="stylesheet">
 <link href="css/style_slider.css" rel="stylesheet">
 <link href="css/modal-designs.css" rel="stylesheet">
-<link href="rs-plugin/css/settings.css" rel="stylesheet">
+
 </head>
 <body>
 
@@ -395,7 +394,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
             <br>
           <p> Furthermore, our wood composite materials are guaranteed to be more lasting than wood. It has additives that make the existing hard wood properties more sturdy which indicates that you can be assured that your <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite">deck, cladding or fencing</a> is more tough than other ordinary products. Also, our materials do not absorb water like other wooden alternatives so it can endure weather conditions and is also easy to maintain.</p>
             <br>
-            <p> For more information on the featured products on this site, feel free to reach out to any members of our team or you may <a target="_blank" href="services.php#decking">download our installation guide.</a></p>
+            <p> For more information on the featured products on this site, feel free to reach out to any members of our team or you may <a href="services.php#decking">download our installation guide.</a></p>
         </div>
         <div class="whychoose-description">
           <ul class="row">
@@ -486,14 +485,13 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
 <script src="js/jquery-2.1.4.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.magnific-popup.min.js"></script>
-<script src="js/imagesloaded.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="js/isotope.pkgd.min.js"></script>
 <script src="js/jquery.fancybox8cbb.js?v=2.1.5"></script>
 <script src="js/owl.carousel.js"></script>
 <script src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
 <script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 <script src="js/counter.js"></script>
-<script src="dist/color-switcher.js"></script>
 <script src="js/smoothscroll.js"></script>
 <script src="js/script.js"></script>
 <script src="js/custom1.js"></script>
