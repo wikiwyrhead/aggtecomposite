@@ -69,7 +69,7 @@
                     <a href="https://en.wikipedia.org/wiki/CE_marking" target="_blank"><img class="footer-logo-default" src="images/other-logos/CE.png" alt="CE Logo">&nbsp;&nbsp;</a>
                     <a href="https://www.fsc-uk.org/en-uk/about-fsc/what-is-fsc/frequently-asked-questions#:~:text=FSC%20stands%20for%20'Forest%20Stewardship%20Council'.&text=FSC%20certifies%20forests%20all%20over,our%20'tick%20tree'%20logo." target="_blank"><img class="footer-logo-default" src="images/other-logos/FSCyc0Nbl.png" alt="FSC Logo"></a>
                     <a href="https://www.recyclenow.com/recycling-knowledge/packaging-symbols-explained" target="_blank"><img class="footer-logo-default" src="images/other-logos/Greenpeace_symbols_recycle_sign_05s_300x300.png" alt="Recycle Sign">&nbsp;</a>
-                    <a href="https://www.rohsguide.com/rohs-faq.htm#:~:text=RoHS%20stands%20for%20Restriction%20of,products%20(known%20as%20EEE)." target="_blank"><img class="footer-logo-default" src="images/other-logos/RoHs.png" alt="RoHS Logo">
+                    <a href="https://www.rohsguide.com/rohs-faq.htm#:~:text=RoHS%20stands%20for%20Restriction%20of,products%20(known%20as%20EEE)." target="_blank"><img class="footer-logo-default" src="images/other-logos/RoHs.png" alt="RoHS Logo"></a>
             </div>
         </div>
       </div>
@@ -438,11 +438,11 @@ TripettoChat.run({
                         </li>
                     </ul>
                     <p><strong>Our right of cancellation</strong></p>
-                    <p>If for circumstances beyond our reasonable control, we cancel the agreement at any time before the goods are delivered by giving notice to you, we shall not be liable for any other loss or damage whatever arising from such cancellation.</strong></p>
+                    <p>If for circumstances beyond our reasonable control, we cancel the agreement at any time before the goods are delivered by giving notice to you, we shall not be liable for any other loss or damage whatever arising from such cancellation.</p>
                     <p><strong>Cancellation of orders in transit</strong></p>
                     <p>We reserve the right to charge 20% of the sales value or the return haulage fee charged of Php3,500 for Metro, Manila & South Luzon area and Php7,000 for outside of Metro Manila and South Luzon area (whichever is higher) when goods have left for delivery and have to be returned to us for a refund. The above will apply and an additional charge will be levied if orders have to be redelivered, charged at the same rate stated above.</p><br>
                     <p><strong>Statutory rights</strong></p>
-                    <p>Your right of cancellation is in addition to your other statutory rights. However, the after sales service and guarantees and the voluntary code for the return of goods by you to us mentioned below do not affect your statutory rights.</strong></p>
+                    <p>Your right of cancellation is in addition to your other statutory rights. However, the after sales service and guarantees and the voluntary code for the return of goods by you to us mentioned below do not affect your statutory rights.</p>
                     <p><strong>Retention of title by us</strong></p>
                     <ul>
                         <li>•	You will be held liable for the goods upon its receipt. Even if the delivery has been made properly, the goods will not be entrusted to you until:
