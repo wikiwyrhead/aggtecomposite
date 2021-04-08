@@ -35,7 +35,7 @@
               <li><a href="https://www.facebook.com/wpc.claddingdecking" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
             <li><a href="https://twitter.com/share?url=https%3A%2F%2Faquaponicsgogreen.com&text=AquaponicsGoGreen" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
             <li><a href="https://www.instagram.com/aquaponicsgogreenph/"  target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.linkedin.com/in/aggte-wpc-cladding-and-decking-334790209/" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/aggtedeck" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
             </ul>
             <div class="btn-box">
               <button data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".quote-modal" class="brochure-btn theme-btn hvr-link">Get A Quote</button>
