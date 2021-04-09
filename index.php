@@ -12,6 +12,7 @@
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="google-site-verification" content="QvWa1ncmrWdTSHABNu1A6xJ7bIYV3nGcf4pT4y8zjmg" />
+<meta name="facebook-domain-verification" content="7dwfnme386x93giukotpjrs5ymvjh3" />
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->
