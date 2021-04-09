@@ -8,7 +8,7 @@
 <title>AGGTEDeck Composite Cladding | Composite Decking | WPC | Wood Plastic Composite Materials | Taal, Batangas, Philippines</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="description" content="AGGTE Composite Cladding & Decking">
-<meta name="keywords" content=" Build your dream deck with AGGTEDeck, One of Philippines trusted composite decking and cladding supplier | AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite ">
+<meta name="keywords" content=" Build your dream deck with AGGTEDeck, One of Philippines trusted composite decking and cladding supplier | AGGTE ,WPC, Composites, AGG, GoGreen, Cladding panel, Decking board, Gates, Wood Plastic Composite Materials">
 <meta name="author" content="Janzen Go">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
