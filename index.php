@@ -522,6 +522,10 @@ Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogre
 
       </script>
 <!--j query end-->
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60704bcd99822b9c"></script>
+
 </body>
 
 
