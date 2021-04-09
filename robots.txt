@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /php/
+Disallow: /rs-plugin/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /css/
+Sitemap: https://www.aggtedeck.com/sitemap.xml
