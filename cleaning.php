@@ -11,7 +11,7 @@
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
-<link class="logoicon" rel="shortcut icon" href="images/iconfast.png">
+<link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
