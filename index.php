@@ -78,7 +78,7 @@
       <!--col start-->
       <div class="col-md-6 col-sm-push-6">
         <div class="section-title">
-          <h3>Aquaponics Go Green Trading Enterprise<br>
+          <h3><a target="_blank" href="https://aquaponicsgogreen.com/shop/wpc-decking-wood-accessories">Aquaponics Go Green Trading Enterprise</a><br>
             <span>Composite Cladding & Decking</span></h3>
           <h4>Unlike wood, Composite Cladding & Decking won't: </h4>
             <div class="about-description">

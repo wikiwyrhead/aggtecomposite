@@ -7,7 +7,7 @@
 <title>Decking Products | Cladding Panels | Gate planks | Materials, Accessories & Deck Boards | AGGTEDeck</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="description" content="Our most recent project | composite cladding, decking, gates solution project,deck boards,decking boards,composite deck boards,decking systems, lanai deck, rooftop deck, poolside deck">
-<meta name="keywords" content="Discover high performance decking products from AGGTEDeck Learn about our variety of composite durable decking options for creating your outdoor living oasis AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, poolside deck, lanai decking, rooftop deck Wood Plastic Composite, wood alternative, composite boards decking solution">
+<meta name="keywords" content="Discover high performance decking products from AGGTEDeck Learn about our variety of composite durable decking options for creating your outdoor living oasis AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, poolside deck, lanai decking, rooftop deck Wood Plastic Composite, wood alternative, composite boards decking solution, WPC Decking Wood and Accessories">
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
