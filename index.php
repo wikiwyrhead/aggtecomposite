@@ -55,30 +55,7 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
   <div class="page-wrapper">
   <!--preloader start-->
 
-  <!-- <div class="preloader"></div>-->
-
-<script>
-
-    $(document).ready(function($) {
-
-    if ($.cookie('noPreloader'))
-    {
-        $('#preloader').hide();
-    }
-    else
-    {
-        $(window).load(function() {
-            $('#preloader').delay(1200).fadeOut(800,function() {
-                $(this).remove();
-            });
-        });
-
-        // and now we create 1 year cookie
-        $.cookie('noPreloader', true, {path: '/', expire: 365});
-    }
-});
-
-    </script>
+<div class="preloader"></div>
 
   <!--preloader end-->
     <!--main-header start-->
