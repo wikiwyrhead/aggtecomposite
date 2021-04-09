@@ -44,7 +44,7 @@
   <div class="staticSlider">
     <div class="container">
       <div class="slidewrap">
-        <!--<h3>Welcome to AGGTE WPC Cladding & Decking </h3>-->
+        <!--<h3>Welcome to AGGTEDeck Composite Cladding & Decking </h3>-->
         <h1>Transforming your ideas <span>into reality</span></h1>
         <a href="about.php" class="btn btn-default section-btn">See more</a><a class="btn btn-default section-btn span_color" href="contact.php">Contact Us</a> </div>
     </div>
@@ -109,7 +109,7 @@
   <div class="container">
     <div class="section-title" href="#ourbestservices">
       <h3>OUR BEST <span>SERVICES</span></h3>
-        <p>Your deck goes beyond the function of <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite#WPC_sandwich_boards">composite boards</a>. It can also be a deck framing or it can also be possibly used as a patio furniture. Every <a target="_blank" href="services.php">AGGTEdeck Composite Cladding and Decking</a> piece is made from top grade material, thus, it can withstand weather changes, it is long-lasting and easy to care-for even when installed indoors or outdoors.  On top of these, the perfect blend of elegance and durability that our products have make it stand out in the market and this has greatly contributed to the lasting trust that its clients have been giving to AGGTE.<br><br>
+        <p>Your deck goes beyond the function of <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite#WPC_sandwich_boards">composite boards</a>. It can also be a deck framing or it can also be possibly used as a patio furniture. Every <a target="_blank" href="services.php">AGGTEDeck Composite Cladding and Decking</a> piece is made from top grade material, thus, it can withstand weather changes, it is long-lasting and easy to care-for even when installed indoors or outdoors.  On top of these, the perfect blend of elegance and durability that our products have make it stand out in the market and this has greatly contributed to the lasting trust that its clients have been giving to AGGTE.<br><br>
 Remember, when it comes to your cladding and decking needs, we have it all for you here at AGGTE. So, what are you waiting for, take a look now at our product offering and see it for yourself!
 </p>
     </div>
@@ -140,7 +140,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
               <h3><a href="services.php">Floor Decking</a></h3>
               <p> An excellent composite decking product will provide any outdoor space with a genuine-modern finish, including a wide variety of features that will ensure your protection and peace of mind in the years to come, thus, giving you’re the privilege of enjoying the sight of your deck area.
                   <br><br>
-                  We have specified here every detail of our range of product and laid-down their key features. This section of our site will generally give you more information that will give you a concrete idea on the different product features that definitely see AGGTE miles away from its competitors and will lead you to the right direction in choosing for the ideal supplier of your construction needs.
+                  We have specified here every detail of our range of product and laid-down their key features. This section of our site will generally give you more information that will give you a concrete idea on the different product features that definitely see <a target="_blank" href="https://www.linkedin.com/company/aggtedeck">AGGTEDeck</a> miles away from its competitors and will lead you to the right direction in choosing for the ideal supplier of your construction needs.
                   <br><br><br><br><br><br></p>
             </div>
           </div>
@@ -154,8 +154,8 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
             <div class="icon"><i class="fa fa-users"></i> </div>
             <div class="details">
               <h3><a href="services.php">Builders</a></h3>
-              <p>AGGTE WPC Cladding & Decking Builders is an independently owned and operated company. The company and its sales agents or representatives are not in any way connected with AGGTE WPC Cladding & Decking. As such, AGGTE WPC Cladding & Decking does not make any representations or warranties as to the products of AGGTE WPC Cladding & Decking Builders. They are also not responsible for the performance, acts or omissions of AGGTE WPC Cladding & Decking Builders.<br><br>
-           As an independent company, AGGTE Builders have undergone advanced training by joining a very carefully chosen group of installer with extensive and state-of the art experience in the field of WPC Cladding and Decking experience. Through it, AGGTE clients are assured that their concerns can be effectively handled by the very competent members of the company’s management and staff.
+              <p>AGGTEDeck Composite Cladding & Decking Builders is an independently owned and operated company. The company and its sales agents or representatives are not in any way connected with AGGTEDeck Composite Cladding & Decking. As such, AGGTEDeck Composite Cladding & Decking does not make any representations or warranties as to the products of AGGTEDeck Composite Cladding & Decking Builders. They are also not responsible for the performance, acts or omissions of AGGTEDeck Composite Cladding & Decking Builders.<br><br>
+           As an independent company, AGGTE Builders have undergone advanced training by joining a very carefully chosen group of installer with extensive and state-of the art experience in the field of WPC Cladding and Decking experience. Through it, AGGTEDeck clients are assured that their concerns can be effectively handled by the very competent members of the company’s management and staff.
             </p>
             </div>
           </div>
@@ -459,7 +459,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
       </li>
       <li class="item">
         <div class="testiWrp">
-          <p><span style="font-size: 150%;font-weight: bold">AGGTE WPC Cladding & Decking saved the day</span><br>Quick in response and the delivery leadtime was also quick, everything was well prepared and exactly what I'd ordered. Would go to them straight away with future composite material needs.</p>
+          <p><span style="font-size: 150%;font-weight: bold">AGGTEDeck Composite Cladding & Decking saved the day</span><br>Quick in response and the delivery leadtime was also quick, everything was well prepared and exactly what I'd ordered. Would go to them straight away with future composite material needs.</p>
           <div class="clientInfo">
             <div class="name">Dondie Prats<span class="white_color">Contractor</span></div>
             <div class="clearfix"></div>
