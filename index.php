@@ -122,7 +122,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
             <div class="icon"><i class="fa fa-wrench"></i> </div>
             <div class="details">
               <h3><a href="services.php">Wall Cladding</a></h3>
-              <p>Exterior composite wall cladding has the capability of making your property look completely refreshed. It is sometimes referred to as house cladding or wall cladding. This material can instantly give a modern make-over on your exteriors.  With this type of cladding material, you can make the facade of your homes and buildings blend into your gardens or make the style of your contemporary domestic or commercial property stand out from the others.
+              <p>Exterior composite wall cladding has the capability of making your property look completely refreshed. It is sometimes referred to as house cladding or wall cladding. This material can instantly give a modern make-over on your exteriors.  With this type of <a target="_blank" href="https://www.facebook.com/photo?fbid=762859461268929&set=pcb.762860451268830">cladding material</a>, you can make the facade of your homes and buildings blend into your gardens or make the style of your contemporary domestic or commercial property stand out from the others.
                   <br><br>
                   AGGTE supply high-quality cladding to cover your exterior walls which can improve the kerb appeal of your homes and commercial buildings in an instant.
                   <br><br><br><br><br><br><br></p>
