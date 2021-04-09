@@ -79,7 +79,7 @@
         <div class="section-title">
           <h3>Aquaponics Go Green Trading Enterprise<br>
             <span>Composite Cladding & Decking</span></h3>
-          <h4>Unlike wood, WPC Cladding & Decking won't: </h4>
+          <h4>Unlike wood, Composite Cladding & Decking won't: </h4>
             <div class="about-description">
           <ul>
             <li>ROT, WARP OR SPLINTER</li>
@@ -109,7 +109,7 @@
   <div class="container">
     <div class="section-title" href="#ourbestservices">
       <h3>OUR BEST <span>SERVICES</span></h3>
-        <p>Your deck goes beyond the function of <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite#WPC_sandwich_boards">composite boards</a>. It can also be a deck framing or it can also be possibly used as a patio furniture. Every <a target="_blank" href="services.php">AGGTE WPC Cladding and Decking</a> piece is made from top grade material, thus, it can withstand weather changes, it is long-lasting and easy to care-for even when installed indoors or outdoors.  On top of these, the perfect blend of elegance and durability that our products have make it stand out in the market and this has greatly contributed to the lasting trust that its clients have been giving to AGGTE.<br><br>
+        <p>Your deck goes beyond the function of <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite#WPC_sandwich_boards">composite boards</a>. It can also be a deck framing or it can also be possibly used as a patio furniture. Every <a target="_blank" href="services.php">AGGTEdeck Composite Cladding and Decking</a> piece is made from top grade material, thus, it can withstand weather changes, it is long-lasting and easy to care-for even when installed indoors or outdoors.  On top of these, the perfect blend of elegance and durability that our products have make it stand out in the market and this has greatly contributed to the lasting trust that its clients have been giving to AGGTE.<br><br>
 Remember, when it comes to your cladding and decking needs, we have it all for you here at AGGTE. So, what are you waiting for, take a look now at our product offering and see it for yourself!
 </p>
     </div>
@@ -124,7 +124,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
               <h3><a href="services.php">Wall Cladding</a></h3>
               <p>Exterior composite wall cladding has the capability of making your property look completely refreshed. It is sometimes referred to as house cladding or wall cladding. This material can instantly give a modern make-over on your exteriors.  With this type of <a target="_blank" href="https://www.facebook.com/photo?fbid=762859461268929&set=pcb.762860451268830">cladding material</a>, you can make the facade of your homes and buildings blend into your gardens or make the style of your contemporary domestic or commercial property stand out from the others.
                   <br><br>
-                  AGGTE supply high-quality cladding to cover your exterior walls which can improve the kerb appeal of your homes and commercial buildings in an instant.
+                  AGGTEdeck supply high-quality cladding to cover your exterior walls which can improve the kerb appeal of your homes and commercial buildings in an instant.
                   <br><br><br><br><br><br><br></p>
             </div>
           </div>
@@ -390,7 +390,7 @@ Remember, when it comes to your cladding and decking needs, we have it all for y
         <div class="section-title">
           <h3>Our special support<br>
             <span>Why Choose Us </span></h3>
-            <p> We strongly believe that our products are easy to install. As a matter of fact, its assembly does not require highly specialized tools and on top of that, since all the materials that we are using are light-weight, setting it up is also easy. Thus, we can make it possible for you to achieve your desired exterior set-up without consuming much of your time. Here at <a target="_blank" href="services.php#decking">AGGTE WPC Cladding and Decking</a>, minimizing waste and ensuring sustainability are our top priorities because our AGGTE calculator can precisely provide you with the exact materials that you will need to complete your project.</p>
+            <p> We strongly believe that our products are easy to install. As a matter of fact, its assembly does not require highly specialized tools and on top of that, since all the materials that we are using are light-weight, setting it up is also easy. Thus, we can make it possible for you to achieve your desired exterior set-up without consuming much of your time. Here at <a target="_blank" href="services.php#decking">AGGTEdeck Composite Cladding and Decking</a>, minimizing waste and ensuring sustainability are our top priorities because our AGGTE calculator can precisely provide you with the exact materials that you will need to complete your project.</p>
             <br>
           <p> Furthermore, our wood composite materials are guaranteed to be more lasting than wood. It has additives that make the existing hard wood properties more sturdy which indicates that you can be assured that your <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite">deck, cladding or fencing</a> is more tough than other ordinary products. Also, our materials do not absorb water like other wooden alternatives so it can endure weather conditions and is also easy to maintain.</p>
             <br>
