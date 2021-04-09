@@ -13,7 +13,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="google-site-verification" content="QvWa1ncmrWdTSHABNu1A6xJ7bIYV3nGcf4pT4y8zjmg" />
 <meta name="facebook-domain-verification" content="7dwfnme386x93giukotpjrs5ymvjh3" />
-
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -31,7 +30,6 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
-
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->
