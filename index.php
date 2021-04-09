@@ -49,11 +49,37 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 
 <!-- Load Facebook SDK for JavaScript -->
 <?php include 'fbplug.php'; ?>
+
 <!--Load Facebook SDK for JavaScript Ends Here-->
 
   <div class="page-wrapper">
   <!--preloader start-->
-  <div class="preloader"></div>
+
+  <!-- <div class="preloader"></div>-->
+
+<script>
+
+    $(document).ready(function($) {
+
+    if ($.cookie('noPreloader'))
+    {
+        $('#preloader').hide();
+    }
+    else
+    {
+        $(window).load(function() {
+            $('#preloader').delay(1200).fadeOut(800,function() {
+                $(this).remove();
+            });
+        });
+
+        // and now we create 1 year cookie
+        $.cookie('noPreloader', true, {path: '/', expire: 365});
+    }
+});
+
+    </script>
+
   <!--preloader end-->
     <!--main-header start-->
 <?php include 'header.php'; ?>
