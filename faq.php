@@ -8,7 +8,7 @@
 <title>AGGTE WPC Cladding & Decking</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="description" content="AGGTE WPC Cladding & Decking">
-<meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite">
+<meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Composite Cladding, Composite Decking Board, Gates, Wood Plastic Composite">
 <meta name="author" content="Janzen Go">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->

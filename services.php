@@ -4,11 +4,11 @@
 
 <head>
 <meta charset="UTF-8">
-<title>AGGTE WPC Cladding & Decking</title>
+<title>AGGTEDeck Composite Cladding & Decking Services</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="description" content="AGGTE WPC Cladding & Decking">
-<meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite">
-<meta name="author" content="Janzen Go">
+<meta name="description" content="We install and Supply composite decking,railing,fencing,outdoor furniture,gates,cladding, decking installer, decking installer">
+<meta name="keywords" content="Find the perfect sizes and styles of all types of products you need for decking, fencing, cladding, gates, ceiling">
+<meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="images/iconfast.png">

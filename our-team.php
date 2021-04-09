@@ -3,11 +3,11 @@
 
 <head>
 <meta charset="UTF-8">
-<title>AGGTE WPC Cladding & Decking</title>
+<title>AGGTEDeck Composite Cladding & Decking Team</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="description" content="AGGTE WPC Cladding & Decking">
-<meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite">
-<meta name="author" content="Janzen Go">
+<meta name="description" content="The people behind AGGTEDeck Composite Cladding & Decking">
+<meta name="keywords" content="AGGTEDeck Team, Aquaponics Go Green Team, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite, team AGGTEDeck, Decking installer, cladding installer, Decking supplier, cladding supplier Philippines, composite decking philippines, composite deck manila">
+<meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="images/iconfast.png">

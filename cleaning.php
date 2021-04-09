@@ -4,11 +4,11 @@
 
 <head>
 <meta charset="UTF-8">
-<title>AGGTE WPC Cladding & Decking</title>
+<title>Composite Cladding Decking Care Guide</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="description" content="AGG WPC Cladding Decking">
-<meta name="keywords" content="WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates">
-<meta name="author" content="">
+<meta name="description" content="Guides to keep your composite cladding and decking away from Surface Mildew And Mould Growth, Water Staining, Stubborn Spot Stains">
+<meta name="keywords" content="Cladding, Decking, Gates, decking cleaning, cleaning guidelines, Routine Cleaning, Stubborn Spot Stains, Water Staining, Surface Mildew And Mould Growth">
+<meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="images/iconfast.png">

@@ -4,10 +4,10 @@
 
 <head>
 <meta charset="UTF-8">
-<title>AGGTE WPC Cladding & Decking</title>
+<title>About AGGTEDeck Composite Cladding & Decking</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="description" content="AGGTE WPC Cladding & Decking">
-<meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite">
+<meta name="description" content="AGGTEDeck is specialists in composite decking – it’s all we do! We’ve also made sure that we can provide the service that backs it up, offering convenient, fast delivery, and superior customer support.">
+<meta name="keywords" content="About the company, AGGTE ,WPC, Composites, AGG, GoGreen, Quality Cladding, Quality Decking, Gates, Wood Plastic Composite, Specialists in composite decking, ">
 <meta name="author" content="Janzen Go">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->

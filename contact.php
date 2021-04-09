@@ -4,10 +4,10 @@
 
 <head>
 <meta charset="UTF-8">
-<title>AGGTE WPC Cladding & Decking</title>
+<title>Contact AGGTEDeck | Philippines's Trusted Composite Cladding Decking Supplier</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="description" content="AGGTE WPC Cladding & Decking">
-<meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite">
+<meta name="description" content="Want to get in touch? We’d love to hear from you, Sales & Support">
+<meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite, Office Information, Sales & Support, visit us, Contact us">
 <meta name="author" content="Janzen Go">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
