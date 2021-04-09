@@ -148,7 +148,7 @@
               <p>Having the right decking, cladding and fencing is only the first part of the installation process, with high-quality trims and fixings playing a vital part to ensure your project is completed properly and give the finishing touch. At AGGTE, we have a range of decking fixings and composite trims to ensure the job is done properly.</p>
 
               <p>
-                Whatever the style and purpose of your project, you’ll find the right composite trims and composite fixings here to be able to confidently complete it in no time.
+                Whatever the style and purpose of your project, you’ll find the right composite trims and <a target="_blank" href="https://aquaponicsgogreen.com/shop/wpc-decking-wood-accessories">composite fixings</a>here to be able to confidently complete it in no time.
               </p>
         </div>
         </div>

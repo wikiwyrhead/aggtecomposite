@@ -111,7 +111,7 @@
     <div class="section-title" href="#ourbestservices">
       <h3>OUR BEST <span>SERVICES</span></h3>
         <p>Your deck goes beyond the function of <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite#WPC_sandwich_boards">composite boards</a>. It can also be a deck framing or it can also be possibly used as a patio furniture. Every <a target="_blank" href="services.php">AGGTEDeck Composite Cladding and Decking</a> piece is made from top grade material, thus, it can withstand weather changes, it is long-lasting and easy to care-for even when installed indoors or outdoors.  On top of these, the perfect blend of elegance and durability that our products have make it stand out in the market and this has greatly contributed to the lasting trust that its clients have been giving to AGGTE.<br><br>
-Remember, when it comes to your cladding and decking needs, we have it all for you here at AGGTE. So, what are you waiting for, take a look now at our product offering and see it for yourself!
+Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogreen.com/shop/wpc-decking-wood-accessories">cladding and decking</a> needs, we have it all for you here at AGGTE. So, what are you waiting for, take a look now at our product offering and see it for yourself!
 </p>
     </div>
     <!--row start-->
