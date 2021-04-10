@@ -8,11 +8,32 @@
 <title>AGGTEDeck Composite Cladding | Composite Decking | Taal, Batangas, Philippines</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="description" content="Are you looking for affordable yet quality Composite Cladding / decking for either your home or business?">
-<meta name="keywords" content=" Build your dream deck with AGGTEDeck, One of Philippines trusted Quality composite decking and cladding supplier | AGGTE ,WPC, Composites, AGG, GoGreen, Cladding panel, Decking board, Gates, Wood Plastic Composite Materials">
+<meta name="keywords" content="Build your dream deck with AGGTEDeck, One of Philippines trusted Quality composite decking and cladding supplier | AGGTE ,WPC, Composites, AGG, GoGreen, Cladding panel, Decking board, Gates, Wood Plastic Composite Materials">
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="google-site-verification" content="QvWa1ncmrWdTSHABNu1A6xJ7bIYV3nGcf4pT4y8zjmg" />
+<<<<<<< HEAD
     <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
+=======
+<meta name="facebook-domain-verification" content="7dwfnme386x93giukotpjrs5ymvjh3" />
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '198102358516938');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+>>>>>>> origin/master
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->
@@ -32,11 +53,14 @@
 
 <!-- Load Facebook SDK for JavaScript -->
 <?php include 'fbplug.php'; ?>
+
 <!--Load Facebook SDK for JavaScript Ends Here-->
 
   <div class="page-wrapper">
   <!--preloader start-->
-  <div class="preloader"></div>
+
+<div class="preloader"></div>
+
   <!--preloader end-->
     <!--main-header start-->
 <?php include 'header.php'; ?>
@@ -156,7 +180,7 @@ Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogre
             <div class="icon"><i class="fa fa-users"></i> </div>
             <div class="details">
               <h3><a href="services.php">Builders</a></h3>
-              <p>AGGTEDeck Composite Cladding & Decking Builders is an independently owned and operated company. The company and its sales agents or representatives are not in any way connected with AGGTEDeck Composite Cladding & Decking. As such, AGGTEDeck Composite Cladding & Decking does not make any representations or warranties as to the products of AGGTEDeck Composite Cladding & Decking Builders. They are also not responsible for the performance, acts or omissions of AGGTEDeck Composite Cladding & Decking Builders.<br><br>
+              <p>AGGTEDeck Builders is an independently owned and operated company. The company and its sales agents or representatives are not in any way connected with AGGTEDeck Composite Cladding & Decking. As such, AGGTEDeck Composite Cladding & Decking does not make any representations or warranties as to the services of AGGTEDeck Builders. They are also not responsible for the performance, acts or omissions of AGGTEDeck Composite Cladding & Decking Builders.<br><br>
            As an independent company, AGGTE Builders have undergone advanced training by joining a very carefully chosen group of installer with extensive and state-of the art experience in the field of WPC Cladding and Decking experience. Through it, AGGTEDeck clients are assured that their concerns can be effectively handled by the very competent members of the company’s management and staff.
             </p>
             </div>
@@ -505,6 +529,10 @@ Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogre
 
       </script>
 <!--j query end-->
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-60704bcd99822b9c"></script>
+
 </body>
 
 
