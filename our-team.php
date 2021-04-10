@@ -9,6 +9,7 @@
 <meta name="keywords" content="AGGTEDeck Team, Aquaponics Go Green Team, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite, team AGGTEDeck, Decking installer, cladding installer, Decking supplier, cladding supplier Philippines, composite decking philippines, composite deck manila">
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->

@@ -10,6 +10,7 @@
 <meta name="keywords" content="Cladding, Decking, Gates, decking cleaning, cleaning guidelines, Routine Cleaning, Stubborn Spot Stains, Water Staining, Surface Mildew And Mould Growth">
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->

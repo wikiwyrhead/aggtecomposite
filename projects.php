@@ -10,6 +10,7 @@
 <meta name="keywords" content="Discover high performance decking products from AGGTEDeck Learn about our variety of composite durable decking options for creating your outdoor living oasis AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, poolside deck, lanai decking, rooftop deck Wood Plastic Composite, wood alternative, composite boards decking solution, WPC Decking Wood and Accessories">
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->
