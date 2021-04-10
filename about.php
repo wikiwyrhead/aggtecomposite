@@ -196,7 +196,7 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
               <div class="col-md-12">
                 <div class="single-why-choose-list"><i class="fa fa-wrench"></i>
                 <h3>Repairs</h3>
-                <p>Our company assures quick and immediate response upon queries and request addressed to us. To ensure excellent delivery of service, well-trained subcontractor builders are being assigned by the management. The team shall attend to the concerns of the clients and take action within 3 to 5 working days after receiving the information from the client.</p>
+                <p>Our company assures quick and immediate response upon <a href="contact.php#contact-section">inquiries and request</a> addressed to us. To ensure excellent delivery of service, well-trained subcontractor builders are being assigned by the management. The team shall attend to the concerns of the clients and take action within 3 to 5 working days after receiving the information from the client.</p>
               </div>
               </div>
               <!--col end-->

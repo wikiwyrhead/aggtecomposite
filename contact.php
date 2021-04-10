@@ -179,7 +179,7 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
         <!--col end-->
       </div>
       <!--row end-->
-            <div class="section-title margin_t40">
+            <div id="contact-section" class="section-title margin_t40">
         <h3>Drop <span>your message</span></h3>
 
       </div>

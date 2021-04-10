@@ -174,7 +174,7 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
   <div class="container">
     <div class="section-title" href="#ourbestservices">
       <h3>OUR BEST <span>SERVICES</span></h3>
-        <p>Your deck goes beyond the function of <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite#WPC_sandwich_boards">composite boards</a>. It can also be a deck framing or it can also be possibly used as a patio furniture. Every <a target="_blank" href="services.php">AGGTEDeck Composite Cladding and Decking</a> piece is made from top grade material, thus, it can withstand weather changes, it is long-lasting and easy to care-for even when installed indoors or outdoors.  On top of these, the perfect blend of elegance and durability that our products have make it stand out in the market and this has greatly contributed to the lasting trust that its clients have been giving to AGGTE.<br><br>
+        <p>Your deck goes beyond the function of <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite#WPC_sandwich_boards">composite boards</a>. It can also be a deck framing or it can also be possibly used as a patio furniture. Every <a href="services.php">AGGTEDeck Composite Cladding and Decking</a> piece is made from top grade material, thus, it can withstand weather changes, it is long-lasting and easy to care-for even when installed indoors or outdoors.  On top of these, the perfect blend of elegance and durability that our products have make it stand out in the market and this has greatly contributed to the lasting trust that its clients have been giving to AGGTE.<br><br>
 Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogreen.com/shop/wpc-decking-wood-accessories">cladding and decking</a> needs, we have it all for you here at AGGTE. So, what are you waiting for, take a look now at our product offering and see it for yourself!
 </p>
     </div>
@@ -289,7 +289,7 @@ Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogre
   <div class="container-fluid">
     <div class="section-title">
       <h3>OUR RECENT <span>PORTFOLIOS</span></h3>
-      <p>Here's our latest and most commendable projects all throughout the year 2020. The portfolio are shown based on the comments of clients
+      <p>Here's our latest and most commendable <a href="projects.php">projects</a> all throughout the year 2020. The portfolio are shown based on the comments of clients
         by their satisfaction.</p>
     </div>
     <!--row start-->
@@ -455,7 +455,7 @@ Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogre
         <div class="section-title">
           <h3>Our special support<br>
             <span>Why Choose Us </span></h3>
-            <p> We strongly believe that our products are easy to install. As a matter of fact, its assembly does not require highly specialized tools and on top of that, since all the materials that we are using are light-weight, setting it up is also easy. Thus, we can make it possible for you to achieve your desired exterior set-up without consuming much of your time. Here at <a target="_blank" href="services.php#decking">AGGTEdeck Composite Cladding and Decking</a>, minimizing waste and ensuring sustainability are our top priorities because our AGGTE calculator can precisely provide you with the exact materials that you will need to complete your project.</p>
+            <p> We strongly believe that our products are easy to install. As a matter of fact, its assembly does not require highly specialized tools and on top of that, since all the materials that we are using are light-weight, setting it up is also easy. Thus, we can make it possible for you to achieve your desired exterior set-up without consuming much of your time. Here at <a href="services.php">AGGTEdeck Composite Cladding and Decking</a>, minimizing waste and ensuring sustainability are our top priorities because our AGGTE calculator can precisely provide you with the exact materials that you will need to complete your project.</p>
             <br>
           <p> Furthermore, our wood composite materials are guaranteed to be more lasting than wood. It has additives that make the existing hard wood properties more sturdy which indicates that you can be assured that your <a target="_blank" href="https://en.wikipedia.org/wiki/Wood-plastic_composite">deck, cladding or fencing</a> is more tough than other ordinary products. Also, our materials do not absorb water like other wooden alternatives so it can endure weather conditions and is also easy to maintain.</p>
             <br>
