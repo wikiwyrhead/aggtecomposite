@@ -49,7 +49,28 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <!--Load Facebook SDK for JavaScript End Here-->
 <div class="page-wrapper">
   <!--preloader start-->
-  <div class="preloader"></div>
+<div class="preloader">
+    <div class="loader">
+   </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+    $(window).load(function() {
+        function Preloader() {
+            var preloader = $ ('.loader');
+            preloader.delay(1000) .fadeOut (500);
+            var preloader = $('.preloader');
+            preloader.delay (1500) .slideUp(500);
+        }
+        if ( ! sessionStorage.getItem( 'doNotShow' ) ) {
+            sessionStorage.setItem( 'doNotShow', true );
+            Preloader();
+        } else {
+           $ ('.loader, .preloader').hide();
+        }
+    });
+});
+</script>
   <!--preloader end-->
     <!--main-header start-->
         <?php include 'header.php'; ?>
