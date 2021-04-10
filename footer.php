@@ -63,6 +63,7 @@
             <li><a href="https://twitter.com/share?url=https%3A%2F%2Faquaponicsgogreen.com&text=AquaponicsGoGreen" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
             <li><a href="https://www.instagram.com/aggtedeck"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             <li><a href="https://www.linkedin.com/company/aggtedeck"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.pinterest.ph/aggtedeck/"><i class="fa fa-pinterest-square" aria-hidden="true" style="color: darkred"></i></a></li>
           </ul>
             <br>
             <div class="footer-logo">
