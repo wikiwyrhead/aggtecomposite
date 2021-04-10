@@ -10,9 +10,9 @@
 <meta name="keywords" content="About the company, AGGTE ,WPC, Composites, AGG, GoGreen, Quality Cladding, Quality Decking, Gates, Wood Plastic Composite, Specialists in composite decking, ">
 <meta name="author" content="Janzen Go">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<<<<<<< HEAD
-    <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
-=======
+<!-- Pinterest Metatag -->
+ <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
+<!-- Pinterest Metatag End -->
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -31,7 +31,7 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
->>>>>>> origin/master
+
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->

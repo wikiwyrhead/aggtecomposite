@@ -10,9 +10,9 @@
 <meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, Wood Plastic Composite, Office Information, Sales & Support, visit us, Contact us">
 <meta name="author" content="Janzen Go">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<<<<<<< HEAD
-    <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
-=======
+<!-- Pinterest Metatag -->
+ <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
+<!-- Pinterest Metatag End -->
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -30,7 +30,7 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
->>>>>>> origin/master
+
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->
@@ -50,7 +50,7 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <!--Load Facebook SDK for JavaScript End Here-->
 <div class="page-wrapper">
   <!--preloader start-->
-  <div class="preloader"></div>
+  <div class="preloader" id="preloader"></div>
   <!--preloader end-->
     <!--main-header start-->
         <?php include 'header.php'; ?>

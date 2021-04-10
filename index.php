@@ -1,8 +1,6 @@
 <?php if (isset($_SESSION['C_ID']))?>
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
 <meta charset="UTF-8">
 <title>AGGTEDeck Composite Cladding | Composite Decking | Taal, Batangas, Philippines</title>
@@ -12,9 +10,9 @@
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="google-site-verification" content="QvWa1ncmrWdTSHABNu1A6xJ7bIYV3nGcf4pT4y8zjmg" />
-<<<<<<< HEAD
-    <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
-=======
+<!-- Pinterest Metatag -->
+ <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
+<!-- Pinterest Metatag End -->
 <meta name="facebook-domain-verification" content="7dwfnme386x93giukotpjrs5ymvjh3" />
 <!-- Facebook Pixel Code -->
 <script>
@@ -33,7 +31,7 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
->>>>>>> origin/master
+
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->
