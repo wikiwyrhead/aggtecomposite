@@ -127,7 +127,7 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
             <li>
             <div class="teamWrap"> <img src="images/team0.png" class="img-responsive" alt="img1">
               <div class="caption">
-                <h3>Eddie Ruhle </h3>
+                <h3>Eddy Ruhle </h3>
                 <p>CEO</p>
               </div>
               <div class="link-wrap"> <a href="https://www.facebook.com/AquaponicsGoGreen" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/aquaponicsgogreenph/" target="_blank"><i class="fa fa-instagram"></i></a> </div>
