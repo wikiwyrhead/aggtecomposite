@@ -640,4 +640,6 @@ TripettoChat.run({
   </div>
       </div>
 <!--privacy-modal end-->
+<!-- Cookie Consent -->
+<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"colors":{"popup":{"background":"#228b22","text":"#ffffff","border":"#b5e1a0"},"button":{"background":"#90de6b","text":"#000000"}},"border":"thin","corners":"normal","content":{"message":"We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more,","link":"please click this link.","button":"I agree","href":"https://www.aggtedeck.com/privacy-policy"},"padding":"small","margin":"small","position":"bottom"})});</script>
 </html>

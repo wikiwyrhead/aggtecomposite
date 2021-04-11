@@ -190,7 +190,7 @@ Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogre
               <p>Exterior composite wall cladding has the capability of making your property look completely refreshed. It is sometimes referred to as house cladding or wall cladding. This material can instantly give a modern make-over on your exteriors.  With this type of <a target="_blank" href="https://www.facebook.com/photo?fbid=762859461268929&set=pcb.762860451268830">cladding material</a>, you can make the facade of your homes and buildings blend into your gardens or make the style of your contemporary domestic or commercial property stand out from the others.
                   <br><br>
                   AGGTEdeck supply high-quality cladding to cover your exterior walls which can improve the kerb appeal of your homes and commercial buildings in an instant.
-                  <br><br><br><br><br><br><br></p>
+                  <br><br><br><br><br><br><br><br><br></p>
             </div>
           </div>
         </div>
@@ -206,7 +206,7 @@ Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogre
               <p> An excellent composite decking product will provide any outdoor space with a genuine-modern finish, including a wide variety of features that will ensure your protection and peace of mind in the years to come, thus, giving you’re the privilege of enjoying the sight of your deck area.
                   <br><br>
                   We have specified here every detail of our range of product and laid-down their key features. This section of our site will generally give you more information that will give you a concrete idea on the different product features that definitely see <a target="_blank" href="https://www.linkedin.com/company/aggtedeck">AGGTEDeck</a> miles away from its competitors and will lead you to the right direction in choosing for the ideal supplier of your construction needs.
-                  <br><br><br><br><br><br></p>
+                  <br><br><br><br><br><br><br><br></p>
             </div>
           </div>
         </div>
