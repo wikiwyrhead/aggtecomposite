@@ -221,7 +221,7 @@ Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogre
               <h3><a href="services.php">Builders</a></h3>
               <p>AGGTEDeck Builders is an independently owned and operated company. The company and its sales agents or representatives are not in any way connected with AGGTEDeck Composite Cladding & Decking. As such, AGGTEDeck Composite Cladding & Decking does not make any representations or warranties as to the services of AGGTEDeck Builders. They are also not responsible for the performance, acts or omissions of AGGTEDeck Composite Cladding & Decking Builders.<br><br>
            As an independent company, AGGTE Builders have undergone advanced training by joining a very carefully chosen group of installer with extensive and state-of the art experience in the field of WPC Cladding and Decking experience. Through it, AGGTEDeck clients are assured that their concerns can be effectively handled by the very competent members of the company’s management and staff.
-            </p>
+            </p><br>
             </div>
           </div>
         </div>
