@@ -44,6 +44,16 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <link href="css/style_slider.css" rel="stylesheet">
 <link href="css/modal-designs.css" rel="stylesheet">
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WH9CSW6WKX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WH9CSW6WKX');
+</script>
+
 </head>
 <body>
 
