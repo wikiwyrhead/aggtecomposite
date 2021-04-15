@@ -10,7 +10,9 @@
 <meta name="keywords" content="Discover high performance decking products from AGGTEDeck Learn about our variety of composite durable decking options for creating your outdoor living oasis AGGTE ,WPC, Composites, AGG, GoGreen, Cladding, Decking, Gates, poolside deck, lanai decking, rooftop deck Wood Plastic Composite, wood alternative, composite boards decking solution, WPC Decking Wood and Accessories">
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
+<!-- Pinterest Metatag -->
+ <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
+<!-- Pinterest Metatag End -->
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -28,7 +30,6 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
-
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->
@@ -48,7 +49,50 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <!--Load Facebook SDK for JavaScript End Here-->
 <div class="page-wrapper">
   <!--preloader start-->
-  <div class="preloader"></div>
+<div class="preloader">
+</div>
+<script
+        src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+        integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+        crossorigin="anonymous"></script>
+<script>
+    $(function() {
+        // Cookies
+        function setCookie(name, value, days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                var expires = "; expires=" + date.toGMTString();
+            }
+            else var expires = "";
+
+            document.cookie = name + "=" + value + expires + "; path=/";
+        }
+
+        function getCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+
+//        Validate cookie
+        var myCookie = getCookie("MyCookie");
+        if (myCookie == null) {
+//                alert('No cookei');
+            $('.preloader').css('display','block');
+            setCookie("MyCookie", "foo", 7);
+        }
+        else {
+//                alert('yes cookei');
+            $('.preloader').css('display','none');
+        }
+    });
+</script>
   <!--preloader end-->
     <!--main-header start-->
         <?php include 'header.php'; ?>

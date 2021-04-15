@@ -60,9 +60,10 @@
           <p>Never miss out our latest updates online! Follow us on social media to be on top of the news:</p>
           <ul class="footer-social">
             <li><a href="https://www.facebook.com/wpc.claddingdecking" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-            <li><a href="https://twitter.com/share?url=https%3A%2F%2Faquaponicsgogreen.com&text=AquaponicsGoGreen" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.instagram.com/aggtedeck"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.linkedin.com/company/aggtedeck"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+            <li><a href="https://twitter.com/AggteD" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.instagram.com/aggtedeck" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/aggtedeck" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+            <li><a href="https://www.pinterest.ph/aggtedeck/" target="_blank"><i class="fa fa-pinterest-square" aria-hidden="true" style="color: darkred"></i></a></li>
           </ul>
             <br>
             <div class="footer-logo">
@@ -639,4 +640,6 @@ TripettoChat.run({
   </div>
       </div>
 <!--privacy-modal end-->
+<!-- Cookie Consent -->
+<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","corners":"small","colors":{"popup":{"background":"#2e6a11","text":"#ffffff","border":"#b5e1a0"},"button":{"background":"#b5e1a0","text":"#000000"}},"padding":"small","transparency":"15","content":{"href":"https://www.aggtedeck.com/privacy-policy","message":"We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click \n","link":"this link.","button":"Agree"}})});</script>
 </html>

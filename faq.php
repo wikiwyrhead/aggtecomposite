@@ -11,6 +11,9 @@
 <meta name="keywords" content="AGGTE ,WPC, Composites, AGG, GoGreen, Composite Cladding, Composite Decking Board, Gates, Wood Plastic Composite">
 <meta name="author" content="Janzen Go">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!-- Pinterest Metatag -->
+ <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
+<!-- Pinterest Metatag End -->
 
 <!-- Facebook Pixel Code -->
 <script>
@@ -29,6 +32,59 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
+
+<!-- Schema  -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is composite decking?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Wood Plastic Composite Decking which is considered the fastest-growing wood alternative in the market is made from a mixture of wood and recycled plastics. Had it not for this innovation, plastic waste would just simply end up in the landfill. This very popular replacement for wood offers extraordinary durability, resilience, and performance. Because of these features, we guarantee that our product will not split, chip or rot and can surely withstand environmental changes. Moreover, it also has safety features, that for instance, it will not spall and it is also slip resistant unlike wood, so even if you walk on bare feet, you will not fall over.
+
+
+Furthermore, this innovation in the decking industry has become more and more popular among homes, restaurants, hotels, and leisure center owners who have seen the beauty and dependability of this product. As such, they have opted to utilize it as a sustainable alternative for their decking projects."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is the difference between composite decking and wood?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Natural appearance and aesthetic appeal of wood combined with the durability and resilience of plastic make up the very excellent quality of our composite decking boards. Generally, wood requires continuous maintenance especially when exposed to different weather and environmental conditions but the good thing about this alternative, the composite decking, is that it is relatively stronger and it offers excellent traction, meaning, it will not crack over time. Thus, it is easy to maintain that it will not require frequent sealing and/or repainting."
+    }
+  },{
+    "@type": "Question",
+    "name": "How long will AGGTE Composites decking last?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Naturally sturdy and durable, this is what you can expect from our composite decking. Even under minimal maintenance, our product is guaranteed to last for many years. On top of this, we offer a Three-Year Limited Warranty on selected AGGTE Composite products for residential applications and One-Year Warranty for commercial applications subject to some terms of exclusions, limitations, and restrictions stipulated in the warranty declaration which our efficient sales team will carefully discuss to you upon purchase."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is AGGTE Composite Cladding/Decking suitable for use in commercial and residential settings?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes! AGTTE composite decking/cladding can be perfectly utilized for both residential and commercial set-ups. In fact, we are already in the business of supplying our excellent product to home and business owners. To fully understand if our product is suited for your current need, please contact our very dedicated sales team on this number: 09163770871. Surely, they will offer you assistance in choosing which product will be suited to your upcoming decking project."
+    }
+  },{
+    "@type": "Question",
+    "name": "How much does AGGTE decking cost?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Everything comes with a cost but we assure you that we will compensate what you paid for with the excellent quality of our product. The price of our composite decking actually costs higher when compared with traditional wooden decking but the advantage that it will offer in the long run is indeed very promising. Why? Simply because you will enjoy decreased maintenance cost because of its aesthetic and durability features. Consequently, such cost and time that you will be able to save can increase more time for leisure and enjoyment.
+
+
+To give you an idea of our prevailing product prices, kindly follow this link and download our prices."
+    }
+  }]
+}
+</script>
+
+<!-- End of Schema -->
 
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
@@ -50,7 +106,50 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <!--Load Facebook SDK for JavaScript End Here-->
 <div class="page-wrapper">
   <!--preloader start-->
-  <div class="preloader"></div>
+<div class="preloader">
+</div>
+<script
+        src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+        integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+        crossorigin="anonymous"></script>
+<script>
+    $(function() {
+        // Cookies
+        function setCookie(name, value, days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                var expires = "; expires=" + date.toGMTString();
+            }
+            else var expires = "";
+
+            document.cookie = name + "=" + value + expires + "; path=/";
+        }
+
+        function getCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+
+//        Validate cookie
+        var myCookie = getCookie("MyCookie");
+        if (myCookie == null) {
+//                alert('No cookei');
+            $('.preloader').css('display','block');
+            setCookie("MyCookie", "foo", 7);
+        }
+        else {
+//                alert('yes cookei');
+            $('.preloader').css('display','none');
+        }
+    });
+</script>
   <!--preloader end-->
     <!--main-header start-->
         <?php include 'header.php'; ?>
