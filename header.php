@@ -33,7 +33,7 @@
           <div class="col-md-5 col-sm-6 col-xs-6">
             <ul class="top-social-icons">
               <li><a href="https://www.facebook.com/wpc.claddingdecking" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-            <li><a href="https://twitter.com/share?url=https%3A%2F%2Faquaponicsgogreen.com&text=AquaponicsGoGreen" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+            <li><a href="https://twitter.com/AggteD" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
             <li><a href="https://www.instagram.com/aggtedeck"  target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             <li><a href="https://www.linkedin.com/company/aggtedeck" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
                 <li><a href="https://www.pinterest.ph/aggtedeck " target="_blank"><i class="fa fa-pinterest-square" aria-hidden="true" style="color: #8b0000;"></i></a></li>
