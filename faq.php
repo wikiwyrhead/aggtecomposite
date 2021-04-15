@@ -15,6 +15,16 @@
  <meta name="p:domain_verify" content="6f587306ee8b4c60fb96f108aac158ac"/>
 <!-- Pinterest Metatag End -->
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WH9CSW6WKX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WH9CSW6WKX');
+</script>
+
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)

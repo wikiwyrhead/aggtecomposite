@@ -11,6 +11,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="../favicon.ico">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WH9CSW6WKX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WH9CSW6WKX');
+</script>
+
 <!-- Style CSS -->
 <link href="../css/bootstrap.css" rel="stylesheet">
 <link href="../css/style.css" rel="stylesheet">
