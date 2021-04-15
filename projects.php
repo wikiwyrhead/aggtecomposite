@@ -51,6 +51,54 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <link href="css/modal-designs.css" rel="stylesheet">
 <link href="css/jquery.fancybox.css" rel="stylesheet">
 <link href="css/style_slider.css" rel="stylesheet">
+
+<!-- Local Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "AGGTEDeck Composite Cladding & Decking",
+  "image": "https://www.aggtedeck.com/images/logo3.jpg",
+  "@id": "https://www.aggtedeck.com/",
+  "url": "https://www.aggtedeck.com/",
+  "telephone": "Globe 0916 377 0871  /  Smart 0929 3185482",
+  "priceRange": "Php 5.00 - Php 920.00",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bagong Daan, Diversion Road, Barangay Cawit",
+    "addressLocality": "Taal, Batangas",
+    "postalCode": "4208",
+    "addressCountry": "PH"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 13.897579111806225,
+    "longitude": 120.92305571076798
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/aggtedeck",
+    "https://twitter.com/AggteD",
+    "http://instagram.com/aggtedeck",
+    "https://www.linkedin.com/company/aggtedeck",
+    "https://www.pinterest.ph/aggtedeck",
+    "https://www.aggtedeck.com"
+  ]
+}
+</script>
+
 </head>
 <body>
 
