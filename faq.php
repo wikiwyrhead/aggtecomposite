@@ -107,6 +107,11 @@ To give you an idea of our prevailing product prices, kindly follow this link an
 <link href="css/modal-designs.css" rel="stylesheet">
 <link href="css/jquery.fancybox.css" rel="stylesheet">
 <link href="css/style_slider.css" rel="stylesheet">
+
+<!-- Canonical -->
+
+<link rel=“canonical” href=“https://www.aggtedeck.com/faq” />
+
 </head>
 <body>
 

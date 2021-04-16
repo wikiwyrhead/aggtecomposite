@@ -52,6 +52,10 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <link href="css/jquery.fancybox.css" rel="stylesheet">
 <link href="css/style_slider.css" rel="stylesheet">
 
+<!-- Canonical -->
+
+<link rel=“canonical” href=“https://www.aggtedeck.com/projects” />
+
 <!-- Local Schema -->
 <script type="application/ld+json">
 {

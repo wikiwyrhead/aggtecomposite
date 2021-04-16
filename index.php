@@ -46,6 +46,10 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <link href="css/style_slider.css" rel="stylesheet">
 <link href="css/modal-designs.css" rel="stylesheet">
 
+<!-- Canonical -->
+
+<link rel=“canonical” href=“https://www.aggtedeck.com” />
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
