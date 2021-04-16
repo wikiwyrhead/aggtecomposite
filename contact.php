@@ -297,7 +297,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="xs-map-sec">
     <div class="xs-maps-wraper">
         <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1575.9386750864307!2d120.92150695679307!3d13.897340449350411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd0ba33602ff4f%3A0xd708256bbaefaed2!2sAquaponics%20Go%20Green%20Trading%20%26%20Enterprise!5e1!3m2!1sen!2sph!4v1605603847490!5m2!1sen!2sph" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1628.405669249255!2d120.9221304570701!3d13.897559991607046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd0b9fbd9bd213%3A0x8cdd89241f920e88!2sAGGTEDEck%20Composite%20Cladding%20%26%20Decking!5e0!3m2!1sen!2sph!4v1618574107701!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
     </div>
 </div>
