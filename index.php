@@ -343,7 +343,7 @@ Remember, when it comes to your <a target="_blank" href="https://aquaponicsgogre
           <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_a.jpg" alt="img-4">
             <div class="caption">
               <h3>WPC Cladding</h3>
-              <p>Alabang, Metro Manila</p>
+              <p>Batangas City</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/cladding/cladding_a.jpg" title="WPC Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
