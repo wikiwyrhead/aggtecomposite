@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <title>AGGTEDeck Composite Cladding | Composite Decking | Taal, Batangas, Philippines</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="description" content="Are you looking for affordable yet quality Composite Cladding / decking for either your home or business?">
+<meta name="description" content="Are you looking for affordable yet quality Composite Wall Cladding / decking for either your home or business?">
 <meta name="keywords" content="Build your dream deck with AGGTEDeck, One of Philippines trusted Quality composite decking and cladding supplier | AGGTE ,WPC, Composites, AGG, GoGreen, Cladding panel, Decking board, Gates, Wood Plastic Composite Materials">
 <meta name="author" content="AGGTEDeck Composite Cladding and Decking">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -46,8 +46,70 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <link href="css/style_slider.css" rel="stylesheet">
 <link href="css/modal-designs.css" rel="stylesheet">
 
+<!-- Canonical -->
+
+<link rel=“canonical” href=“https://www.aggtedeck.com” />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K4S5CH8');</script>
+<!-- End Google Tag Manager -->
+
+    <!-- Local Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "AGGTEDeck Composite Cladding & Decking",
+  "image": "https://www.aggtedeck.com/images/logo3.jpg",
+  "@id": "https://www.aggtedeck.com/",
+  "url": "https://www.aggtedeck.com/",
+  "telephone": "Globe 0916 377 0871  /  Smart 0929 3185482",
+  "priceRange": "Php 5.00 - Php 920.00",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bagong Daan, Diversion Road, Barangay Cawit",
+    "addressLocality": "Taal, Batangas",
+    "postalCode": "4208",
+    "addressCountry": "PH"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 13.897579111806225,
+    "longitude": 120.92305571076798
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/aggtedeck",
+    "https://twitter.com/AggteD",
+    "http://instagram.com/aggtedeck",
+    "https://www.linkedin.com/company/aggtedeck",
+    "https://www.pinterest.ph/aggtedeck",
+    "https://www.aggtedeck.com"
+  ]
+}
+</script>
 </head>
 <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4S5CH8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 <!-- Load Facebook SDK for JavaScript -->
 <?php include 'fbplug.php'; ?>

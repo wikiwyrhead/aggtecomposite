@@ -31,6 +31,14 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K4S5CH8');</script>
+<!-- End Google Tag Manager -->
+
 <!-- Fav Icon -->
 <link class="logoicon" rel="shortcut icon" href="favicon.ico">
 <!-- Style CSS -->
@@ -43,8 +51,66 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
 <link href="css/jquery.fancybox.css" rel="stylesheet">
 <link href="css/modal-designs.css" rel="stylesheet">
 <link href="css/style_slider.css" rel="stylesheet">
+
+<!-- Canonical -->
+
+<link rel=“canonical” href=“https://www.aggtedeck.com/contact” />
+
+<!-- Local Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "AGGTEDeck Composite Cladding & Decking",
+  "image": "https://www.aggtedeck.com/images/logo3.jpg",
+  "@id": "https://www.aggtedeck.com/",
+  "url": "https://www.aggtedeck.com/",
+  "telephone": "Globe 0916 377 0871  /  Smart 0929 3185482",
+  "priceRange": "Php 5.00 - Php 920.00",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bagong Daan, Diversion Road, Barangay Cawit",
+    "addressLocality": "Taal, Batangas",
+    "postalCode": "4208",
+    "addressCountry": "PH"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 13.897579111806225,
+    "longitude": 120.92305571076798
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/aggtedeck",
+    "https://twitter.com/AggteD",
+    "http://instagram.com/aggtedeck",
+    "https://www.linkedin.com/company/aggtedeck",
+    "https://www.pinterest.ph/aggtedeck",
+    "https://www.aggtedeck.com"
+  ]
+}
+</script>
+
 </head>
 <body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4S5CH8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
     <!-- Load Facebook SDK for JavaScript -->
 <?php include 'fbplug.php'; ?>
 <!--Load Facebook SDK for JavaScript End Here-->
@@ -231,7 +297,7 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
   <div class="xs-map-sec">
     <div class="xs-maps-wraper">
         <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1575.9386750864307!2d120.92150695679307!3d13.897340449350411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd0ba33602ff4f%3A0xd708256bbaefaed2!2sAquaponics%20Go%20Green%20Trading%20%26%20Enterprise!5e1!3m2!1sen!2sph!4v1605603847490!5m2!1sen!2sph" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1628.405669249255!2d120.9221304570701!3d13.897559991607046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd0b9fbd9bd213%3A0x8cdd89241f920e88!2sAGGTEDEck%20Composite%20Cladding%20%26%20Decking!5e0!3m2!1sen!2sph!4v1618574107701!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
     </div>
 </div>
