@@ -525,13 +525,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </li>
         <!--col end-->
           <!--col start-->
-        <li class="col-md-3 col-sm-6 col-xs-12 nf-item gates">
-          <div class="image-hover-effect-4"> <img src="images/gallery/gates/gate_h.jpg" alt="img-8">
+        <li class="col-md-3 col-sm-6 col-xs-12 nf-item cladding">
+          <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_i.jpg" alt="img-8">
             <div class="caption">
-              <h3>WPC Gates</h3>
-              <p>Parañaque, Metro Manila</p>
+              <h3>WPC Cladding</h3>
+              <p>Santa Rosa, Laguna</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gates/gate_h.jpg" title="Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_i.jpg" title="Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
