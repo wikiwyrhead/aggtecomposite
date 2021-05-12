@@ -408,8 +408,8 @@ TripettoChat.run({
                         <li>•	If we are unable to do so, we reserve the right to deliver them within 30 days beginning with the day after the day of the agreement between us.</li>
                         <li>•	If we are unable to deliver the goods to you within 30 days beginning with the day after the day of the agreement, we shall take the following measures:
                         <ul>
-                            <li>o	inform you by e-mail;</li>
-                            <li>o	make a further offer to you by e-mail to sell you the goods of the specification and description at the delivery time stated in the e-mail and will state the period for which the offer or the price remains valid.</li><br>
+                            <li>•	inform you by e-mail;</li>
+                            <li>•	make a further offer to you by e-mail to sell you the goods of the specification and description at the delivery time stated in the e-mail and will state the period for which the offer or the price remains valid.</li><br>
                         </ul>
                         </li>
                     </ul>
@@ -419,22 +419,22 @@ TripettoChat.run({
                         <li>•	You have a right to cancel the agreement at any time before the expiry of a period of 7 working days beginning with the day after the day on which you receive the goods, unless the item is a specific size, made to measure or a none regular stock item, if refused 50% of the order or the return haulage fee will be deducted from the refund.</li>
                         <li>•	You may cancel by giving us notice in any of the following ways:
                         <ul>
-                            <li>o	in writing which you leave at our registered company address;</li>
-                            <li>o	in writing which you send by post to our registered company address;</li>
-                            <li>o	By giving us a call.</li>
+                            <li>•	in writing which you leave at our registered company address;</li>
+                            <li>•	in writing which you send by post to our registered company address;</li>
+                            <li>•	By giving us a call.</li>
                         </ul>
                         </li>
                         <li>•	In the event that you will cancel the agreement, you must:
                         <ul>
-                            <li>o	return the goods to us at the address given above. We strongly recommend all goods should be returned via recorded delivery.</li>
-                            <li>o	return the goods completely. (please note the definition of goods given above).</li>
-                            <li>o	be responsible for the cost of returning the goods to us at the address given above.</li>
-                            <li>o	take reasonable care of the goods as your duty (including reusable packaging, manuals etc.) until they are returned to us.</li>
-                            <li>o	see to it that all the goods are received by us and are not damaged in transit.</li><br>
+                            <li>•	return the goods to us at the address given above. We strongly recommend all goods should be returned via recorded delivery.</li>
+                            <li>•	return the goods completely. (please note the definition of goods given above).</li>
+                            <li>•	be responsible for the cost of returning the goods to us at the address given above.</li>
+                            <li>•	take reasonable care of the goods as your duty (including reusable packaging, manuals etc.) until they are returned to us.</li>
+                            <li>•	see to it that all the goods are received by us and are not damaged in transit.</li><br>
                             Moreover, the company will:
-                            <li>o	reimburse any sum paid by you or on your behalf under or in relation to the agreement (not including the costs of carriage).</li>
-                            <li>o	o	charge you the direct costs to us of recovering any goods supplied by us if you fail to return the goods to us.</li>
-                            <li>o	reserve the right to charge 4% of the total order value to compensate against Credit Card / Merchant Service charges absorbed by us when an order is cancelled.  We may also charge 20% of the order when goods have left for delivery and have to be returned to us, you have 1 hour from delivery confirmation to cancel before charges are applied. This may be done strictly by telephone only.</li><br>
+                            <li>•	reimburse any sum paid by you or on your behalf under or in relation to the agreement (not including the costs of carriage).</li>
+                            <li>•	charge you the direct costs to us of recovering any goods supplied by us if you fail to return the goods to us.</li>
+                            <li>•	reserve the right to charge 4% of the total order value to compensate against Credit Card / Merchant Service charges absorbed by us when an order is cancelled.  We may also charge 20% of the order when goods have left for delivery and have to be returned to us, you have 1 hour from delivery confirmation to cancel before charges are applied. This may be done strictly by telephone only.</li><br>
                         </ul>
                         </li>
                     </ul>
@@ -448,9 +448,9 @@ TripettoChat.run({
                     <ul>
                         <li>•	You will be held liable for the goods upon its receipt. Even if the delivery has been made properly, the goods will not be entrusted to you until:
                             <ul>
-                                <li>o	you have paid the price plus value added tax (if applicable) in full; and</li>
-                                <li>o	no other sums whatever shall be due from you to us.</li>
-                                <li>o	in the event that payment is received by us in full prior to delivery then you will be entitled to receive the goods at the time of actual delivery.</li>
+                                <li>•	you have paid the price plus value added tax (if applicable) in full; and</li>
+                                <li>•	no other sums whatever shall be due from you to us.</li>
+                                <li>•	in the event that payment is received by us in full prior to delivery then you will be entitled to receive the goods at the time of actual delivery.</li>
                             </ul>
                         </li>
                         <li>•	When the ownership of the goods has been passed to you, we have our full trust and confidence to you as bailee for us</li>
@@ -512,16 +512,16 @@ TripettoChat.run({
                         <li>•	When the goods fail to meet your expectation, we highly encourage you to follow the procedure that we have previously stated with an explanation of the problem so that we will be able to handle your concern in the promptest and efficient manner.</li>
                         <li>•	In such cases where we agree that the problem has come out because of a defect in the goods at the point of collection, we shall:
                             <ul>
-                                <li>o	refund the cost of the goods to you if returned within 7 days of the date of delivery to you provided that the goods are unused and packaged as originally supplied.</li>
-                                <li>o	replace the goods or provide you with a credit for the cost of the goods.</li><br>
+                                <li>•	refund the cost of the goods to you if returned within 7 days of the date of delivery to you provided that the goods are unused and packaged as originally supplied.</li>
+                                <li>•	replace the goods or provide you with a credit for the cost of the goods.</li><br>
                             </ul>
                         </li>
                         <li>•	In any other case, we will try to offer assistance for us to resolve the problem you have stated, but this will also be subject to the following conditions:
                             <ul>
-                                <li>o	Depending upon the age and condition of the goods, we may be prepared to accept the return of the goods subject to a restocking charge (to a maximum of 25%) and refund or credit the balance of the cost of the goods.</li>
-                                <li>o	For every case where you will return to us the goods which were found to be defective at the point of collections, you shall allow us to inspect and test the goods first.</li>
-                                <li>o	To such extent that it will be established that there was no defect in the goods at the point of the collection to you, we reserve the right to charge you Php3,500. The said amount shall be your share for the cost of transportation to be incurred for inspecting and testing the goods.</li>
-                                <li>o	In case that the age or condition of the goods is the reason why we could not accept the return, we will redeliver the goods to you prior to dispatch. In such case, you agree to pay to us the reasonable cost of re-delivering the goods to you.</li><br>
+                                <li>•	Depending upon the age and condition of the goods, we may be prepared to accept the return of the goods subject to a restocking charge (to a maximum of 25%) and refund or credit the balance of the cost of the goods.</li>
+                                <li>•	For every case where you will return to us the goods which were found to be defective at the point of collections, you shall allow us to inspect and test the goods first.</li>
+                                <li>•	To such extent that it will be established that there was no defect in the goods at the point of the collection to you, we reserve the right to charge you Php3,500. The said amount shall be your share for the cost of transportation to be incurred for inspecting and testing the goods.</li>
+                                <li>•	In case that the age or condition of the goods is the reason why we could not accept the return, we will redeliver the goods to you prior to dispatch. In such case, you agree to pay to us the reasonable cost of re-delivering the goods to you.</li><br>
                             </ul>
                         </li>
                     </ul>
@@ -594,13 +594,13 @@ TripettoChat.run({
                     <ul>
                         <li>•	<strong>Direct interactions.</strong> In this method, you will provide us your personal data, Contract and Financial Data by filling-up forms or by sending it by post or email. It may also be sent by phone. This covers that personal data that you provide when you:
                             <ul>
-                                <li>o	sign into one of our site visitor books;</li>
-                                <li>o	apply for our products or services;</li>
-                                <li>o	create an account with us (on our website or otherwise);</li>
-                                <li>o	subscribe to our service or publications;</li>
-                                <li>o	request marketing to be sent to you;</li>
-                                <li>o	enter a competition, promotion or survey; or</li>
-                                <li>o	give us some feedback.</li>
+                                <li>•	sign into one of our site visitor books;</li>
+                                <li>•	apply for our products or services;</li>
+                                <li>•	create an account with us (on our website or otherwise);</li>
+                                <li>•	subscribe to our service or publications;</li>
+                                <li>•	request marketing to be sent to you;</li>
+                                <li>•	enter a competition, promotion or survey; or</li>
+                                <li>•	give us some feedback.</li>
                             </ul>
                         </li>
                         <li>•	<strong>Automated technologies or interactions.</strong> As you interact with our website, we can collect Technical Data about your equipment, browsing actions and patterns automatically. We can also obtain this personal data by using cookies, server logs and other similar technologies.</li>
