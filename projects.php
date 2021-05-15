@@ -531,7 +531,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Cladding</h3>
               <p>Santa Rosa, Laguna</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_i.jpg" title="Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_i.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -543,6 +543,50 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <p>Orani, Bataan</p>
             </div>
             <div class="link-wrap"> <a href="images/gallery/cladding/cladding_h.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+          </div>
+        </li>
+        <!--col end-->
+        <!--col start-->
+        <li class="col-md-3 col-sm-6 col-xs-12 nf-item decking">
+          <div class="image-hover-effect-4"> <img src="images/gallery/decking/newdecking2.jpg" alt="img-8">
+            <div class="caption">
+              <h3>WPC Decking</h3>
+              <p>Sto. Tomas, Batangas</p>
+            </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/newdecking2.jpg" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+          </div>
+        </li>
+        <!--col end-->
+        <!--col start-->
+        <li class="col-md-3 col-sm-6 col-xs-12 nf-item cladding">
+          <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_j.jpg" alt="img-8">
+            <div class="caption">
+              <h3>WPC Cladding</h3>
+              <p>San Fernando, Pampanga</p>
+            </div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_j.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+          </div>
+        </li>
+        <!--col end-->
+        <!--col start-->
+        <li class="col-md-3 col-sm-6 col-xs-12 nf-item cladding">
+          <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_k.jpg" alt="img-8">
+            <div class="caption">
+              <h3>WPC Cladding</h3>
+              <p>Camella, Silang Cavite </p>
+            </div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_k.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+          </div>
+        </li>
+        <!--col end-->
+        <!--col start-->
+        <li class="col-md-3 col-sm-6 col-xs-12 nf-item decking">
+          <div class="image-hover-effect-4"> <img src="images/gallery/decking/newdecking3.jpg" alt="img-8">
+            <div class="caption">
+              <h3>WPC Decking</h3>
+              <p>Balete, Batangas</p>
+            </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/newdecking3.jpg" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
