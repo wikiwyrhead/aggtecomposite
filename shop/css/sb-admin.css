@@ -40,7 +40,7 @@ body.fixed-nav.sidebar-toggled #content-wrapper {
     padding-left: 225px;
   }
   body.fixed-nav.sidebar-toggled #content-wrapper {
-    padding-left: 90px;
+    padding-left: 20px;
   }
 }
 
@@ -131,8 +131,8 @@ body.fixed-nav.sidebar-toggled #content-wrapper {
 }
 
 .sidebar {
-  width: 90px !important;
-  background-color: #006400 !important;
+  width: 10px !important;
+  background-color: #228b22 !important;
   min-height: calc(100vh - 56px);
 }
 
