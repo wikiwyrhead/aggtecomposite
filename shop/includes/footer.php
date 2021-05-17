@@ -36,5 +36,12 @@
 
   </body>
   <?php include '../footer.php'?>
+  <script>
+  document.getElementsByClassName("brand-section").onload = function() {myFunction()};
+  function myFunction() {
+  document.getElementsByClassName("brand-section").style.display = "none";
+  }
+  </script>
+  
 
 </html>
