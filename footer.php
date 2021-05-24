@@ -7,35 +7,35 @@
     <div class="brand-content">
       <ul class="brand-slider">
         <li>
-          <figure class="logo-grey-style"> <img src="\aggtedeck\images\company-logo\company5.PNG" alt="aquaponicsgogreen" class="img-responsive">
+          <figure class="logo-grey-style"> <img src="images\company-logo\company5.PNG" alt="aquaponicsgogreen" class="img-responsive">
             <figcaption>
               <h5>Aquaponic GoGreen</h5>
             </figcaption>
             <a href="https://aquaponicsgogreen.com/" target="_blank"></a> </figure>
         </li>
         <li>
-          <figure class="logo-grey-style"> <img src="\aggtedeck\images\company-logo\company1.PNG" alt="CSIBiowood" class="img-responsive">
+          <figure class="logo-grey-style"> <img src="images\company-logo\company1.PNG" alt="CSIBiowood" class="img-responsive">
             <figcaption>
               <h5>CSI Biowood</h5>
             </figcaption>
             <a href="http://biowood.ph/" target="_blank"></a> </figure>
         </li>
         <li>
-          <figure class="logo-grey-style"> <img src="\aggtedeck\images\company-logo\company2.PNG" alt="GRMBiowood" class="img-responsive">
+          <figure class="logo-grey-style"> <img src="images\company-logo\company2.PNG" alt="GRMBiowood" class="img-responsive">
             <figcaption>
               <h5>GRM Biowood</h5>
             </figcaption>
             <a href="http://www.grmbiowood.com.ph/" target="_blank"></a> </figure>
         </li>
         <li>
-          <figure class="logo-grey-style"> <img src="\aggtedeck\images\company-logo\company3.PNG" alt="solidwood" class="img-responsive">
+          <figure class="logo-grey-style"> <img src="images\company-logo\company3.PNG" alt="solidwood" class="img-responsive">
             <figcaption>
               <h5>Solidwood</h5>
             </figcaption>
             <a href="https://www.solidwood.ph/" target="_blank"></a> </figure>
         </li>
         <li>
-          <figure class="logo-grey-style"> <img src="\aggtedeck\images\company-logo\company4.png" alt="armada" class="img-responsive">
+          <figure class="logo-grey-style"> <img src=" images\company-logo\company4.png" alt="armada" class="img-responsive">
             <figcaption>
               <h5>Armada</h5>
             </figcaption>
