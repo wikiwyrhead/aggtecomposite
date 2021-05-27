@@ -60,7 +60,7 @@
         <div class="row">
           <div class="col-md-5 col-sm-12">
             <div class="logo-outer">
-              <div class="logo"> <a href="index.php"> <img class="logo-default" src="/images/logo-default2.png" alt="AGG WPC Cladding & Decking Logo" title="AGGTE WPC Cladding & Decking Logo"> </a> </div>
+              <div class="logo"> <a href="index.php"> <img class="logo-default" src="images/logo-default2.png" alt="AGG WPC Cladding & Decking Logo" title="AGGTE WPC Cladding & Decking Logo"> </a> </div>
             </div>
           </div>
           <div class="col-md-7 col-sm-12">
