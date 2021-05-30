@@ -1,6 +1,6 @@
 <html lang="en">
 <link rel='canonical' href='<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>'>
-<?php $root = '/public_html'; ?>
+<?php $root = '..'; ?>
 <link href="css/custom.css" rel="stylesheet">
 <header class="main-header">
     <!--header-top start-->

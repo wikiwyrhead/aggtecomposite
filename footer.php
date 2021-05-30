@@ -1,5 +1,5 @@
 <html lang="en">
-<?php $root = '/public_html'; ?>
+<?php $root = '..'; ?>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--brand-section start-->
 <div class="brand-section">
