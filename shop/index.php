@@ -89,6 +89,20 @@ if(isset($_SESSION["uid"])){
 	</div>
 	<?php include '../footer.php'; ?>
 </body>
+<script src="../js/jquery-2.1.4.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/jquery.magnific-popup.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="../js/isotope.pkgd.min.js"></script>
+<script src="../js/jquery.fancybox8cbb.js?v=2.1.5"></script>
+<script src="../js/owl.carousel.js"></script>
+<script src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+<script src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<script src="../js/counter.js"></script>
+<script src="../js/smoothscroll.js"></script>
+<script src="../js/script.js"></script>
+<script src="../js/custom1.js"></script>
+<script src="../js/messageCounter.js"></script>
 </html>
 
 

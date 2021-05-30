@@ -1,5 +1,6 @@
 <html lang="en">
 <link rel='canonical' href='<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>'>
+<?php $root = '/aggtecomposite'; ?>
 <link href="css/custom.css" rel="stylesheet">
 <header class="main-header">
     <!--header-top start-->
@@ -60,7 +61,7 @@
         <div class="row">
           <div class="col-md-5 col-sm-12">
             <div class="logo-outer">
-              <div class="logo"> <a href="index.php"> <img class="logo-default" src="images/logo-default2.png" alt="AGG WPC Cladding & Decking Logo" title="AGGTE WPC Cladding & Decking Logo"> </a> </div>
+              <div class="logo"> <a href="index.php"> <img class="logo-default" src="<?php echo $root; ?>/images/logo-default2.png" alt="AGG WPC Cladding & Decking Logo" title="AGGTE WPC Cladding & Decking Logo"> </a> </div>
             </div>
           </div>
           <div class="col-md-7 col-sm-12">
@@ -72,7 +73,7 @@
                 </div>
                 <div class="navbar-collapse collapse clearfix">
                   <ul class="navigation clearfix">
-                    <li class="current"><a class="hvr-link" href="index.php">Home</a>
+                    <li class="current"><a class="hvr-link" href="<?php echo $root; ?>/index.php">Home</a>
                         <!--Drop Down-->
                     <!--<ul>
                       <li><a class="hvr-link" href="index.php">Homepage Slider</a></li>
@@ -81,9 +82,9 @@
                   </li>
                     <li class="dropdown"><a class="hvr-link" href="#">About</a>
                       <ul>
-                        <li><a class="hvr-link" href="about.php">About</a></li>
-                        <li><a class="hvr-link" href="our-team.php">Team</a></li>
-                        <li><a class="hvr-link" href="faq.php">FAQ's</a></li>
+                        <li><a class="hvr-link" href="<?php echo $root; ?>/about.php">About</a></li>
+                        <li><a class="hvr-link" href="<?php echo $root; ?>/our-team.php">Team</a></li>
+                        <li><a class="hvr-link" href="<?php echo $root; ?>/faq.php">FAQ's</a></li>
                         <!--<li><a class="hvr-link" href="404.php">404 Page</a></li>-->
                         <!--<li><a class="hvr-link" href="testimonial.php">Testimonials</a></li>-->
                         <!--<li><a class="hvr-link" href="typoghrapy.php">Typoghrapy</a></li>-->
@@ -92,14 +93,14 @@
                     </li>
                     <li class="dropdown"><a class="hvr-link" href="services.php">Services</a>
                       <ul>
-                        <li><a class="hvr-link" href="services.php">Services</a></li>
+                        <li><a class="hvr-link" href="<?php echo $root; ?>/services.php">Services</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".quote-modal" class="brochure-btn theme-btn hvr-link">Get a Quote</a></li>
                           <li><a class="hvr-link" href="cleaning.php">Cleaning Guides</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
 
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="projects.php">Projects</a>
+                    <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
                         <li><a class="hvr-link" href="projects.php">Project Three Column</a></li>
@@ -122,7 +123,7 @@
                         <li> <a class="hvr-link" href="blog-details-slidebar.php"> Blog Details </a></li>
                       </ul>-->
                     <!--</li>-->
-                    <li><a class="hvr-link" href="contact.php">Contact</a></li>
+                    <li><a class="hvr-link" href="<?php echo $root; ?>/contact.php">Contact</a></li>
                   </ul>
                 </div>
                 <div class="clearfix"></div>
@@ -144,7 +145,7 @@
         <div class="row">
           <!--col start-->
           <div class="col-md-5 col-sm-5">
-            <div class="logo"> <a href="index.php" class="img-responsive"><img class="logo-default" src="images/logo-default.png" alt="AGG WPC Cladding & Decking Logo" title="AGGTE WPC Cladding & Decking Logo"></a> </div>
+            <div class="logo"> <a href="index.php" class="img-responsive"><img class="logo-default" src="<?php echo $root; ?>/images/logo-default.png" alt="AGG WPC Cladding & Decking Logo" title="AGGTE WPC Cladding & Decking Logo"></a> </div>
           </div>
           <!--col end-->
           <!--col start-->
@@ -156,7 +157,7 @@
               </div>
               <div class="navbar-collapse collapse clearfix">
                 <ul class="navigation clearfix">
-                  <li class="current"><a class="hvr-link" href="index.php">Home</a>
+                  <li class="current"><a class="hvr-link" href="<?php echo $root; ?>/index.php">Home</a>
                     <!--<ul>
                       <li><a class="hvr-link" href="index.php">Homepage Slider</a></li>
                       <li><a class="hvr-link" href="index.php">Homepage Static</a></li>
@@ -164,9 +165,9 @@
                   </li>
                   <li class="dropdown"><a class="hvr-link" href="#">About</a>
                       <ul>
-                        <li><a class="hvr-link" href="about.php">About</a></li>
-                        <li><a class="hvr-link" href="our-team.php">Team</a></li>
-                        <li><a class="hvr-link" href="faq.php">FAQ's</a></li>
+                        <li><a class="hvr-link" href="<?php echo $root; ?>/about.php">About</a></li>
+                        <li><a class="hvr-link" href="<?php echo $root; ?>/our-team.php">Team</a></li>
+                        <li><a class="hvr-link" href="<?php echo $root; ?>/faq.php">FAQ's</a></li>
                         <!--<li><a class="hvr-link" href="404.php">404 Page</a></li>-->
                         <!--<li><a class="hvr-link" href="testimonial.php">Testimonials</a></li>-->
                         <!--<li><a class="hvr-link" href="typoghrapy.php">Typoghrapy</a></li>-->
@@ -175,13 +176,13 @@
                     </li>
                     <li class="dropdown"><a class="hvr-link" href="services.php">Services</a>
                       <ul>
-                        <li><a class="hvr-link" href="services.php">Services</a></li>
+                        <li><a class="hvr-link" href="<?php echo $root; ?>/services.php">Services</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".quote-modal" class="brochure-btn theme-btn hvr-link">Get a Quote</a></li>
                           <li><a class="hvr-link" href="cleaning.php">Cleaning Guides</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="projects.php">Projects</a>
+                    <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
                         <li><a class="hvr-link" href="projects.php">Project Three Column</a></li>
@@ -204,7 +205,7 @@
                         <li> <a class="hvr-link" href="blog-details-slidebar.php"> Blog Details </a></li>
                       </ul>-->
                     <!--</li>-->
-                  <li><a class="hvr-link" href="contact.php">Contact</a></li>
+                  <li><a class="hvr-link" href="<?php echo $root; ?>/contact.php">Contact</a></li>
                 </ul>
               </div>
             </nav>

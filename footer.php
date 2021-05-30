@@ -1,4 +1,5 @@
 <html lang="en">
+<?php $root = '/aggtecomposite'; ?>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--brand-section start-->
 <div class="brand-section">
@@ -7,35 +8,35 @@
     <div class="brand-content">
       <ul class="brand-slider">
         <li>
-          <figure class="logo-grey-style"> <img src="images\company-logo\company5.PNG" alt="aquaponicsgogreen" class="img-responsive">
+          <figure class="logo-grey-style"> <img src="<?php echo $root; ?>/images/company-logo/company5.PNG" alt="aquaponicsgogreen" class="img-responsive">
             <figcaption>
               <h5>Aquaponic GoGreen</h5>
             </figcaption>
             <a href="https://aquaponicsgogreen.com/" target="_blank"></a> </figure>
         </li>
         <li>
-          <figure class="logo-grey-style"> <img src="images\company-logo\company1.PNG" alt="CSIBiowood" class="img-responsive">
+          <figure class="logo-grey-style"> <img src="<?php echo $root; ?>/images/company-logo/company1.PNG" alt="CSIBiowood" class="img-responsive">
             <figcaption>
               <h5>CSI Biowood</h5>
             </figcaption>
             <a href="http://biowood.ph/" target="_blank"></a> </figure>
         </li>
         <li>
-          <figure class="logo-grey-style"> <img src="images\company-logo\company2.PNG" alt="GRMBiowood" class="img-responsive">
+          <figure class="logo-grey-style"> <img src="<?php echo $root; ?>/images/company-logo/company2.PNG" alt="GRMBiowood" class="img-responsive">
             <figcaption>
               <h5>GRM Biowood</h5>
             </figcaption>
             <a href="http://www.grmbiowood.com.ph/" target="_blank"></a> </figure>
         </li>
         <li>
-          <figure class="logo-grey-style"> <img src="images\company-logo\company3.PNG" alt="solidwood" class="img-responsive">
+          <figure class="logo-grey-style"> <img src="<?php echo $root; ?>/images/company-logo/company3.PNG" alt="solidwood" class="img-responsive">
             <figcaption>
               <h5>Solidwood</h5>
             </figcaption>
             <a href="https://www.solidwood.ph/" target="_blank"></a> </figure>
         </li>
         <li>
-          <figure class="logo-grey-style"> <img src=" images\company-logo\company4.png" alt="armada" class="img-responsive">
+          <figure class="logo-grey-style"> <img src="<?php echo $root; ?>/images/company-logo/company4.png" alt="armada" class="img-responsive">
             <figcaption>
               <h5>Armada</h5>
             </figcaption>
@@ -56,7 +57,7 @@
       <!--col start-->
       <div class="col-md-4 col-sm-12">
         <div class="footer-info">
-          <div class="footer-logo"> <a href="index.php"><img class="footer-logo-default" src="images/footer-logo-default.png" alt="AGGTE Default Logo"> </a> </div>
+          <div class="footer-logo"> <a href="index.php"><img class="footer-logo-default" src="<?php echo $root; ?>/images/footer-logo-default.png" alt="AGGTE Default Logo"> </a> </div>
           <p>Never miss out our latest updates online! Follow us on social media to be on top of the news:</p>
           <ul class="footer-social">
             <li><a href="https://www.facebook.com/wpc.claddingdecking" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
@@ -67,10 +68,10 @@
           </ul>
             <br>
             <div class="footer-logo">
-                    <a href="https://en.wikipedia.org/wiki/CE_marking" target="_blank"><img class="footer-logo-default" src="images/other-logos/CE.png" alt="CE Logo">&nbsp;&nbsp;</a>
-                    <a href="https://www.fsc-uk.org/en-uk/about-fsc/what-is-fsc/frequently-asked-questions#:~:text=FSC%20stands%20for%20'Forest%20Stewardship%20Council'.&text=FSC%20certifies%20forests%20all%20over,our%20'tick%20tree'%20logo." target="_blank"><img class="footer-logo-default" src="images/other-logos/FSCyc0Nbl.png" alt="FSC Logo"></a>
-                    <a href="https://www.recyclenow.com/recycling-knowledge/packaging-symbols-explained" target="_blank"><img class="footer-logo-default" src="images/other-logos/Greenpeace_symbols_recycle_sign_05s_300x300.png" alt="Recycle Sign">&nbsp;</a>
-                    <a href="https://www.rohsguide.com/rohs-faq.htm#:~:text=RoHS%20stands%20for%20Restriction%20of,products%20(known%20as%20EEE)." target="_blank"><img class="footer-logo-default" src="images/other-logos/RoHs.png" alt="RoHS Logo"></a>
+                    <a href="https://en.wikipedia.org/wiki/CE_marking" target="_blank"><img class="footer-logo-default" src="<?php echo $root; ?>/images/other-logos/CE.png" alt="CE Logo">&nbsp;&nbsp;</a>
+                    <a href="https://www.fsc-uk.org/en-uk/about-fsc/what-is-fsc/frequently-asked-questions#:~:text=FSC%20stands%20for%20'Forest%20Stewardship%20Council'.&text=FSC%20certifies%20forests%20all%20over,our%20'tick%20tree'%20logo." target="_blank"><img class="footer-logo-default" src="<?php echo $root; ?>/images/other-logos/FSCyc0Nbl.png" alt="FSC Logo"></a>
+                    <a href="https://www.recyclenow.com/recycling-knowledge/packaging-symbols-explained" target="_blank"><img class="footer-logo-default" src="<?php echo $root; ?>/images/other-logos/Greenpeace_symbols_recycle_sign_05s_300x300.png" alt="Recycle Sign">&nbsp;</a>
+                    <a href="https://www.rohsguide.com/rohs-faq.htm#:~:text=RoHS%20stands%20for%20Restriction%20of,products%20(known%20as%20EEE)." target="_blank"><img class="footer-logo-default" src="<?php echo $root; ?>/images/other-logos/RoHs.png" alt="RoHS Logo"></a>
             </div>
         </div>
       </div>
@@ -84,13 +85,13 @@
             <div class="footer-info">
               <h3 class="footer-title">Usefull Links</h3>
               <ul class="service-link">
-                <li> <a href="index.php">Home</a> </li>
-                <li> <a href="about.php">About Us</a> </li>
-                <li> <a href="services.php">Services</a> </li>
-                  <li> <a href="services.php#sec-title">Downloads</a> </li>
-                <li> <a href="projects.php">Gallery</a> </li>
-                <li> <a href="faq.php">Faq</a> </li>
-                <li> <a href="cleaning.php">Cleaning Guide</a> </li>
+                <li> <a href="<?php echo $root; ?>/index.php">Home</a> </li>
+                <li> <a href="<?php echo $root; ?>/about.php">About Us</a> </li>
+                <li> <a href="<?php echo $root; ?>/services.php">Services</a> </li>
+                  <li> <a href="<?php echo $root; ?>/services.php#sec-title">Downloads</a> </li>
+                <li> <a href="<?php echo $root; ?>/projects.php">Gallery</a> </li>
+                <li> <a href="<?php echo $root; ?>/faq.php">Faq</a> </li>
+                <li> <a href="<?php echo $root; ?>/cleaning.php">Cleaning Guide</a> </li>
               </ul>
             </div>
           </div>
@@ -100,10 +101,10 @@
             <div class="footer-info">
               <h3 class="footer-title">Our Services</h3>
               <ul class="service-link">
-                <li> <a href="services.php#section-handler1" >WPC Cladding</a> </li>
-                <li> <a href="services.php#section-handler2">WPC Decking</a> </li>
-                <li> <a href="services.php#section-handler3">WPC Gates</a> </li>
-                <li> <a href="services.php#section-handler4">WPC Cladding & Decking Repairs</a> </li>
+                <li> <a href="<?php echo $root; ?>/services.php#section-handler1" >WPC Cladding</a> </li>
+                <li> <a href="<?php echo $root; ?>/services.php#section-handler2">WPC Decking</a> </li>
+                <li> <a href="<?php echo $root; ?>/services.php#section-handler3">WPC Gates</a> </li>
+                <li> <a href="<?php echo $root; ?>/services.php#section-handler4">WPC Cladding & Decking Repairs</a> </li>
               </ul>
             </div>
           </div>
@@ -641,5 +642,5 @@ TripettoChat.run({
       </div>
 <!--privacy-modal end-->
 <!-- Cookie Consent -->
-<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","corners":"small","colors":{"popup":{"background":"#2e6a11","text":"#ffffff","border":"#b5e1a0"},"button":{"background":"#b5e1a0","text":"#000000"}},"padding":"small","transparency":"15","content":{"href":"https://www.aggtedeck.com/privacy-policy","message":"We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click \n","link":"this link.","button":"Agree"}})});</script>
+<link rel="stylesheet" type="text/css" href="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.css"/><script src="https://cdn.wpcc.io/lib/1.0.2/cookieconsent.min.js" defer></script><script>window.addEventListener("load", function(){window.wpcc.init({"border":"thin","corners":"small","colors":{"popup":{"background":"#2e6a11","text":"#ffffff","border":"#b5e1a0"},"button":{"background":"#b5e1a0","text":"#000000"}},"padding":"small","transparency":"15","content":{"href":"https://www.aggtedeck.com/privacy-policy","message":"We use cookies to ensure you get the best experience on our website. By continuing, you are agreeing to our use of cookies. To find out more, please click /n","link":"this link.","button":"Agree"}})});</script>
 </html>
