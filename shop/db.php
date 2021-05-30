@@ -5,7 +5,7 @@ require "config/constants.php";
 $servername = "localhost";
 $username = "janzen";
 $password = "09173797840JanzenGo";
-$db = "aggtedeck_products";
+$db = "flwbmkwa_aggtedeck_products";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
