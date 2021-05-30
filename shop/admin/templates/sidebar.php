@@ -31,12 +31,6 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link <?php echo ($page == 'brands.php') ? 'active' : ''; ?>" href="brands.php">
-              <span data-feather="shopping-cart"></span>
-              Brands
-            </a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link <?php echo ($page == 'categories.php') ? 'active' : ''; ?>" href="categories.php">
               <span data-feather="shopping-cart"></span>
               Categories

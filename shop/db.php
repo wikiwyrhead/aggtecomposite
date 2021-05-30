@@ -3,8 +3,8 @@
 require "config/constants.php";
 
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "janzen";
+$password = "09173797840JanzenGo";
 $db = "aggtedeck_products";
 
 // Create connection
