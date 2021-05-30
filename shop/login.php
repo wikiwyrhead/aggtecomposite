@@ -1,82 +1,57 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php
+include "db.php";
 
-  <head>
+session_start();
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+#Login script is begin here
+#If user given credential matches successfully with the data available in database then we will echo string login_success
+#login_success string will go back to called Anonymous funtion $("#login").click() 
+if(isset($_POST["email"]) && isset($_POST["password"])){
+	$email = mysqli_real_escape_string($con,$_POST["email"]);
+	$password = md5($_POST["password"]);
+	$sql = "SELECT * FROM user_info WHERE email = '$email' AND password = '$password'";
+	$run_query = mysqli_query($con,$sql);
+	$count = mysqli_num_rows($run_query);
+	//if user record is available in database then $count will be equal to 1
+	if($count == 1){
+		$row = mysqli_fetch_array($run_query);
+		$_SESSION["uid"] = $row["user_id"];
+		$_SESSION["name"] = $row["first_name"];
+		$ip_add = getenv("REMOTE_ADDR");
+		//we have created a cookie in login_form.php page so if that cookie is available means user is not login
+			if (isset($_COOKIE["product_list"])) {
+				$p_list = stripcslashes($_COOKIE["product_list"]);
+				//here we are decoding stored json product list cookie to normal array
+				$product_list = json_decode($p_list,true);
+				for ($i=0; $i < count($product_list); $i++) { 
+					//After getting user id from database here we are checking user cart item if there is already product is listed or not
+					$verify_cart = "SELECT id FROM cart WHERE user_id = $_SESSION[uid] AND p_id = ".$product_list[$i];
+					$result  = mysqli_query($con,$verify_cart);
+					if(mysqli_num_rows($result) < 1){
+						//if user is adding first time product into cart we will update user_id into database table with valid id
+						$update_cart = "UPDATE cart SET user_id = '$_SESSION[uid]' WHERE ip_add = '$ip_add' AND user_id = -1";
+						mysqli_query($con,$update_cart);
+					}else{
+						//if already that product is available into database table we will delete that record
+						$delete_existing_product = "DELETE FROM cart WHERE user_id = -1 AND ip_add = '$ip_add' AND p_id = ".$product_list[$i];
+						mysqli_query($con,$delete_existing_product);
+					}
+				}
+				//here we are destroying user cookie
+				setcookie("product_list","",strtotime("-1 day"),"/");
+				//if user is logging from after cart page we will send cart_login
+				echo "cart_login";
+				exit();
+				
+			}
+			//if user is login from page we will send login_success
+			echo "login_success";
+			exit();
+		}else{
+			echo "<span style='color:red;'>Please register before login..!</span>";
+			exit();
+		}
+	
+}
 
-    <title>Login</title>
-
-    <!-- Bootstrap core CSS-->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom fonts for this template-->
-    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-
-    <!-- Custom styles for this template-->
-    <link href="css/sb-admin.css" rel="stylesheet">
-
-    <link rel="stylesheet" type="text/css" href="css/sb-new.css">
-  </head>
-
-  <body class="bg-dark">
-
-    <div class="container">
-      <div class="card card-login mx-auto mt-5">
-        <div class="card-header"><h3> Login</h3></div>
-        <div class="card-body">
-         <?php session_start();
-          if (isset($_GET['error'])) {
-            if ($_GET["error"]=="wrongpwd") {
-              echo '<p class="signuperror">Wrong password</p>';
-            }
-
-            }
-
-
-           ?>
-          <form action="includes/signin.php" method="post">
-            <div class="form-group">
-              <div class="form-label-group">
-                <input type="text" id="inputEmail" name="mailuid" class="form-control" placeholder="Email/Username" required autofocus="autofocus">
-                <label for="inputEmail">Email/Username</label>
-              </div>
-            </div>
-            <div class="form-group">
-              <div class="form-label-group">
-                <input type="password" id="inputPassword" name="pwd" class="form-control" placeholder="Password" >
-                <label for="inputPassword">Password</label>
-              </div>
-            </div>
-            <div class="form-group">
-              <div class="checkbox">
-                <label>
-                  <input type="checkbox" value="remember-me">
-                  Remember Password
-                </label>
-              </div>
-            </div>
-            <button class="btn btn-primary btn-block" name="login-submit">Login</button>
-          </form>
-          <div class="text-center">
-            <a class="d-block small mt-3" href="register.php">Signup</a>
-            <a class="d-block small mt-3" href="index.php">Home</a>
-          </div>
-        </div>
-      </div>
-    </div>
-
- <!-- Bootstrap core JavaScript-->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <!-- Core plugin JavaScript-->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-  </body>
-
-</html>
+?>

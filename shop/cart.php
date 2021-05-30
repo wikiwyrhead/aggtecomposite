@@ -1,90 +1,112 @@
- <?php include('includes/connection.php');?>
+<?php
 
-<!--header area-->
-<?php include 'includes/header.php'; ?>
+require "config/constants.php";
 
-<!--sidebar area-->
-<?php include 'includes/sidebar.php'; ?>
-
- <?php
- if (isset($_GET["action"])) {
-  if ($_GET["action"]=='delete') {
-    foreach ($_SESSION["cart"] as $keys => $values) {
-      if ($values['ids']==$_GET["id"]) {
-        unset($_SESSION["cart"][$keys]);
-        echo '<script>alert("Product is Remove")</script>';
-        echo '<script>window.location="cart.php"</script>';
-      }
-    }
-  }
-}
-if (isset($_POST['action']) && $_POST['action']=="change"){
-  foreach($_SESSION["cart"] as &$value){
-    if($value['ids'] === $_POST["code"]){
-        $value['quantity'] = $_POST["quantity"];
-        break; // Stop the loop after found the product
-    }
-}
-
-
-}
 ?>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>AGGTEDeck Products</title>
+		<link rel="stylesheet" href="css/bootstrap.min.css"/>
+		<script src="js/jquery2.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="main.js"></script>
+		<link rel="stylesheet" type="text/css" href="style.css"/>
+	</head>
+<body>
+<div class="wait overlay">
+	<div class="loader"></div>
+</div>
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container-fluid">	
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false">
+					<span class="sr-only">navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a href="#" class="navbar-brand">AGGTEDeck Products</a>
+			</div>
+		<div class="collapse navbar-collapse" id="collapse">
+			<ul class="nav navbar-nav">
+				<li><a href="index.php"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+				<li><a href="index.php"><span class="glyphicon glyphicon-modal-window"></span>Product</a></li>
+			</ul>
+		</div>
+	</div>
+	</div>
+	<p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-2"></div>
+			<div class="col-md-8" id="cart_msg">
+				<!--Cart Message--> 
+			</div>
+			<div class="col-md-2"></div>
+		</div>
+		<div class="row">
+			<div class="col-md-2"></div>
+			<div class="col-md-8">
+				<div class="panel panel-primary">
+					<div class="panel-heading">Cart Checkout</div>
+					<div class="panel-body">
+						<div class="row">
+							<div class="col-md-2 col-xs-2"><b>Action</b></div>
+							<div class="col-md-2 col-xs-2"><b>Product Image</b></div>
+							<div class="col-md-2 col-xs-2"><b>Product Name</b></div>
+							<div class="col-md-2 col-xs-2"><b>Quantity</b></div>
+							<div class="col-md-2 col-xs-2"><b>Product Price</b></div>
+							<div class="col-md-2 col-xs-2"><b>Price in <?php echo CURRENCY; ?></b></div>
+						</div>
+						<div id="cart_checkout"></div>
+						<!--<div class="row">
+							<div class="col-md-2">
+								<div class="btn-group">
+									<a href="#" class="btn btn-danger"><span class="glyphicon glyphicon-trash"></span></a>
+									<a href="" class="btn btn-primary"><span class="glyphicon glyphicon-ok-sign"></span></a>
+								</div>
+							</div>
+							<div class="col-md-2"><img src='product_images/imges.jpg'></div>
+							<div class="col-md-2">Product Name</div>
+							<div class="col-md-2"><input type='text' class='form-control' value='1' ></div>
+							<div class="col-md-2"><input type='text' class='form-control' value='5000' disabled></div>
+							<div class="col-md-2"><input type='text' class='form-control' value='5000' disabled></div>
+						</div> -->
+						<!--<div class="row">
+							<div class="col-md-8"></div>
+							<div class="col-md-4">
+								<b>Total $500000</b>
+							</div> -->
+						</div> 
+					</div>
+					<div class="panel-footer"></div>
+				</div>
+			</div>
+			<div class="col-md-2"></div>
+			
+		</div>
 
- <div class="card mb-3">
-            <div class="card-header">
-              <center><h2 class="fas fa-shopping-cart">Cart(s)</h2></center>
-            <div class="card-body">
-              <div class="table-responsive">
-                            <table class="table " width="100%" cellspacing="0">
-                                <thead>
-                                    <tr>
-                                      <th>Image</th>
-                                        <th>Product</th>
-                                        <th width="300">Quantity</th>
-                                        <th width="300">Price</th>
-                                        <th>Total</th>
-                                        <th>Option</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                <?php
-                                if (!empty($_SESSION["cart"])) {
-                                  $_SESSION['mm']=0;
-                                  foreach($_SESSION["cart"] as $keys => $values){
-                                    ?>
-                                    <tr>
-                                      <td><img src="images/images.png" style="width: 100px"></td>
-                                      <td><?php echo $values["name"]; ?></td>
-                                      <td><?php echo $values["quantity"]; ?></td>
-                                      <td>&#8369 <?php echo $values["price"]; ?></td>
-                                      <td>&#8369 <?php echo $values["quantity"] * $values["price"]; ?></td>
-                                      <td><a class="btn btn-danger" type="button" onclick="return confirm('Are you sure?')" href="cart.php?action=delete&id=<?php echo $values["ids"]; ?>">Remove</a></td>
-                                    </tr>
-                                    <?php
-                                    $name= $values["name"];
+<script>var CURRENCY = '<?php echo CURRENCY; ?>';</script>
+</body>	
+</html>
 
 
-                                    $_SESSION['mm'] = $_SESSION['mm'] + ($values["quantity"] * $values["price"]);
-
-                                  }
-                                  ?>
-
-                             </tbody>
-                             <tr>
-                               <td colspan="4" align="right">Total Price</td>
-                                  <td align="left">&#8369 <?php echo $_SESSION['mm']; ?></td>
-                                  <td><a type="button" class="btn btn-success" href="addprod.php" >Proceed and Checkout</a></td>
-                             </tr>
-                               <?php
-                                }
-                                 ?>
-                              </table>
-                        </div>
-
-            </div>
-
-          </div>
 
 
-        </div>
-        <?php include 'includes/footer.php'; ?>
+
+
+
+
+
+
+
+
+
+
+
+
+		
