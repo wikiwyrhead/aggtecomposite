@@ -9,7 +9,7 @@ if(isset($_SESSION["uid"])){
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>AGGTEDECK </title>
+		<title>AGGTEDeck Products </title>
 		<link rel="stylesheet" href="css/bootstrap.min.css"/>
 		<link class="logoicon" rel="shortcut icon" href="favicon.ico">
 		<script src="js/jquery2.js"></script>
@@ -81,12 +81,13 @@ if(isset($_SESSION["uid"])){
 							</div>
 						</div> -->
 					</div>
-					<div class="panel-footer">&copy; 2021	</div>
 				</div>
+				
 			</div>
 			<div class="col-md-1"></div>
 		</div>
 	</div>
+	<?php include '../footer.php'; ?>
 </body>
 </html>
 
