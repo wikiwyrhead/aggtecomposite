@@ -3,7 +3,7 @@
 require "config/constants.php";
 
 $servername = "localhost";
-$username = "janzen";
+$username = "flwbmkwa_janzen";
 $password = "09173797840JanzenGo";
 $db = "flwbmkwa_aggtedeck_products";
 
