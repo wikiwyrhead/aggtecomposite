@@ -18,82 +18,20 @@ if(isset($_SESSION["uid"])){
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<style></style>
 	</head>
+	<!-- Style CSS -->
+<link href="../css/bootstrap.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
+<link href="../css/custom.css" rel="stylesheet">
+<link rel="stylesheet" href="dist/color-default.css">
+<link href="../css/magnific-popup.css" rel="stylesheet">
+<link href="../css/animate.css" rel="stylesheet">
+<link href="../css/owl.css" rel="stylesheet">
+<link href="../css/jquery.fancybox.css" rel="stylesheet">
+<link href="../css/style_slider.css" rel="stylesheet">
+<link href="../css/modal-designs.css" rel="stylesheet">
+
 <body>
-<div class="wait overlay">
-	<div class="loader"></div>
-</div>
-	<div class="navbar navbar-inverse navbar-fixed-top">
-		<div class="container-fluid">	
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false">
-					<span class="sr-only">navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				<a href="#" class="navbar-brand">AGGTEDeck Products</a>
-			</div>
-		<div class="collapse navbar-collapse" id="collapse">
-			<ul class="nav navbar-nav">
-				<li><a href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
-				<li><a href="index.php"><span class="glyphicon glyphicon-modal-window"></span> Product</a></li>
-			</ul>
-			<form class="navbar-form navbar-left">
-		        <div class="form-group">
-		          <input type="text" class="form-control" placeholder="Search" id="search">
-		        </div>
-		        <button type="submit" class="btn btn-primary" id="search_btn"><span class="glyphicon glyphicon-search"></span></button>
-		     </form>
-			<ul class="nav navbar-nav navbar-right">
-				<li><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-shopping-cart"></span>Cart<span class="badge">0</span></a>
-					<div class="dropdown-menu" style="width:400px;">
-						<div class="panel panel-success">
-							<div class="panel-heading">
-								<div class="row">
-									<div class="col-md-3">Sl.No</div>
-									<div class="col-md-3">Product Image</div>
-									<div class="col-md-3">Product Name</div>
-									<div class="col-md-3">Price in <?php echo CURRENCY; ?></div>
-								</div>
-							</div>
-							<div class="panel-body">
-								<div id="cart_product">
-								<!--<div class="row">
-									<div class="col-md-3">Sl.No</div>
-									<div class="col-md-3">Product Image</div>
-									<div class="col-md-3">Product Name</div>
-									<div class="col-md-3">Price in $.</div>
-								</div>-->
-								</div>
-							</div>
-							<div class="panel-footer"></div>
-						</div>
-					</div>
-				</li>
-				<li><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span>Sign In</a>
-					<ul class="dropdown-menu">
-						<div style="width:300px;">
-							<div class="panel panel-primary">
-								<div class="panel-heading">Login</div>
-								<div class="panel-heading">
-									<form onsubmit="return false" id="login">
-										<label for="email">Email</label>
-										<input type="email" class="form-control" name="email" id="email" required/>
-										<label for="email">Password</label>
-										<input type="password" class="form-control" name="password" id="password" required/>
-										<p><br/></p>
-										<a href="#" style="color:white; list-style:none;">Forgotten Password</a><input type="submit" class="btn btn-success" style="float:right;">
-									</form>
-								</div>
-								<div class="panel-footer" id="e_msg"></div>
-							</div>
-						</div>
-					</ul>
-				</li>
-			</ul>
-		</div>
-	</div>
-</div>	
+<?php include '../header.php'; ?>	
 	<p><br/></p>
 	<p><br/></p>
 	<p><br/></p>
