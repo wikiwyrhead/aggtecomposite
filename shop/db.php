@@ -5,7 +5,7 @@ require "config/constants.php";
 $servername = "localhost";
 $username = "root";
 $password = "";
-$db = "store_db";
+$db = "aggtedeck_products";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);

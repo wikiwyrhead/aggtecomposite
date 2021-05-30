@@ -1,7 +1,7 @@
     /*********************************************************
 				        terms-modal
 	**********************************************************/
-	.bs-example-modal-md-terms h2{font-size:16px; line-height:16px; padding:15px; color:#fff; font-weight:bold; margin:0; background:#228b22; text-align:center}
+	.bs-example-modal-md-terms h2{font-size:16px; line-height:16px; padding:15px; color:#fff; font-weight:bold; margin:0; background:#0c930c; text-align:center}
 	.bs-example-modal-md-terms .login-form{padding:30px; overflow:hidden;}
 	.bs-example-modal-md-terms .login-form fieldset{overflow:hidden;}
 	.bs-example-modal-md-terms .login-form .form-group{position:relative; float:left; width:100%;}

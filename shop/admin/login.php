@@ -6,7 +6,7 @@
 <div class="container">
 	<div class="row justify-content-center" style="margin:100px 0;">
 		<div class="col-md-4">
-			<h4>Admin Login</h4>
+			<h4>Login</h4>
 			<p class="message"></p>
 			<form id="admin-login-form">
 			  <div class="form-group">

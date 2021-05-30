@@ -4,21 +4,21 @@
 
 h1,
 a {
-	color: #228b22;
+	color: #0c930c;
 }
 
 .Button,
 .Form__control {
-	border-color: #228b22;
+	border-color: #0c930c;
 }
 
 .Button {
-	color: #228b22;
+	color: #0c930c;
 }
 
 .Button:focus,
 .Button:hover {
-	background: #228b22;
+	background: #0c930c;
 	color: #fff;
 }
 

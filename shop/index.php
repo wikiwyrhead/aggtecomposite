@@ -76,7 +76,7 @@ if(isset($_SESSION["uid"])){
 									<img src="product_images/images.JPG"/>
 								</div>
 								<div class="panel-heading">$.500.00
-									<button style="float:right;" class="btn btn-danger btn-xs">AddToCart</button>
+									<button style="float:right;" class="btn btn-danger btn-xs">Add to Cart</button>
 								</div>
 							</div>
 						</div> -->

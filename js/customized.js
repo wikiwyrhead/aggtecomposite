@@ -17,8 +17,8 @@ function Focus1(){
 
     //Color
     document.getElementById("decking-button").style.borderLeft = "4px solid";
-    document.getElementById("decking-button").style.borderLeftColor = "#228b22";
-    document.getElementById("decking-button").style.color = "#228b22";
+    document.getElementById("decking-button").style.borderLeftColor = "#0c930c";
+    document.getElementById("decking-button").style.color = "#0c930c";
 
     document.getElementById("cladding-button").style.borderLeftColor = "#f9f9f9";
     document.getElementById("cladding-button").style.color = "#323232";
@@ -45,8 +45,8 @@ function Focus2(){
     document.getElementById("decking-button").style.color = "#323232";
 
     document.getElementById("cladding-button").style.borderLeft = "4px solid";
-    document.getElementById("cladding-button").style.borderLeftColor = "#228b22";
-    document.getElementById("cladding-button").style.color = "#228b22";
+    document.getElementById("cladding-button").style.borderLeftColor = "#0c930c";
+    document.getElementById("cladding-button").style.color = "#0c930c";
 
     document.getElementById("gates-button").style.borderLeftColor = "#f9f9f9";
     document.getElementById("gates-button").style.color = "#323232";
@@ -73,8 +73,8 @@ function Focus3(){
     document.getElementById("cladding-button").style.color = "#323232";
 
     document.getElementById("gates-button").style.borderLeft = "4px solid";
-    document.getElementById("gates-button").style.borderLeftColor = "#228b22";
-    document.getElementById("gates-button").style.color = "#228b22";
+    document.getElementById("gates-button").style.borderLeftColor = "#0c930c";
+    document.getElementById("gates-button").style.color = "#0c930c";
 
     document.getElementById("repair-button").style.borderLeftColor = "#f9f9f9";
     document.getElementById("repair-button").style.color = "#323232";
@@ -101,6 +101,6 @@ function Focus4(){
     document.getElementById("gates-button").style.color = "#323232";
 
     document.getElementById("repair-button").style.borderLeft = "4px solid";
-    document.getElementById("repair-button").style.borderLeftColor = "#228b22";
-    document.getElementById("repair-button").style.color = "#228b22";
+    document.getElementById("repair-button").style.borderLeftColor = "#0c930c";
+    document.getElementById("repair-button").style.color = "#0c930c";
 }
