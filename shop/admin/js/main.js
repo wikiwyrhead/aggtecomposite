@@ -23,7 +23,7 @@ $(document).ready(function(){
 	$(".login-btn").on("click", function(){
 
 		$.ajax({
-			url : '../shop/admin/classes/Credentials.php',
+			url : '../admin/classes/Credentials.php',
 			method : "POST",
 			data : $("#admin-login-form").serialize(),
 			success : function(response){
