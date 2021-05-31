@@ -23,7 +23,7 @@ $(document).ready(function(){
 	$(".login-btn").on("click", function(){
 
 		$.ajax({
-			url : '../../shop/admin/classes/Credentials.php',
+			url : '../shop/admin/classes/Credentials.php',
 			method : "POST",
 			data : $("#admin-login-form").serialize(),
 			success : function(response){
@@ -31,8 +31,8 @@ $(document).ready(function(){
 				var resp = $.parseJSON(response);
 				if (resp.status == 202) {
 					$("#admin-register-form").trigger("reset");
-					//$(".message").html('<span class="text-success">'+resp.message+'</span>');
-					window.location.href = window.origin+"../shop/admin/index.php";
+					$(".message").html('<span class="text-success">'+resp.message+'</span>');
+					window.location.href = window.origin+"../admin/index.php";
 				}else if(resp.status == 303){
 					$(".message").html('<span class="text-danger">'+resp.message+'</span>');
 				}
