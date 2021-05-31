@@ -1,5 +1,7 @@
 <?php
 
+require "config/constants.php";
+
 $servername = "localhost";
 $username = "flwbmkwa_janzen";
 $password = "0917379784009173797840";
