@@ -4,7 +4,7 @@ require "config/constants.php";
 
 $servername = "localhost";
 $username = "flwbmkwa_janzen";
-$password = "P@ssw0rd#####";
+$password = "0917379784009173797840";
 $db = "flwbmkwa_aggte";
 
 // Create connection
