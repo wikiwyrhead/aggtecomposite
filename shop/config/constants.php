@@ -1,9 +1,9 @@
 <?php
 
-define('HOST', 'Localhost');
-define('USER', 'flwbmkwa_janzen');
-define('PASSWORD', '0917379784009173797840');
-define('DATABASE_NAME', 'flwbmkwa_aggte');
+define('HOST', 'localhost');
+define('USER', 'flwbmkwa_user1');
+define('PASSWORD', ')pDhvm(T}O_x');
+define('DATABASE_NAME', 'flwbmkwa_aggteprod');
 define('CURRENCY', '₱');
 
 ?>

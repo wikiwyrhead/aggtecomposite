@@ -2,10 +2,10 @@
 
 require "config/constants.php";
 
-$servername = "Localhost";
-$username = "flwbmkwa_janzen";
-$password = "0917379784009173797840";
-$db = "flwbmkwa_aggte";
+$servername = "localhost";
+$username = "flwbmkwa_user1";
+$password = ")pDhvm(T}O_x";
+$db = "flwbmkwa_aggteprod";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
@@ -14,5 +14,6 @@ $con = mysqli_connect($servername, $username, $password,$db);
 if (!$con) {
     die("Connection failed: " . mysqli_connect_error());
 }
+echo "Connected Succesfuly";
 
 ?>

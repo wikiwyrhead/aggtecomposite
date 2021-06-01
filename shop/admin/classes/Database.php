@@ -8,7 +8,7 @@ class Database
 	
 	private $con;
 	public function connect(){
-		$this->con = new Mysqli("localhost", "flwbmkwa_janzen", "0917379784009173797840", "flwbmkwa_aggte");
+		$this->con = new Mysqli("localhost", "flwbmkwa_user1", ")pDhvm(T}O_x", "flwbmkwa_aggteprod");
 		return $this->con;
 	}
 }
