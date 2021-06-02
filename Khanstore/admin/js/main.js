@@ -23,7 +23,7 @@ $(document).ready(function(){
 	$(".login-btn").on("click", function(){
 
 		$.ajax({
-			url : '/aggtecomposite/shop/admin/classes/Credentials.php',
+			url : '../admin/classes/Credentials.php',
 			method : "POST",
 			data : $("#admin-login-form").serialize(),
 			success : function(response){
@@ -32,7 +32,7 @@ $(document).ready(function(){
 				if (resp.status == 202) {
 					$("#admin-register-form").trigger("reset");
 					//$(".message").html('<span class="text-success">'+resp.message+'</span>');
-					window.location.href = window.origin+"/aggtecomposite/shop/admin/index.php";
+					window.location.href = window.origin+"/KhanStore/admin/index.php";
 				}else if(resp.status == 303){
 					$(".message").html('<span class="text-danger">'+resp.message+'</span>');
 				}
