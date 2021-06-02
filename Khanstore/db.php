@@ -4,8 +4,8 @@ require "config/constants.php";
 
 $servername = 'localhost';
 $username = 'flwbmkwa_root';
-$password = 'flwbmkwa_khanstore';
-$db = 'khanstore';
+$password = 'FLg-oggtq3Oh';
+$db = 'flwbmkwa_khanstore';
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
