@@ -9,4 +9,5 @@
         "baseUri": "/",                             //  ii. workspace
         "proxyUri": "http://localhost/aggtedeck" // iii. actual address
     },
+    "git.ignoreLimitWarning": true,
 }
