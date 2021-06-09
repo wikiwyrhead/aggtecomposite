@@ -612,6 +612,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
         </li>
         <!--col end-->
+        <!--col start-->
+        <li class="col-md-3 col-sm-6 col-xs-12 nf-item cladding">
+          <div class="image-hover-effect-4"> <img src="images/gallery/cladding/cladding_o.jpg" alt="img-8">
+            <div class="caption">
+              <h3>WPC Cladding</h3>
+              <p>Maragondon, Cavite</p>
+            </div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_o.jpg" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+          </div>
+        </li>
+        <!--col end-->
       </ul>
       <!--row end-->
 
