@@ -7,4 +7,5 @@ Disallow: /js/
 Disallow: /fonts/
 Disallow: /shop/
 Disallow: /css/
+Disallow: /products/
 Sitemap: https://www.aggtedeck.com/sitemap.xml
