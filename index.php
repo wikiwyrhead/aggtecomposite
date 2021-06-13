@@ -15,6 +15,7 @@
 <!-- Pinterest Metatag End -->
 <meta name="facebook-domain-verification" content="7dwfnme386x93giukotpjrs5ymvjh3" />
 <!-- Facebook Pixel Code -->
+<link class="logoicon" rel="shortcut icon" href="../favicon.ico">
 <script>
 !function(f,b,e,v,n,t,s)
 {if(f.fbq)return;n=f.fbq=function(){n.callMethod?

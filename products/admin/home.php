@@ -71,14 +71,14 @@
                   $total += $subtotal;
                 }
 
-                echo "<h3>&#36; ".number_format_short($total, 2)."</h3>";
+                echo "<h3>&#x20b1; ".number_format_short($total, 2)."</h3>";
               ?>
               <p>Total Sales</p>
             </div>
             <div class="icon">
               <i class="fa fa-shopping-cart"></i>
             </div>
-            <a href="book.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+            <a href="sales.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -99,7 +99,7 @@
             <div class="icon">
               <i class="fa fa-barcode"></i>
             </div>
-            <a href="student.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+            <a href="products.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -120,7 +120,7 @@
             <div class="icon">
               <i class="fa fa-users"></i>
             </div>
-            <a href="return.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+            <a href="users.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -138,7 +138,7 @@
                   $total += $subtotal;
                 }
 
-                echo "<h3>&#36; ".number_format_short($total, 2)."</h3>";
+                echo "<h3>&#x20b1; ".number_format_short($total, 2)."</h3>";
                 
               ?>
 

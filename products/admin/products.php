@@ -1,4 +1,5 @@
 <?php include 'includes/session.php'; ?>
+
 <?php
   $where = '';
   if(isset($_GET['category'])){
@@ -52,7 +53,8 @@
           unset($_SESSION['success']);
         }
       ?>
-      <div class="row">
+      
+      <div class="row" style="margin-top: 15px;">
         <div class="col-xs-12">
           <div class="box">
             <div class="box-header with-border">
@@ -112,7 +114,7 @@
                               <span class='pull-right'><a href='#edit_photo' class='photo' data-toggle='modal' data-id='".$row['id']."'><i class='fa fa-edit'></i></a></span>
                             </td>
                             <td><a href='#description' data-toggle='modal' class='btn btn-info btn-sm btn-flat desc' data-id='".$row['id']."'><i class='fa fa-search'></i> View</a></td>
-                            <td>&#36; ".number_format($row['price'], 2)."</td>
+                            <td>&#x20b1; ".number_format($row['price'], 2)."</td>
                             <td>".$counter."</td>
                             <td>
                               <button class='btn btn-success btn-sm edit btn-flat' data-id='".$row['id']."'><i class='fa fa-edit'></i> Edit</button>

@@ -29,7 +29,7 @@
 ?>
 <?php include 'includes/header.php'; ?>
 <body class="hold-transition skin-blue layout-top-nav">
-<script>
+<!--<script>
 (function(d, s, id) {
 	var js, fjs = d.getElementsByTagName(s)[0];
 	if (d.getElementById(id)) return;
@@ -37,7 +37,7 @@
 	js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
 	fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
-</script>
+</script>-->
 <div class="wrapper">
 
 	<?php include 'includes/navbar.php'; ?>
@@ -46,7 +46,7 @@
 	    <div class="container">
 
 	      <!-- Main content -->
-	      <section class="content">
+	      <section class="content" style="margin-top: 15px;">
 	        <div class="row">
 	        	<div class="col-sm-9">
 	        		<div class="callout" id="callout" style="display:none">
@@ -77,7 +77,7 @@
 		            	</div>
 		            	<div class="col-sm-6">
 		            		<h1 class="page-header"><?php echo $product['prodname']; ?></h1>
-		            		<h3><b>&#36; <?php echo number_format($product['price'], 2); ?></b></h3>
+		            		<h3><b>&#x20b1; <?php echo number_format($product['price'], 2); ?></b></h3>
 		            		<p><b>Category:</b> <a href="category.php?category=<?php echo $product['cat_slug']; ?>"><?php echo $product['catname']; ?></a></p>
 		            		<p><b>Description:</b></p>
 		            		<p><?php echo $product['description']; ?></p>

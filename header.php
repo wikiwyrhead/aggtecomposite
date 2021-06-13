@@ -61,7 +61,7 @@
         <div class="row">
           <div class="col-md-5 col-sm-12">
             <div class="logo-outer">
-              <div class="logo"> <a href="index.php"> <img class="logo-default" src="<?php echo $root; ?>/images/logo-default2.png" alt="AGG WPC Cladding & Decking Logo" title="AGGTE WPC Cladding & Decking Logo"> </a> </div>
+              <div class="logo"> <a href="index.php"> <img class="logo-default" src="<?php echo $root; ?>/images/logo-default.png" alt="AGG WPC Cladding & Decking Logo" title="AGGTE WPC Cladding & Decking Logo"> </a> </div>
             </div>
           </div>
           <div class="col-md-7 col-sm-12">
@@ -99,6 +99,8 @@
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
 
                       </ul>
+                    </li>
+                    <li><a class="hvr-link" href="/../products/category.php?category=products">Products</a>
                     </li>
                     <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
@@ -181,6 +183,8 @@
                           <li><a class="hvr-link" href="cleaning.php">Cleaning Guides</a></li>
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
                       </ul>
+                    </li>
+                    <li><a class="hvr-link" href="/../products/category.php?category=products">Products</a>
                     </li>
                     <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
