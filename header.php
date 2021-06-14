@@ -100,7 +100,7 @@
 
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="/../products/category.php?category=products">Products</a>
+                    <li><a class="hvr-link" style="pointer-events: none;" href="/../products/category.php?category=products" title="Not Available Yet!"><del>Products</del></a>
                     </li>
                     <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
@@ -184,7 +184,7 @@
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="/../products/category.php?category=products">Products</a>
+                    <li><a class="hvr-link" style="pointer-events: none;" href="/../products/category.php?category=products" title="Not Available Yet!"><del title="Not Available Yet!">Products</del></a>
                     </li>
                     <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
@@ -224,4 +224,5 @@
     </div>
     <!--sticky-header end-->
     </header>
+    
 </html>
