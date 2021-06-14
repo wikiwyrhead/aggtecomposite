@@ -158,7 +158,7 @@ transition-timing-function: ease-out;
 .hvr-link:hover:before, .hvr-link:focus:before, .hvr-link:active:before{-webkit-transform: scaleY(1); transform: scaleY(1);}
 .hvr-link:active {background-color: darkgreen;}
 
-.main-header .main-menu .navigation>li>a{color:#fff; padding:20px 5px !important; line-height:30px; font-size:15px; font-weight:500; min-height:0px; background:none; border:0px;}
+.main-header .main-menu .navigation>li>a{color:#fff; padding:20px 10px !important; line-height:30px; font-size:15px; font-weight:500; min-height:0px; background:none; border:0px;}
 .main-header .sticky-header .main-menu .navigation>li>a{color:#fff; padding:17px 5px !important; line-height:30px; font-size:15px; font-weight:500; min-height:0px; background:none; border:0px;}
 .main-header .main-menu .navigation>li.dropdown>a:after{display:inline-block; width:0; height:0; margin-left:.3em; vertical-align:middle; content: ""; border-top:.3em solid;
 border-right:.3em solid transparent; border-left:.3em solid transparent;}
