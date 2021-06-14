@@ -102,7 +102,11 @@ src="https://www.facebook.com/tr?id=198102358516938&ev=PageView&noscript=1"
   ]
 }
 </script>
+<!-- Cookie -->
 
+
+
+<!-- Cookie End -->
 </head>
 <body>
 

@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: 
 Disallow: /cgi-bin/
 Disallow: /php/
 Disallow: /rs-plugin/
