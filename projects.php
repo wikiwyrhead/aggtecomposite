@@ -234,7 +234,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Laguna</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking_d.jpg" title="WPC Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking_d.jpg" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -278,7 +278,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Parañaque, Metro Manila</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking1.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking1.png" title="WPC Decking Stairway" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -300,7 +300,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Cladding</h3>
               <p>Cainta, Rizal</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding/cladding1.png" title="WPC Accent Gate" class="lightbox-image"><i class="fa fa-search"></i></a></div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding1.png" title="WPC Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a></div>
           </div>
         </li>
         <!--col end-->
@@ -311,7 +311,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Calamba, Laguna</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/newdecking.jpg" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/newdecking.jpg" title="WPC Decking Poolside" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -322,7 +322,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Nasugbu, Batangas</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking_e.jpg" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking_e.jpg" title="WPC Decking Poolside" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -344,7 +344,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Nayomi Resort, Balete Batangas</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking6.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking6.png" title="WPC Decking Poolside" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -377,7 +377,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Nueva Ecija</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking_f.jpg" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking_f.jpg" title="WPC Decking Poolside" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -454,7 +454,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Taal, Batangas</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/gates/gate1.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/gates/gate1.png" title="WPC Gates" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -465,7 +465,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Laguna</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking9.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking9.png" title="WPC Decking Stairway" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -487,7 +487,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Parañaque</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking10.png" title="WPC Decking Lanai" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking10.png" title="WPC Decking Stairway" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -509,7 +509,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Nasugbu, Batangas</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/decking4.png" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/decking4.png" title="Accent WPC Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -542,7 +542,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Decking</h3>
               <p>Sto. Tomas, Batangas</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/decking/newdecking2.jpg" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/decking/newdecking2.jpg" title="Accent Stairway Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -586,7 +586,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Cladding</h3>
               <p>San Pablo, Laguna</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_l.jpg" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_l.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -597,7 +597,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Cladding</h3>
               <p>San Nicolas, Batangas</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_m.jpg" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_m.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -608,7 +608,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Cladding</h3>
               <p>Santa Rosa, Laguna</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_n.jpg" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_n.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
@@ -619,7 +619,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <h3>WPC Cladding</h3>
               <p>Maragondon, Cavite</p>
             </div>
-            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_o.jpg" title="Accent Decking" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
+            <div class="link-wrap"> <a href="images/gallery/cladding/cladding_o.jpg" title="Accent Cladding" class="lightbox-image"><i class="fa fa-search"></i></a>  </div>
           </div>
         </li>
         <!--col end-->
