@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 13, 2021 at 09:38 AM
+-- Generation Time: Jun 16, 2021 at 01:10 PM
 -- Server version: 10.4.19-MariaDB
 -- PHP Version: 8.0.6
 
@@ -115,13 +115,13 @@ CREATE TABLE `products` (
 
 INSERT INTO `products` (`id`, `category_id`, `name`, `description`, `slug`, `price`, `photo`, `date_view`, `counter`) VALUES
 (1, 8, 'AGG-50J30', '<p>One of the accessories in making your desired WPC Experience.</p>\r\n', 'agg-50j30', 599.99, 'agg-50j30.jpg', '2021-06-12', 2),
-(2, 7, 'AGG-138H22', '<p>Decking Panel</p>\r\n', 'agg-138h22', 749.99, 'agg-138h22_1623491517.jpg', '2021-06-12', 1),
+(2, 7, 'AGG-138H22', '<p>Decking Panel</p>\r\n', 'agg-138h22', 749.99, 'agg-138h22_1623491517.jpg', '2021-06-13', 4),
 (3, 7, 'AGG-138H23', '<p>Decking Panel</p>\r\n', 'agg-138h23', 749.99, 'agg-138h23.jpg', '0000-00-00', 0),
 (4, 7, 'AGG-150H25A', '<p>Decking Panel</p>\r\n', 'agg-150h25a', 749.99, 'agg-150h25a.jpg', '0000-00-00', 0),
 (5, 7, 'AGG-160H25', '<p>Decking Panel</p>\r\n', 'agg-160h25', 749.99, 'agg-160h25.jpg', '0000-00-00', 0),
-(6, 6, 'AGG-164W13', '<p>Cladding Panel</p>\r\n', 'agg-164w13', 749.99, 'agg-164w13.jpg', '0000-00-00', 0),
+(6, 6, 'AGG-164W13', '<p>Cladding Panel</p>\r\n', 'agg-164w13', 749.99, 'agg-164w13.jpg', '2021-06-15', 1),
 (7, 6, 'AGG-174W21', '<p>Cladding Panel</p>\r\n', 'agg-174w21', 749.99, 'agg-174w21.jpg', '0000-00-00', 0),
-(8, 6, 'AGG-C219W26', '<p>Cladding Panel</p>\r\n', 'agg-c219w26', 749.99, 'agg-c219w26.jpg', '0000-00-00', 0),
+(8, 6, 'AGG-C219W26', '<p>Cladding Panel</p>\r\n', 'agg-c219w26', 749.99, 'agg-c219w26.jpg', '2021-06-16', 1),
 (9, 8, 'AGG-A01', '<p>Panel Accessories</p>\r\n', 'agg-a01', 599.99, 'agg-a01.jpg', '0000-00-00', 0),
 (10, 8, 'AGG-CO1', '<p>Panel Accessories</p>\r\n', 'agg-co1', 449.99, 'agg-co1.jpg', '0000-00-00', 0),
 (11, 8, 'AGG-CO2', '<p>Panel Accessories</p>\r\n', 'agg-co2', 449.99, 'agg-co2.jpg', '0000-00-00', 0),

@@ -1,4 +1,3 @@
-<?php include 'includes/session.php'; ?>
 <?php
 	$slug = $_GET['category'];
 
@@ -17,27 +16,12 @@
 	$pdo->close();
 
 ?>
-<?php include 'includes/header.php'; ?>
 <body class="hold-transition skin-blue layout-top-nav">
 <div class="wrapper">
 
-	<?php include 'includes/navbar.php'; ?>
-	 
 	  <div class="content-wrapper">
 	    <div class="container">
 		<div class="divHandle" style="margin-top: 15px;">
-		<br>
-	        		<?php
-	        			if(isset($_SESSION['error'])){
-	        				echo "
-	        					<div class='alert alert-danger'>
-	        						".$_SESSION['error']."
-	        					</div>
-	        				";
-	        				unset($_SESSION['error']);
-	        			}
-	        		?>
-				
 	        		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 		                <ol class="carousel-indicators">
 		                  <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -65,14 +49,11 @@
 				</div>
 	      <!-- Main content -->
 	      <section class="content">
-	        <div class="row">
-			
-	        	<div class="col-sm-9">
-				<h1 class="page-header"></h1>
+	        <div class="col-sm-9">
 			<div class="groupCommon" style="margin-top: -20px;margin-bottom: 20px;">
-			<h1 class="page-header"><?php echo $cat['name']; ?></h1>
+			<h1 class="page-header" style="margin-top: 20px"><?php echo $cat['name']; ?></h1>
             <!-- Comment -->
-			<li class="dropdown">
+			<li class="dropdown" style="margin-top: -20px;">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">CATEGORY <span class="caret"></span></a>
             <ul class="dropdown-menu" role="menu">
               <?php
@@ -82,25 +63,20 @@
                   $stmt->execute();
                   foreach($stmt as $row){
                     echo "
-                      <li><a href='category.php?category=".$row['cat_slug']."'>".$row['name']."</a></li>
+                      <li><a href='index.php?category=".$row['cat_slug']."'>".$row['name']."</a></li>
                     ";                  
                   }
                 }
                 catch(PDOException $e){
                   echo "There is some problem in connection: " . $e->getMessage();
                 }
-
                 $pdo->close();
-
               ?>
             </ul>
           </li>
 				</div>
-		            
 		       		<?php
-		       			
 		       			$conn = $pdo->open();
-
 		       			try{
 		       			 	$inc = 3;	
 						    $stmt = $conn->prepare("SELECT * FROM products WHERE category_id = :catid");
@@ -135,18 +111,14 @@
 
 		       		?> 
 	        	</div>
-	        	<div class="col-sm-3" style="margin-top: 15px;">
-	        		<?php include 'includes/sidebar.php'; ?>
-	        	</div>
+				<div class="col-sm-3">
+				<?php include 'includes/sidebar.php'; ?>
+	        </div>
 	        </div>
 	      </section>
-	     
 	    </div>
 	  </div>
-  
-  	<?php include 'includes/footer.php'; ?>
 </div>
 
-<?php include 'includes/scripts.php'; ?>
 </body>
 </html>
