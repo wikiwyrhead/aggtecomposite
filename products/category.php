@@ -63,7 +63,7 @@
                   $stmt->execute();
                   foreach($stmt as $row){
                     echo "
-                      <li><a href='index.php?category=".$row['cat_slug']."'>".$row['name']."</a></li>
+                      <li><a href='products/index.php?category=".$row['cat_slug']."'>".$row['name']."</a></li>
                     ";                  
                   }
                 }
