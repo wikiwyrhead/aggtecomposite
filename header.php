@@ -101,7 +101,7 @@
                       </ul>
                     </li>
                     <li><a class="hvr-link" href="../products/?category=products">Products</a></li>
-                    <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
+                    <!--<li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>-->
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
                         <li><a class="hvr-link" href="projects.php">Project Three Column</a></li>
@@ -184,7 +184,7 @@
                       </ul>
                     </li>
                     <li><a class="hvr-link" href="../products/?category=products">Products</a></li>
-                    <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
+                    <!--<li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>-->
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
                         <li><a class="hvr-link" href="projects.php">Project Three Column</a></li>
@@ -216,11 +216,9 @@
           <!--col end-->
         </div>
         <!--row end-->
-
       </div>
       <!--container end-->
     </div>
     <!--sticky-header end-->
     </header>
-    
 </html>
