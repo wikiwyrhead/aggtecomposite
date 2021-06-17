@@ -100,8 +100,8 @@
 
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="../products/?category=products">Products</a></li>
-                    <!--<li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>-->
+                    <!--<li><a class="hvr-link" href="../products/?category=products">Products</a></li>-->
+                    <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
                         <li><a class="hvr-link" href="projects.php">Project Three Column</a></li>
@@ -183,8 +183,8 @@
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="../products/?category=products">Products</a></li>
-                    <!--<li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>-->
+                    <<!--li><a class="hvr-link" href="../products/?category=products">Products</a></li>-->
+                    <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
                         <li><a class="hvr-link" href="projects.php">Project Three Column</a></li>
