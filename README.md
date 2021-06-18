@@ -1,3 +1,3 @@
-# aggtedeck
-AGGTE WPC Cladding Decking Website
-Personal Company project
+# AGGTEDeck WPC Caldding & Decking Website
+AGGTEDeck Website[www.aggtedeck.com]
+
