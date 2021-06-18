@@ -1,7 +1,23 @@
-<h1 align="center">AGGTEDeck WPC Cladding & Decking Website</h1>
-<p stlye="font-family: Consolas">• It was in the year 2016 when AGG Trading Enterprise ventured into the composite decking and cladding industry, thus becoming one of the Philippines’ trusted distributors of wood-alternative decking and cladding materials. From its humble beginnings as a composite decking supplier, AGGTE has always believed that superior product quality does not necessarily need to come from high cost. From this principle which had served as the company’s mantra and guiding light, the business continues to flourish over the years and has earned its reputation as a leading supplier of quality decking and cladding materials among different local-based builder merchants in the area.
-</p>
-<hr>
-For more information, please visit [AGGTEDeck Composites](https://www.aggtedeck.com)
+<h1 align="center">Hello 👋🏻, I'm Janzen! </h1>
+<h3 align="center">Front-End Developer, Senior Web Developer @ AGGTEDeck.com, Former Moderator at Brainly.ph</h3>
+
+
+
+
+- 🌎 Find me on [Discord](https://discord.com/users/744822067740016640), [Brainly](https://brainly.ph/app/profile/10618746), [Facebook](https://www.facebook.com/janzen.go.7/), [LinkedIn](https://www.linkedin.com/in/janzengo/)
+
+- 🛡️ Administrator & Web Developer at [AGGTEDeck Composites](https://www.aggtedeck.com)
+
+- ⚡ Fun fact: **I can sing and I have a [Youtube Channel](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA)**
+
+
+Currently working at:
+
+-  [Brainly](https://www.brainly.ph) as User
+-  [AGGTEDeck](https://www.aggtedeck.com) as Network Administrator, Web Developer
+-  [Youtube](https://www.youtube.com/channel/UCLJZ-_tfJ006qAGNxdM9hYA) as Content Creator
+
+
+
 
 
