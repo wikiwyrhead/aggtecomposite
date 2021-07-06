@@ -144,10 +144,10 @@
 $('#select_category').change(function(){
     var val = $(this).val();
     if(val == 0){
-		window.location = 'index.php';
+		window.location = '/products/';
     }
     else{
-		window.location = 'index.php?category='+val;
+		window.location = '/products/?category='+val;
     }
   });
 </script>
