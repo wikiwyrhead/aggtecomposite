@@ -108,7 +108,7 @@ if(isset($_FILES) && (bool) $_FILES) {
         session_destroy();
         echo "<script>
             window.setTimeout(function() {
-            window.location.href='../products/index.php';
+            window.location.href='/products/';
             }, 2000);
             </script>";
 	} else { 

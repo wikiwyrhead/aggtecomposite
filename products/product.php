@@ -82,7 +82,7 @@
 							            <input type="hidden" value="<?php echo $product['prodid']; ?>" name="id">
 							        </div>
 			            			<button type="submit" class="btn btn-primary btn-lg btn-flat"><i class="fa fa-plus"></i> Add for Quotation</button><br>
-									<a class='btn btn-primary btn-lg btn-flat productsButton' href='../products/index.php'><i class="fa fa-arrow-left"></i> Products</a>
+									<a class='btn btn-primary btn-lg btn-flat productsButton' href='/products/'><i class="fa fa-arrow-left"></i> Products</a>
 									
 			            		</div>
 		            		</form>
