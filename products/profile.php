@@ -48,7 +48,6 @@
 	        							<h4>Email:</h4>
 	        							<h4>Contact Info:</h4>
 	        							<h4>Address:</h4>
-	        							<h4>Member Since:</h4>
 	        						</div>
 	        						<div class="col-sm-9">
 	        							<h4><?php echo $user['firstname'].' '.$user['lastname']; ?>

@@ -3,7 +3,7 @@
 	session_start();
 
 	if(!isset($_SESSION['admin']) || trim($_SESSION['admin']) == ''){
-		header('location: ../index.php');
+		header('location: ../products/index.php');
 		exit();
 	}
 

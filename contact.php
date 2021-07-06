@@ -252,36 +252,35 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <form action="php/contacts.php" method="POST" id="xs-contact-form" class="xs-form">
                         <div class="row">
                             <div class="col-md-6">
-                                <input type="text" class="form-control" name="name" placeholder="Your name" id="xs_contact_name">
+                                <input type="text" class="form-control" name="name" placeholder="Your name" id="xs_contact_name" required>
                             </div>
                             <div class="col-md-6">
-                                <input type="email" class="form-control invaild" name="email" placeholder="Your email" id="xs_contact_email">
+                                <input type="email" class="form-control invaild" name="email" placeholder="Your email" id="xs_contact_email" required>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-6">
-                                <input type="text" class="form-control" name="phone_number" placeholder="Your phone number" id="xs_contact_phone">
+                                <input type="tel" class="form-control" name="phone_number" placeholder="Your phone number" id="xs_contact_phone" required>
 
                             </div>
                             <div class="col-md-6">
-                                <input type="text" class="form-control" name="subject" placeholder="Subject" id="xs_contact_subject">
+                                <input type="text" class="form-control" name="subject" placeholder="Subject" id="xs_contact_subject" required>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-6">
                                 <label>Request Phone Call?:</label><br>
-                                <input type="radio" value="Yes" name="call">
+                                <input type="radio" value="Yes" name="call" required>
                                 <label for="Yes">Yes</label><br>
                                 <input type="radio" value="No" name="call">
                                 <label for="No">No</label><br><br>
                                 </div>
                         </div>
 
-                        <textarea name="message" placeholder="Message" id="x_contact_massage" class="form-control message-box" cols="30" rows="10"></textarea>
+                        <textarea name="req-message" placeholder="Message" id="x_contact_massage" class="form-control message-box" cols="30" rows="10" required></textarea>
  <div class="readmore text-center">
-              <button class="main-btn btn-1 btn-1e">SEND MESSAGE</button>
+              <input type="submit" style="display: none;"><button class="main-btn btn-1 btn-1e">SEND MESSAGE</button></input>
             </div>
-
                     </form>
     </div>
     <!--container end-->

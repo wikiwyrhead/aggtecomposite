@@ -1,25 +1,20 @@
+<?php require_once 'cart_modals.php'; ?>
 <?php
-	$slug = $_GET['category'];
-
 	$conn = $pdo->open();
-
-	try{
-		$stmt = $conn->prepare("SELECT * FROM category WHERE cat_slug = :slug");
-		$stmt->execute(['slug' => $slug]);
-		$cat = $stmt->fetch();
-		$catid = $cat['id'];
-	}
-	catch(PDOException $e){
-		echo "There is some problem in connection: " . $e->getMessage();
-	}
-
-	$pdo->close();
-
+  $where = '';
+  $stmt = $conn->prepare("SELECT * FROM category");
+  $stmt->execute();
+  $crow = $stmt->fetch();
+  if(isset($_GET['category'])){
+    $catid = $_GET['category'];
+    $where = 'WHERE category_id ='.$catid;
+  }
+  $pdo->close();
 ?>
-<body class="hold-transition skin-blue layout-top-nav">
-<div class="wrapper">
 
-	  <div class="content-wrapper">
+<div class="wrapper">
+<?php include '../header.php'; ?>
+<br><br>
 	    <div class="container">
 		<div class="divHandle" style="margin-top: 15px;">
 	        		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -51,36 +46,57 @@
 	      <section class="content">
 	        <div class="col-sm-9">
 			<div class="groupCommon" style="margin-top: -20px;margin-bottom: 20px;">
-			<h1 class="page-header" style="margin-top: 20px"><?php echo $cat['name']; ?></h1>
+			<h1 value="0" class="page-header" style="margin-top: 20px">
+			<?php 
+			$conn = $pdo->open();
+			$stmt = $conn->prepare("SELECT * FROM category");
+			$stmt->execute();
+			if(empty($catid)){
+				unset($catid);
+				echo "Products";
+			}
+			else {
+				foreach($stmt as $crow) {
+					if($crow['id'] == $catid) {
+						echo $crow['name'];
+					}
+				} 
+			}
+			?>
+			</h1>
             <!-- Comment -->
-			<li class="dropdown" style="margin-top: -20px;">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">CATEGORY <span class="caret"></span></a>
-            <ul class="dropdown-menu" role="menu">
-              <?php
-                $conn = $pdo->open();
-                try{
-                  $stmt = $conn->prepare("SELECT * FROM category");
-                  $stmt->execute();
-                  foreach($stmt as $row){
-                    echo "
-                      <li><a href='../products/?category=".$row['cat_slug']."'>".$row['name']."</a></li>
-                    ";                  
-                  }
-                }
-                catch(PDOException $e){
-                  echo "There is some problem in connection: " . $e->getMessage();
-                }
-                $pdo->close();
-              ?>
-            </ul>
-          </li>
+			<div class="pull-left">
+                <form class="form-inline">
+                  <div class="form-group">
+                    <label>Category: </label>
+                    <select class="form-control input-sm" id="select_category">
+                      <option value="0">ALL</option>
+                      <?php
+                        $conn = $pdo->open();
+
+                        $stmt = $conn->prepare("SELECT * FROM category");
+                        $stmt->execute();
+
+                        foreach($stmt as $crow){
+                          $selected = ($crow['id'] == $catid) ? 'selected' : ''; 
+                          echo "
+                            <option value='".$crow['id']."' ".$selected.">".$crow['name']."</option>
+                          ";
+                        }
+
+                        $pdo->close();
+                      ?>
+                    </select>
+                  </div>
+                </form>
+              </div><br><br>
 				</div>
 		       		<?php
 		       			$conn = $pdo->open();
 		       			try{
-		       			 	$inc = 3;	
-						    $stmt = $conn->prepare("SELECT * FROM products WHERE category_id = :catid");
-						    $stmt->execute(['catid' => $catid]);
+		       			 	$inc = 4;	
+						    $stmt = $conn->prepare("SELECT * FROM products $where");
+						    $stmt->execute();
 						    foreach ($stmt as $row) {
 						    	$image = (!empty($row['photo'])) ? 'images/'.$row['photo'] : 'images/noimage.jpg';
 						    	$inc = ($inc == 3) ? 1 : $inc + 1;
@@ -106,19 +122,33 @@
 						catch(PDOException $e){
 							echo "There is some problem in connection: " . $e->getMessage();
 						}
-
 						$pdo->close();
-
 		       		?> 
 	        	</div>
 				<div class="col-sm-3">
 				<?php include 'includes/sidebar.php'; ?>
+				<?php
+	        			if(isset($_SESSION['cart'])){
+							if(count($_SESSION['cart']) != 0) {
+							echo"
+								<a class='buttonProdView' data-dismiss='modal' aria-label='Close' data-toggle='modal' data-target='.prodModal'><i class='fa fa-list'></i> View Products for Quotation</a>
+	        					";
+							}
+						}
+	        		?>
 	        </div>
 	        </div>
-	      </section>
-	    </div>
 	  </div>
-</div>
-
-</body>
+<?php include 'admin/includes/scripts.php'; ?>
+<script>
+$('#select_category').change(function(){
+    var val = $(this).val();
+    if(val == 0){
+		window.location = 'index.php';
+    }
+    else{
+		window.location = 'index.php?category='+val;
+    }
+  });
+</script>
 </html>

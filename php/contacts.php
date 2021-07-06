@@ -2,16 +2,18 @@
     .preloader{position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:99999999; background-color:#ffffff; background-position:center center;	background-repeat:no-repeat; background-image:url(../images/preloader2.gif);}
 </style>
 <?php
-
+ini_set('SMTP','smtp.gmail.com');
+ini_set('smtp_port', 465);
+ini_set('sendmail_from','jjanzen.go@gmail.com');
 //Variable Declaraton
 
     $name = $_POST['name'];
     $email = $_POST['email'];
-    $to_email = "info@aggtedeck.com";
+    $to_email = "jjanzen.go@gmail.com";
     $subject = $_POST['subject'];
     $phoneNumber = $_POST['phone_number'];
     $call = $_POST['call'];
-    $message = "From: $email\n" ."Client Name: $name \n" . "Client Number: $phoneNumber \n" . "Call Back?: $call\n" . "\n\n" . "Message: \n\n" .  $_POST['message'];
+    $message = "From: $email\n" ."Client Name: $name \n" . "Client Number: $phoneNumber \n" . "Call Back?: $call\n" . "\n\n" . "Message: \n\n" .  $_POST['req-message'];
     $headers = 'AGGTE Mail System';
 
 
@@ -41,5 +43,5 @@ mail( $_POST['email'], $conf_subject, $msg, 'From: ' . $conf_sender );
         echo "<script>
             window.location.href='errorcon.php';
             </script>";
-}
+    }
 ?>

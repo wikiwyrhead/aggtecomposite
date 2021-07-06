@@ -11,7 +11,6 @@
 			$stmt = $conn->prepare("DELETE FROM cart WHERE id=:id");
 			$stmt->execute(['id'=>$id]);
 			$output['message'] = 'Deleted';
-			
 		}
 		catch(PDOException $e){
 			$output['message'] = $e->getMessage();
@@ -25,8 +24,6 @@
 			}
 		}
 	}
-
 	$pdo->close();
 	echo json_encode($output);
-
 ?>

@@ -30,23 +30,7 @@
 				$image = (!empty($row['photo'])) ? 'images/'.$row['photo'] : 'images/noimage.jpg';
 				$subtotal = $row['price']*$row['quantity'];
 				$total += $subtotal;
-				$output .= "
-					<tr>
-						<td><button type='button' data-id='".$row['cartid']."' class='btn btn-danger btn-flat cart_delete'><i class='fa fa-remove'></i></button></td>
-						<td><img src='".$image."' width='30px' height='30px'></td>
-						<td>".$row['name']."</td>
-						<td>&#x20b1; ".number_format($row['price'], 2)."</td>
-						<td>&#x20b1; ".number_format($subtotal, 2)."</td>
-					</tr>
-				";
 			}
-			$output .= "
-				<tr>
-					<td colspan='3' align='right'><b>Total</b></td>
-					<td><b>&#x20b1; ".number_format($total, 2)."</b></td>
-				<tr>
-			";
-
 		}
 		catch(PDOException $e){
 			$output .= $e->getMessage();
@@ -60,37 +44,10 @@
 				$stmt = $conn->prepare("SELECT *, products.name AS prodname, category.name AS catname FROM products LEFT JOIN category ON category.id=products.category_id WHERE products.id=:id");
 				$stmt->execute(['id'=>$row['productid']]);
 				$product = $stmt->fetch();
-				$image = (!empty($product['photo'])) ? 'images/'.$product['photo'] : 'images/noimage.jpg';
-				$subtotal = $product['price']*$row['quantity'];
-				$total += $subtotal;
-				$output .= "
-					<tr>
-						<td><button type='button' data-id='".$row['productid']."' class='btn btn-danger btn-flat cart_delete'><i class='fa fa-remove'></i></button></td>
-						<td><img style='display: block;margin-left: auto;margin-right: auto;' src='".$image."' width='100px' height='100px'></td>
-						<td colspan='3' align='center'>".$product['prodname']."</td>
-					</tr>
-				";
-				
+				$items[] = $product['prodname'];
 			}
-
-			$output .= "
-				<tr>
-					<td colspan='5' align='center'><i>Note</i>: This is <b>not a shopping cart</b>. This means that the products enlisted above will only be sent via email for the purpose of quotation, and will not be delivered. For inquiries, please reach us out on <a href='../contact.php' style='color: #228b22;'>inquire@aggtedeck.com</a>.</td>
-				<tr>
-			";
 		}
-
-		else{
-			$output .= "
-				<tr>
-					<td colspan='6' align='center'>Shopping cart empty</td>
-				<tr>
-			";
-		}
-		
 	}
 	$pdo->close();
-	echo json_encode($output);
-
 ?>
 

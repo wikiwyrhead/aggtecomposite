@@ -20,7 +20,7 @@
 				$stmt = $conn->prepare("INSERT INTO cart (user_id, product_id, quantity) VALUES (:user, :product, :quantity)");
 				$stmt->execute(['user'=>$id, 'product'=>$product, 'quantity'=>$quantity]);
 
-				$_SESSION['success'] = 'Product added to cart';
+				$_SESSION['success'] = 'Product added for Quotation';
 			}
 			catch(PDOException $e){
 				$_SESSION['error'] = $e->getMessage();

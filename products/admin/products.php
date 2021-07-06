@@ -1,3 +1,4 @@
+<!-- Change -->
 <?php include 'includes/session.php'; ?>
 
 <?php

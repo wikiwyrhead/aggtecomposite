@@ -1,3 +1,14 @@
+<style>
+.productsButton {
+    margin-top: 5px;
+    background-color: #2ba52b !important;
+    border: none !important;
+}
+.productsButton:hover {
+    background-color: #228b22 !important;
+    color: #eee;
+}
+</style>
 <?php include 'includes/session.php'; ?>
 <?php
 	$conn = $pdo->open();
@@ -44,7 +55,7 @@
 	 
 	  <div class="content-wrapper">
 	    <div class="container">
-
+	<br><br>
 	      <!-- Main content -->
 	      <section class="content" style="margin-top: 15px;">
 	        <div class="row">
@@ -60,25 +71,26 @@
 		            		<form class="form-inline" id="productForm">
 		            			<div class="form-group">
 			            			<div class="input-group col-sm-5">
-			            				
-			            				<span class="input-group-btn">
+			            				<!--<span class="input-group-btn">
 			            					<button type="button" id="minus" class="btn btn-default btn-flat btn-lg" disabled><i class="fa fa-minus"></i></button>
-			            				</span>
-							          	<input type="text" name="quantity" id="quantity" class="form-control input-lg" value="1">
-							            <span class="input-group-btn">
+			            				</span>-->
+							          	<input type="text" name="quantity" id="quantity" class="form-control input-lg" value="1" style="display: none">
+							            <!--<span class="input-group-btn">
 							                <button type="button" id="add" class="btn btn-default btn-flat btn-lg" disabled><i class="fa fa-plus"></i>
 							                </button>
-							            </span>
+							            </span>-->
 							            <input type="hidden" value="<?php echo $product['prodid']; ?>" name="id">
 							        </div>
-			            			<button type="submit" class="btn btn-primary btn-lg btn-flat"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+			            			<button type="submit" class="btn btn-primary btn-lg btn-flat"><i class="fa fa-plus"></i> Add for Quotation</button><br>
+									<a class='btn btn-primary btn-lg btn-flat productsButton' href='../products/index.php'><i class="fa fa-arrow-left"></i> Products</a>
+									
 			            		</div>
 		            		</form>
 		            	</div>
 		            	<div class="col-sm-6">
 		            		<h1 class="page-header"><?php echo $product['prodname']; ?></h1>
 		            		<h3><b>&#x20b1; <?php echo number_format($product['price'], 2); ?></b></h3>
-		            		<p><b>Category:</b> <a href="category.php?category=<?php echo $product['cat_slug']; ?>"><?php echo $product['catname']; ?></a></p>
+		            		<p><b>Category:</b> <a href="index.php?category=<?php echo $product['cat_slug']; ?>"><?php echo $product['catname']; ?></a></p>
 		            		<p><b>Description:</b></p>
 		            		<p><?php echo $product['description']; ?></p>
 		            	</div>
