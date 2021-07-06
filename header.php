@@ -100,7 +100,7 @@
 
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="/products/">Products</a></li>
+                    <li title="Not Available Yet"><a class="hvr-link" href="/products/" style="pointer-events: none">Products</a></li>
                     <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
@@ -183,7 +183,7 @@
                         <li><a class="hvr-link" data-dismiss="modal" aria-label="Close" data-toggle="modal" data-target=".termed">Terms and Conditions</a></li>
                       </ul>
                     </li>
-                    <li><a class="hvr-link" href="/products/">Products</a></li>
+                    <li title="Not Available Yet"><a class="hvr-link" href="/products/" style="pointer-events: none">Products</a></li>
                     <li><a class="hvr-link" href="<?php echo $root; ?>/projects.php">Projects</a>
                       <!--<ul>
                         <li><a class="hvr-link" href="projects.php">Project</a></li>
