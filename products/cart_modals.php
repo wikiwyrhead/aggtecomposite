@@ -158,6 +158,11 @@ function chbx2() {
                                     <input type="checkbox" name="check[]" value="Decking" id="id2" onclick="chbx1()" /> Decking
                                     <input type="checkbox" name="check[]" value="Other" id="id3" onclick="chbx2()" /> Other
                                     <br><br>
+                                    <input id="cladArea" type="number" placeholder="Enter Cladding Total Area (Square Meters)" class="form-control" name="claddingArea"/>
+                                    <input id="cladPerim" type="number" placeholder="Enter Cladding Total Perimeter (Meters)" class="form-control" name="claddingPerim"/>
+                                    <input id="deckArea" type="number" placeholder="Enter Decking Total Area (Square Meters)" class="form-control" name="deckingArea"/>
+                                    <input id="deckPerim" type="number" placeholder="Enter Decking Total Perimerter (Meters)" class="form-control" name="deckingPerim"/>
+                                    <br><br>
                                     <label for="fileInput">Project Plan (Optional): </label><br>
                                     <div id="dynamic_field"></div><br><br>
                                     <a href="#dynamic_field" id="addFile" class="add">Add File <b>(.pdf, .jpg, .png files only)</b></a><br><br><br>
@@ -173,7 +178,30 @@ function chbx2() {
     </div>
 <!--product quotation modal-->
 <?php include 'includes/scripts.php'; ?>
+
 <script>
+// Decking & Cladding Area Input
+$('#cladArea').hide();
+$('#cladPerim').hide();
+$('#id1').click(function() {
+  $('#cladArea')[this.checked ? "show" : "hide"]();
+  $('#cladPerim')[this.checked ? "show" : "hide"]();
+});
+
+$('#deckArea').hide();
+$('#deckPerim').hide();
+$('#id2').click(function() {
+  $('#deckArea')[this.checked ? "show" : "hide"]();
+  $('#deckPerim')[this.checked ? "show" : "hide"]();
+});
+
+$('#id3').click(function() {
+  $('#cladArea').hide();
+  $('#cladPerim').hide();
+  $('#deckArea').hide();
+  $('#deckPerim').hide();
+});
+
 var total = 0;
 $(function(){
 	$(document).on('click', '.cart_delete', function(e){

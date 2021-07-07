@@ -8,7 +8,10 @@
    
     //array initializations
     $checkArray = array();
-
+    $claddingArea = $_POST['claddingArea'];
+    $deckingArea = $_POST['deckingArea'];
+    $claddingPerim = $_POST['claddingPerim'];
+    $deckingPerim = $_POST['deckingPerim'];
     $mainMessage = $_POST['rq-message'];
     $to = "webdev@aggtedeck.com";
     $clientName = $_POST['clientName'];
@@ -26,7 +29,15 @@
     $message .= "\nInstallation type(s): \n";
     while ($countKey != 0) {
         $countKey--;
-        $message .= $checkArray[$countKey]."\n";
+        if($checkArray[$countKey] == "Decking"){
+            $message .= $checkArray[$countKey].": (Decking Total Area: $deckingArea"."sqm) (Decking Total Perimeter: $deckingPerim"."m)\n";
+        }
+        else if($checkArray[$countKey] == "Cladding"){
+            $message .= $checkArray[$countKey].": (Cladding Total Area: $claddingArea"."sqm) (Cladding Total Perimeter: $claddingPerim"."m)\n";
+        }
+        else {
+            $message .= $checkArray[$countKey]."\n";
+        }
     }
     $message .= "\nMaterials for Quotation: \n";
     $cartArr = 0;
